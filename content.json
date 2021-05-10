@@ -31,5 +31,22 @@
 		"order": "0",
 		"categories": [],
 		"tags": []
+	},
+
+	"security/releases/t8/t8-001_20210121": {
+		"title": "Release: T8(001)_20210121",
+		"subtitle": "Type: SMR, SPL Feb 2021",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001_20210121",
+		"type": "doc",
+		"published": "true",
+		"parent": "",
+		"topic": "",
+		"order": "0",
+		"categories": [],
+		"tags": []
 	}
 }
