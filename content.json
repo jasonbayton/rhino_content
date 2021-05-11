@@ -43,8 +43,8 @@
 		"url": "/security/releases/t8/t8-001_20210121",
 		"type": "doc",
 		"published": "true",
-		"parent": "T8",
-		"topic": "",
+		"parent": "Releases",
+		"topic": "T8",
 		"order": "0",
 		"categories": [],
 		"tags": []
