@@ -1,7 +1,7 @@
 {
 	"document_root": {
 		"title": "Home",
-		"subtitle": "The best Android Enterprise resource globally",
+		"subtitle": "Rhino Mobility Security site",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2019-11-10",
@@ -11,9 +11,7 @@
 		"published": "private",
 		"parent": "",
 		"topic": "",
-		"order": "0",
-		"categories": [],
-		"tags": []
+		"order": "0"
 	},
 
 	"404": {
@@ -28,26 +26,7 @@
 		"published": "private",
 		"parent": "",
 		"topic": "",
-		"order": "0",
-		"categories": [],
-		"tags": []
-	},
-
-	"security/releases/t8/t8-001_20210121": {
-		"title": "Release: T8(001)_20210121",
-		"subtitle": "Type: SMR, SPL Feb 2021",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-21",
-		"updated": "",
-		"url": "/security/releases/t8/t8-001_20210121",
-		"type": "doc",
-		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
-		"order": "0",
-		"categories": [],
-		"tags": []
+		"order": "0"
 	},
 
 	"security": {
@@ -61,14 +40,8 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "",
-		"parentID": "Security",
-		"childTopics": [
-			"Releases"
-		],
 		"topic": "",
-		"order": "0",
-		"categories": [],
-		"tags": []
+		"order": "0"
 	},
 
 	"security/releases": {
@@ -92,25 +65,36 @@
 			"K27p"
 		],
 		"topic": "",
-		"order": "0",
-		"categories": [],
-		"tags": []
+		"order": "0"
 	},
 
-	"security/releases/t8": {
-		"title": "T8 software releases",
+	"security/releases/t8/t8-001_20210121": {
+		"title": "Release: T8(001)_20210121",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-01-21",
 		"updated": "",
-		"url": "/security/releases/t8",
+		"url": "/security/releases/t8/t8-001_20210121",
 		"type": "doc",
 		"published": "true",
 		"parent": "Releases",
 		"topic": "T8",
-		"order": "0",
-		"categories": [],
-		"tags": []
-	}
+		"order": "0"
+	},
+
+	"security/releases/t8/t8-001_20201127": {
+		"title": "Release: T8(001)_20201127",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001_20201127",
+		"type": "doc",
+		"published": "true",
+		"parent": "Releases",
+		"topic": "T8",
+		"order": "0"
+	},
 }
