@@ -44,7 +44,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "T8",
-		"topic": "Releases",
+		"topic": "",
 		"order": "0",
 		"categories": [],
 		"tags": []
@@ -92,6 +92,23 @@
 			"K27p"
 		],
 		"topic": "",
+		"order": "0",
+		"categories": [],
+		"tags": []
+	},
+
+	"security/releases/t8": {
+		"title": "T8 software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8",
+		"type": "doc",
+		"published": "true",
+		"parent": "Releases",
+		"topic": "T8",
 		"order": "0",
 		"categories": [],
 		"tags": []
