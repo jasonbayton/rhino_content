@@ -41,12 +41,15 @@
 		"published": "true",
 		"parent": "",
 		"parentID": "Security",
+		"childTopics": [
+			"Releases"
+		],
 		"topic": "",
 		"order": "0"
 	},
 
 	"security/releases": {
-		"title": "Rhino security",
+		"title": "Rhino software releases",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
