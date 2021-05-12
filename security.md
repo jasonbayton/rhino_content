@@ -20,11 +20,11 @@ Occasionally, maintenance releases will be required. These include changes outsi
 
 The following table outlines each available Rhino device and pertinent information relating to support.
 <div id="support_table" markdown="1">
-| **Model** | **SKU** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** | **Ext. SMR EOS** |
-|-----------|---------|--------|-------------|-----------|-------------|------------------|
-| T8        | Global  | 9      | 10          | June 2023 | June 2023   | June 2025        |
-| C10       | Global  | 9      | 10          | June 2023 | June 2023   | June 2025        |
-| M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2023   | Sept 2025        |
+| **Model** | **SKU** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** |
+|-----------|---------|--------|-------------|-----------|-------------|
+| T8        | Global  | 9      | 10          | June 2023 | June 2023   |
+| C10       | Global  | 9      | 10          | June 2023 | June 2023   |
+| M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2025   |
 </div>
 
 EOA - End of availability (manufacture)  
