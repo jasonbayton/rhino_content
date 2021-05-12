@@ -39,7 +39,7 @@
 		"url": "/security",
 		"type": "doc",
 		"published": "true",
-		"parent": "",
+		"parent": "Security",
 		"parentID": "Security",
 		"childTopics": [
 			"Releases"
