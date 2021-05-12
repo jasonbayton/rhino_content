@@ -19,13 +19,13 @@ Occasionally, maintenance releases will be required. These include changes outsi
 ## Android security update support
 
 The following table outlines each available Rhino device and pertinent information relating to support.
-<div id="support-table">
+
 | **Model** | **SKU** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** | **Ext. SMR EOS** |
-|-----------|---------|--------|-------------|-----------|-------------|----------------------|
-| T8        | Global  | 9      | 10          | June 2023 | June 2023   | June 2025            |
-| C10       | Global  | 9      | 10          | June 2023 | June 2023   | June 2025            |
-| M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2023   | Sept 2025            |
-</div>
+|-----------|---------|--------|-------------|-----------|-------------|------------------|
+| T8        | Global  | 9      | 10          | June 2023 | June 2023   | June 2025        |
+| C10       | Global  | 9      | 10          | June 2023 | June 2023   | June 2025        |
+| M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2023   | Sept 2025        |
+
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
 Ext. SMR EOS - For Rhino Protect customers
