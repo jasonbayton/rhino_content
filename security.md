@@ -25,10 +25,10 @@ The following table outlines each available Rhino device and pertinent informati
 | T8        | Global  | 9      | 10          | June 2023 | June 2023   |
 | C10       | Global  | 9      | 10          | June 2023 | June 2023   |
 | M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2025   |
-</div>
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
+</div>
 
 ## Disclosing vulnerabilities
 
