@@ -29,7 +29,6 @@ The following table outlines each available Rhino device and pertinent informati
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
-Ext. SMR EOS - For Rhino Protect customers
 
 ## Disclosing vulnerabilities
 
