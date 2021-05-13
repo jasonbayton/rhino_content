@@ -40,6 +40,7 @@
 		"type": "doc_parent",
 		"published": "true",
 		"parent": "",
+		"is_parent": "true",
 		"parentID": "Security",
 		"childTopics": [
 			"Releases"
@@ -59,7 +60,7 @@
 		"type": "doc_parent",
 		"published": "true",
 		"parent": "Security",
-		"parentID": "none",
+		"parentID": "",
 		"topic": "",
 		"order": "0"
 	},
@@ -75,6 +76,7 @@
 		"type": "doc_parent",
 		"published": "true",
 		"parent": "Security",
+		"is_parent": "true",
 		"parentID": "Releases",
 		"childTopics": [
 			"T5se",
