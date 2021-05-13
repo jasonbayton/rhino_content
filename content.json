@@ -130,5 +130,20 @@
 		"parent": "Releases",
 		"topic": "T8",
 		"order": "0"
+	},
+
+	"security/releases/t8-001_20201017": {
+		"title": "Release: T8(001)_20201017",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2020-08-07",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001_20201017",
+		"type": "doc",
+		"published": "true",
+		"parent": "Releases",
+		"topic": "T8",
+		"order": "0"
 	}
 }
