@@ -48,6 +48,22 @@
 		"order": "0"
 	},
 
+	"security/vulnerability-disclosure": {
+		"title": "Vulnerability disclosure",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/vulnerability-disclosure",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Security",
+		"parentID": "",
+		"topic": "",
+		"order": "0"
+	},
+
 	"security/releases": {
 		"title": "Rhino software releases",
 		"subtitle": "",
