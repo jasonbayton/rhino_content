@@ -40,7 +40,7 @@
 		"type": "doc_parent",
 		"published": "true",
 		"parent": "",
-		"is_parent": "true",
+		"isparent": "true",
 		"parentID": "Security",
 		"childTopics": [
 			"Releases"
