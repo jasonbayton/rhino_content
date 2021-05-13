@@ -98,8 +98,8 @@
 		"url": "/security/releases/t8/t8-001_20210121",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -113,8 +113,8 @@
 		"url": "/security/releases/t8/t8-001_20201127",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	}
 }
