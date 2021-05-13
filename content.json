@@ -172,8 +172,8 @@
 		"url": "/security/releases/c10/c10-001_20201022",
 		"type": "doc",
 		"published": "true",
-		"parent": "C10",
-		"topic": "Releases",
+		"parent": "Releases",
+		"topic": "C10",
 		"order": "0"
 	},
 
