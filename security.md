@@ -1,12 +1,14 @@
+## Overview
+
 As part of our commitment to the security and longevity of our portfolio, Rhino devices benefit from software updates throughout the lifetime of each model. Updates are provided in two ways:
 
-## Android version upgrades
+### Android version upgrades
 
 All Rhino devices are guaranteed a minimum of one Android version upgrade from the date of launch. For Global SKU devices, upgrades are rolled out in stages across all devices from our central OTA servers. For Private SKU customers, upgrades are made available on an agreed-upon basis, or shortly following Global SKU rollout if no agreements are in place.
 
 As Rhino is made for extended support and availability, new Android version upgrades may be undertaken during the period of hardware availability. This may be due to demand, customer agreement, or otherwise. If your organisation leverages Rhino and desires a version upgrade, reach out to [sales](mailto:sales@socialmobile.com).
 
-## Android security updates & maintenance releases
+### Android security updates & maintenance releases
 
 **All Rhino devices benefit from security updates within 90 days of release from Google, normally sooner, for 3-5 years, model-depending.**
 
