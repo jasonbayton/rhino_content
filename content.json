@@ -72,23 +72,7 @@
 		"order": "0"
 	},
 
-	"security/releases/t8": {
-		"title": "Rhino T8 software releases",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-21",
-		"updated": "",
-		"url": "/security/releases/t8",
-		"type": "doc",
-		"published": "true",
-		"parent": "Releases",
-		"parentID": "T8",
-		"topic": "",
-		"order": "0"
-	},
-
-	"security/releases/t8/t8-001_20210121": {
+	"security/releases/t8-001_20210121": {
 		"title": "Release: T8(001)_20210121",
 		"subtitle": "",
 		"featuredImage": "",
@@ -98,12 +82,12 @@
 		"url": "/security/releases/t8/t8-001_20210121",
 		"type": "doc",
 		"published": "true",
-		"parent": "T8",
-		"topic": "",
+		"parent": "Releases",
+		"topic": "T8",
 		"order": "0"
 	},
 
-	"security/releases/t8/t8-001_20201127": {
+	"security/releases/t8-001_20201127": {
 		"title": "Release: T8(001)_20201127",
 		"subtitle": "",
 		"featuredImage": "",
@@ -113,8 +97,8 @@
 		"url": "/security/releases/t8/t8-001_20201127",
 		"type": "doc",
 		"published": "true",
-		"parent": "T8",
-		"topic": "",
+		"parent": "Releases",
+		"topic": "T8",
 		"order": "0"
 	}
 }
