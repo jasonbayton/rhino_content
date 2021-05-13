@@ -115,5 +115,20 @@
 		"parent": "Releases",
 		"topic": "T8",
 		"order": "0"
+	},
+
+	"security/releases/t8-001ce_20200807": {
+		"title": "Release: T8(001CE)_20200807",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2020-08-07",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001ce_20200807",
+		"type": "doc",
+		"published": "true",
+		"parent": "Releases",
+		"topic": "T8",
+		"order": "0"
 	}
 }
