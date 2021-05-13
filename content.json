@@ -160,5 +160,35 @@
 		"parent": "Releases",
 		"topic": "T8",
 		"order": "0"
+	},
+
+	"security/releases/c10/c10-001_20201022": {
+		"title": "Release: C10(001)_20201022",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2020-10-22",
+		"updated": "",
+		"url": "/security/releases/c10/c10-001_20201022",
+		"type": "doc",
+		"published": "true",
+		"parent": "Releases",
+		"topic": "C10",
+		"order": "0"
+	},
+
+	"security/releases/c10/c10-001_20210129": {
+		"title": "Release: C10(001)_20210129",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-29",
+		"updated": "",
+		"url": "/security/releases/c10/c10-001_20210129",
+		"type": "doc",
+		"published": "true",
+		"parent": "Releases",
+		"topic": "C10",
+		"order": "0"
 	}
 }
