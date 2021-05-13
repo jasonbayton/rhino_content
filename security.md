@@ -24,9 +24,11 @@ The following table outlines each available Rhino device and pertinent informati
 <div id="support_table" markdown="1">
 | **Model** | **SKU** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** |
 |-----------|---------|--------|-------------|-----------|-------------|
+| T5se      | Global  | 11     | 12          | TBD       | TBD         |
 | T8        | Global  | 9      | 10          | June 2023 | June 2023   |
 | C10       | Global  | 9      | 10          | June 2023 | June 2023   |
 | M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2025   |
+| K27p      | Global  | 10     | 11          | TBD       | TBD         |
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
@@ -34,12 +36,4 @@ SMR EOS - Expected end of security update releases
 
 ## Disclosing vulnerabilities
 
-Should you find a security issue with a Rhino device, please reach out to [security@rhinomobility.com](security@rhinomobility.com) for a prompt reply. The Rhino team appreciates and encourages responsible disclosure, and associated fixes released in updates will be credited accordingly.
-
-When reaching out, please provide:
-- Name and (optionally) organisation
-- Model, software build number, and Android version
-- A detailed description, with or without POC
-- Any additional feedback, as desired
-
-Should the issue fall to a partner component, such as printer, scanner, or other integrated component, we welcome your report all the same.
+For details on disclosing vulnerabilities to the Rhino team, [click here](/security/vulnerability-disclosure).
