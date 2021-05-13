@@ -90,6 +90,40 @@
 		"order": "0"
 	},
 
+	"security/releases/t8": {
+		"title": "Rhino software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/t8",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"is_parent": "true",
+		"parentID": "Releases",
+		"topic": "",
+		"order": "0"
+	},
+
+	"security/releases/c10": {
+		"title": "Rhino software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/t8",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"is_parent": "true",
+		"parentID": "Releases",
+		"topic": "",
+		"order": "0"
+	},
+
 	"security/releases/t8/t8-001_20210121": {
 		"title": "Release: T8(001)_20210121",
 		"subtitle": "",
@@ -100,8 +134,8 @@
 		"url": "/security/releases/t8/t8-001_20210121",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -115,8 +149,8 @@
 		"url": "/security/releases/t8/t8-001_20201127",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -130,8 +164,8 @@
 		"url": "/security/releases/t8/t8-001ce_20201127",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -145,8 +179,8 @@
 		"url": "/security/releases/t8/t8-001ce_20200807",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -160,8 +194,8 @@
 		"url": "/security/releases/t8/t8-001_20201017",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -175,8 +209,8 @@
 		"url": "/security/releases/t8/t8-001_20201010",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "T8",
+		"parent": "T8",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -190,8 +224,8 @@
 		"url": "/security/releases/c10/c10-001_20201022",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "C10",
+		"parent": "C10",
+		"topic": "",
 		"order": "0"
 	},
 
@@ -205,8 +239,8 @@
 		"url": "/security/releases/c10/c10-001_20210129",
 		"type": "doc",
 		"published": "true",
-		"parent": "Releases",
-		"topic": "C10",
+		"parent": "C10",
+		"topic": "",
 		"order": "0"
 	}
 }
