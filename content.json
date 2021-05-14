@@ -29,6 +29,23 @@
 		"order": "0"
 	},
 
+	"support": {
+		"title": "Rhino Support",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/support",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "",
+		"is_parent": "true",
+		"parentID": "Support",
+		"topic": "",
+		"order": "0"
+	},
+
 	"security": {
 		"title": "Rhino security",
 		"subtitle": "",
