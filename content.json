@@ -90,7 +90,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases",
-		"type": "doc_parent",
+		"type": "grid",
 		"published": "true",
 		"parent": "Security",
 		"is_parent": "true",
@@ -108,7 +108,7 @@
 	},
 
 	"security/releases/t8": {
-		"title": "Rhino software releases",
+		"title": "T8 Software Releases",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -119,13 +119,13 @@
 		"published": "true",
 		"parent": "Releases",
 		"is_parent": "true",
-		"parentID": "Releases",
+		"parentID": "T8",
 		"topic": "",
 		"order": "0"
 	},
 
 	"security/releases/c10": {
-		"title": "Rhino software releases",
+		"title": "C10 software releases",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -136,7 +136,7 @@
 		"published": "true",
 		"parent": "Releases",
 		"is_parent": "true",
-		"parentID": "Releases",
+		"parentID": "C10",
 		"topic": "",
 		"order": "0"
 	},
