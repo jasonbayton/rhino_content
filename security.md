@@ -22,13 +22,16 @@ Occasionally, maintenance releases will be required. These include changes outsi
 
 The following table outlines each available Rhino device and pertinent information relating to support.
 <div id="support_table" markdown="1">
-| **Model** | **SKU** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** |
-|-----------|---------|--------|-------------|-----------|-------------|
-| T5se      | Global  | 11     | 12          | TBD       | TBD         |
-| T8        | Global  | 9      | 10          | June 2023 | June 2023   |
-| C10       | Global  | 9      | 10          | June 2023 | June 2023   |
-| M10p      | Global  | 10     | 11          | Sept 2023 | Sept 2025   |
-| K27p      | Global  | 10     | 11          | TBD       | TBD         |
+| **Model** | **SKU** | **Launch** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** |
+|-----------|---------|------------|--------|-------------|-----------|-------------|
+| DS        | Multi   | TBD        | 11     | 12          | TBD       | TBD         |
+| T5se      | Global  | 2021       | 11     | 12          | TBD       | TBD         |
+| R6        | Global  | 2022       | 11     | 12          | TBD       | TBD         |
+| T6p       | Global  | TBD        | 11     | 12          | TBD       | TBD         |
+| T8        | Global  | Aug '20    | 9      | 10          | June 2023 | June 2023   |
+| C10       | Global  | Aug '20    | 9      | 10          | June 2023 | June 2023   |
+| M10p      | Global  | Sep '20    | 10     | 11          | Sept 2023 | Sept 2025   |
+| K27p      | Global  | TBD        | 10     | 11          | TBD       | TBD         |
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
