@@ -255,36 +255,6 @@
 		"order": "0"
 	},
 
-	"security/hardware-lifecycle": {
-		"title": "Hardware Lifecycle",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/security/hardware-lifecycle",
-		"type": "doc",
-		"published": "true",
-		"parent": "Security",
-		"topic": "",
-		"order": "0"
-	},
-
-	"security/vuln-management": {
-		"title": "Vulnerability Management",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/security/vuln-management",
-		"type": "doc",
-		"published": "true",
-		"parent": "Security",
-		"topic": "",
-		"order": "0"
-	},
-
 	"security/releases/t8": {
 		"title": "T8 Software Releases",
 		"subtitle": "",
