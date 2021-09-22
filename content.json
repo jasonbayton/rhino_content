@@ -170,7 +170,7 @@
 		"published": "true",
 		"parent": "Security",
 		"parentID": "Security",
-		"topic": "Vulnerability Disclosure",
+		"topic": "Vulnerability Management",
 		"order": "0"
 	},
 
@@ -398,7 +398,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "T8",
-		"topic": "",
+		"topic": "T8 Releases",
 		"order": "0"
 	},
 
@@ -413,7 +413,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "T8",
-		"topic": "",
+		"topic": "T8 Releases",
 		"order": "0"
 	},
 
@@ -428,7 +428,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "T8",
-		"topic": "",
+		"topic": "T8 Releases",
 		"order": "0"
 	},
 
@@ -443,7 +443,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "C10",
-		"topic": "",
+		"topic": "C10 Releases",
 		"order": "0"
 	},
 
@@ -458,7 +458,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "C10",
-		"topic": "",
+		"topic": "C10 Releases",
 		"order": "0"
 	}
 }
