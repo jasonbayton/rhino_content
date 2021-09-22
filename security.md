@@ -28,7 +28,7 @@ The following table outlines each available Rhino device and pertinent informati
 | T5se      | Global  | 2021       | 11     | 12          | TBD       | TBD         |
 | R6        | Global  | 2022       | 11     | 12          | TBD       | TBD         |
 | T6p       | Global  | TBD        | 11     | 12          | TBD       | TBD         |
-| T8        | Global  | Aug '20    | 9      | 10          | June 2023 | June 2023   |
+| T8        | Global  | August 2020    | 9      | 10          | June 2023 | June 2023   |
 | C10       | Global  | Aug '20    | 9      | 10          | June 2023 | June 2023   |
 | M10p      | Global  | Sep '20    | 10     | 11          | Sept 2023 | Sept 2025   |
 | K27p      | Global  | TBD        | 10     | 11          | TBD       | TBD         |
