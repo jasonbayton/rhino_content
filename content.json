@@ -214,7 +214,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Security",
-		"parentID": "Vuln Management",
+		"parentID": "Vulnerability Management",
 		"topic": "",
 		"order": "0"
 	},
@@ -247,7 +247,87 @@
 		"published": "true",
 		"parent": "Releases",
 		"parentID": "C10",
-		"topic": "C10 Releases",
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+	
+	"security/releases/m10p": {
+		"title": "M10p software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/m10p",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"parentID": "M10p",
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+
+	"security/releases/t5se": {
+		"title": "T5se software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/t5se",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"parentID": "T5se",
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+	
+	"security/releases/r6": {
+		"title": "R6 software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/r6",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"parentID": "R6",
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+	
+	"security/releases/t6p": {
+		"title": "T6p software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/t6p",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"parentID": "T6p",
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+	
+	"security/releases/ds": {
+		"title": "DS software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/ds",
+		"type": "doc_parent",
+		"published": "true",
+		"parent": "Releases",
+		"parentID": "DS",
+		"topic": "Rhino Software Releases",
 		"order": "0"
 	},
 
