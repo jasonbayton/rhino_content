@@ -485,5 +485,20 @@
 		"parent": "C10",
 		"topic": "C10 Releases",
 		"order": "0"
+	},
+	
+	"security/releases/c10/c10-001_20210617": {
+		"title": "Release: C10(001)_20210617",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-29",
+		"updated": "",
+		"url": "/security/releases/c10/c10-001_20210617",
+		"type": "doc",
+		"published": "true",
+		"parent": "C10",
+		"topic": "C10 Releases",
+		"order": "0"
 	}
 }
