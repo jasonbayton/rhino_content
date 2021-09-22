@@ -227,7 +227,6 @@
 		"type": "doc_parent",
 		"published": "true",
 		"parent": "Security",
-		"parentID": "Security",
 		"topic": "Vulnerability Management",
 		"order": "0"
 	},
@@ -267,7 +266,6 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Security",
-		"parentID": "Hardware Lifecycle",
 		"topic": "",
 		"order": "0"
 	},
@@ -283,7 +281,6 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Security",
-		"parentID": "Vulnerability Management",
 		"topic": "",
 		"order": "0"
 	},
