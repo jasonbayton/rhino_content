@@ -35,6 +35,7 @@ The following table outlines each available Rhino device and pertinent informati
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
+
 **NB**: EOA/EOS referenced is _expected_ and may be extended subject to availability of components, vendor support, or customer engagement.  
 </div>
 
