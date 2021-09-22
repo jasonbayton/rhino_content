@@ -57,12 +57,15 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
-		"parentID": "Support",
-		"topic": "Maintenance",
+		"topic": "General",
 		"order": "0",
 		"appliesTo": [
 			"C10",
-			"T8"
+			"T8",
+			"M10p",
+			"DS",
+			"T6p",
+			"R6"
 		]
 	},
 
@@ -77,24 +80,27 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
-		"parentID": "Support",
-		"topic": "Maintenance",
+		"topic": "General",
 		"order": "0",
 		"appliesTo": [
 			"C10",
-			"T8"
+			"T8",
+			"M10p",
+			"DS",
+			"T6p",
+			"R6"
 		]
 	},
 
 
 	"support/changing-theme": {
-		"title": "Changing Device Theme",
+		"title": "Change Device Theme",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-01-01",
 		"updated": "",
-		"url": "/support/factory-reset",
+		"url": "/support/changing-theme",
 		"type": "doc",
 		"published": "true",
 		"parent": "false",
@@ -107,19 +113,19 @@
 		]
 	},
 
-	"support/change-background": {
-		"title": "Changing Device Background",
+	"support/change-wallpaper": {
+		"title": "Change Device Wallpaper",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-01-01",
 		"updated": "",
-		"url": "/support/reset-network-settings",
+		"url": "/support/change-wallpaper",
 		"type": "doc",
 		"published": "true",
 		"parent": "false",
 		"parentID": "Support",
-		"topic": "Customization",
+		"topic": "Customisation",
 		"order": "0",
 		"appliesTo": [
 			"C10",
