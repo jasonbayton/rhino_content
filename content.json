@@ -42,6 +42,11 @@
 		"parent": "",
 		"is_parent": "true",
 		"parentID": "Support",
+		"childTopics": [
+			"General",
+			"Customisation",
+			"Maintenance"
+		],
 		"topic": "",
 		"order": "0"
 	},
