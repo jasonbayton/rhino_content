@@ -28,13 +28,14 @@ The following table outlines each available Rhino device and pertinent informati
 | T5se      | Global  | 2021       | 11     | 12          | TBD       | TBD         |
 | R6        | Global  | 2022       | 11     | 12          | TBD       | TBD         |
 | T6p       | Global  | TBD        | 11     | 12          | TBD       | TBD         |
-| T8        | Global  | Aug 2020   | 9      | 10          | June 2023 | June 2023   |
-| C10       | Global  | Aug 2020   | 9      | 10          | June 2023 | June 2023   |
+| T8        | Global  | Aug 2020   | 9      | 10          | Aug 2023  | Aug 2023    |
+| C10       | Global  | Aug 2020   | 9      | 10          | Aug 2023  | Aug 2023    |
 | M10p      | Global  | Sept 2020  | 10     | 11          | Sept 2023 | Sept 2025   |
 | K27p      | Global  | TBD        | 10     | 11          | TBD       | TBD         |
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
+**NB**: EOA/EOS referenced is _expected_ and may be extended subject to availability of components, vendor support, or customer engagement.  
 </div>
 
 ## Disclosing vulnerabilities
