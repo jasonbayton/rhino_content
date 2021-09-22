@@ -65,7 +65,7 @@
 		"topic": "",
 		"order": "0"
 	},
-	
+
 	"support/c10": {
 		"title": "Rhino C10",
 		"subtitle": "",
@@ -80,7 +80,7 @@
 		"topic": "",
 		"order": "0"
 	},
-	
+
 	"support/m10p": {
 		"title": "Rhino M10p",
 		"subtitle": "",
@@ -95,7 +95,7 @@
 		"topic": "",
 		"order": "0"
 	},
-	
+
 	"support/t5se": {
 		"title": "Rhino T5se",
 		"subtitle": "",
@@ -110,7 +110,7 @@
 		"topic": "",
 		"order": "0"
 	},
-	
+
 	"support/factory-reset": {
 		"title": "Factory Reset your Device",
 		"subtitle": "",
@@ -286,7 +286,7 @@
 		"topic": "Rhino Software Releases",
 		"order": "0"
 	},
-	
+
 	"security/releases/m10p": {
 		"title": "M10p software releases",
 		"subtitle": "",
@@ -318,7 +318,7 @@
 		"topic": "Rhino Software Releases",
 		"order": "0"
 	},
-	
+
 	"security/releases/r6": {
 		"title": "R6 software releases",
 		"subtitle": "",
@@ -334,7 +334,7 @@
 		"topic": "Rhino Software Releases",
 		"order": "0"
 	},
-	
+
 	"security/releases/t6p": {
 		"title": "T6p software releases",
 		"subtitle": "",
@@ -350,7 +350,7 @@
 		"topic": "Rhino Software Releases",
 		"order": "0"
 	},
-	
+
 	"security/releases/ds": {
 		"title": "DS software releases",
 		"subtitle": "",
@@ -457,6 +457,66 @@
 		"order": "0"
 	},
 
+	"security/releases/t8/t8-001ce_20210715": {
+		"title": "Release: T8(001CE)_20210715",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001ce_20210715",
+		"type": "doc",
+		"published": "true",
+		"parent": "T8",
+		"topic": "T8 Releases",
+		"order": "0"
+	},
+
+	"security/releases/t8/t8-001_20210806": {
+		"title": "Release: T8(001)_20210806",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001_20210806",
+		"type": "doc",
+		"published": "true",
+		"parent": "T8",
+		"topic": "T8 Releases",
+		"order": "0"
+	},
+
+	"security/releases/t8/t8-001_20210709": {
+		"title": "Release: T8(001)_20210709",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001_20210709",
+		"type": "doc",
+		"published": "true",
+		"parent": "T8",
+		"topic": "T8 Releases",
+		"order": "0"
+	},
+
+	"security/releases/t8/t8-001_20210605": {
+		"title": "Release: T8(001)_20210605",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-21",
+		"updated": "",
+		"url": "/security/releases/t8/t8-001_20210605",
+		"type": "doc",
+		"published": "true",
+		"parent": "T8",
+		"topic": "T8 Releases",
+		"order": "0"
+	},
+
 	"security/releases/c10/c10-001_20201022": {
 		"title": "Release: C10(001)_20201022",
 		"subtitle": "",
@@ -486,7 +546,7 @@
 		"topic": "C10 Releases",
 		"order": "0"
 	},
-	
+
 	"security/releases/c10/c10-001_20210617": {
 		"title": "Release: C10(001)_20210617",
 		"subtitle": "",
