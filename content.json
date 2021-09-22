@@ -575,5 +575,65 @@
 		"parent": "C10",
 		"topic": "C10 Releases",
 		"order": "0"
+	},
+
+	"security/releases/m10p/m10p-001_20210129": {
+		"title": "Release: M10P(001)_20210129",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-29",
+		"updated": "",
+		"url": "/security/releases/m10p/m10p-001_20210129",
+		"type": "doc",
+		"published": "true",
+		"parent": "M10p",
+		"topic": "M10p Releases",
+		"order": "0"
+	},
+
+	"security/releases/m10p/m10p-001_20210318": {
+		"title": "Release: M10P(001)_20210318",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-03-18",
+		"updated": "",
+		"url": "/security/releases/m10p/m10p-001_20210318",
+		"type": "doc",
+		"published": "true",
+		"parent": "M10p",
+		"topic": "M10p Releases",
+		"order": "0"
+	},
+
+	"security/releases/m10p/m10p-001_20210426": {
+		"title": "Release: M10P(001)_20210426",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-04-26",
+		"updated": "",
+		"url": "/security/releases/m10p/m10p-001_20210426",
+		"type": "doc",
+		"published": "true",
+		"parent": "M10p",
+		"topic": "M10p Releases",
+		"order": "0"
+	},
+
+	"security/releases/m10p/m10p-001_20210608": {
+		"title": "Release: M10P(001)_20210608",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-06-08",
+		"updated": "",
+		"url": "/security/releases/m10p/m10p-001_20210608",
+		"type": "doc",
+		"published": "true",
+		"parent": "M10p",
+		"topic": "M10p Releases",
+		"order": "0"
 	}
 }
