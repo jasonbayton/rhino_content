@@ -173,7 +173,11 @@
 		"order": "0",
 		"appliesTo": [
 			"C10",
-			"T8"
+			"T8",
+			"M10p",
+			"DS",
+			"T6p",
+			"R6"
 		]
 	},
 
@@ -192,7 +196,34 @@
 		"order": "0",
 		"appliesTo": [
 			"C10",
-			"T8"
+			"T8",
+			"M10p",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
+	"support/escalate": {
+		"title": "Escalate to Rhino Support",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-22",
+		"updated": "",
+		"url": "/support/escalate",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Advanced",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"M10p",
+			"DS",
+			"T6p",
+			"R6"
 		]
 	},
 
