@@ -168,8 +168,7 @@
 		"url": "/support/changing-theme",
 		"type": "doc",
 		"published": "true",
-		"parent": "false",
-		"parentID": "Support",
+		"parent": "Support",
 		"topic": "Customisation",
 		"order": "0",
 		"appliesTo": [
@@ -188,8 +187,7 @@
 		"url": "/support/change-wallpaper",
 		"type": "doc",
 		"published": "true",
-		"parent": "false",
-		"parentID": "Support",
+		"parent": "Support",
 		"topic": "Customisation",
 		"order": "0",
 		"appliesTo": [
