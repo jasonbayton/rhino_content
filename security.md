@@ -22,16 +22,16 @@ Occasionally, maintenance releases will be required. These include changes outsi
 
 The following table outlines each available Rhino device and pertinent information relating to support.
 <div id="support_table" markdown="1">
-| **Model** | **SKU** | **Launch** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** |
-|-----------|---------|------------|--------|-------------|-----------|-------------|
-| DS        | Multi   | TBD        | 11     | 12          | TBD       | TBD         |
-| T5se      | Global  | 2021       | 11     | 12          | TBD       | TBD         |
-| R6        | Global  | 2022       | 11     | 12          | TBD       | TBD         |
-| T6p       | Global  | TBD        | 11     | 12          | TBD       | TBD         |
-| T8        | Global  | Aug 2020   | 9      | 10          | Aug 2023  | Aug 2023    |
-| C10       | Global  | Aug 2020   | 9      | 10          | Aug 2023  | Aug 2023    |
-| M10p      | Global  | Sept 2020  | 10     | 11          | Sept 2023 | Sept 2025   |
-| K27p      | Global  | TBD        | 10     | 11          | TBD       | TBD         |
+| **Model**                          | **SKU** | **Launch** | **OS** | **Upgrade** | **EOA**   | **SMR EOS** |
+|------------------------------------|---------|------------|--------|-------------|-----------|-------------|
+| [DS](/security/releases/ds)        | Multi   | TBD        | 11     | 12          | TBD       | TBD         |
+| [T5se](/security/releases/t5se)    | Global  | 2021       | 11     | 12          | TBD       | TBD         |
+| [R6](/security/releases/r6)        | Global  | 2022       | 11     | 12          | TBD       | TBD         |
+| [T6p](/security/releases/t6p)      | Global  | TBD        | 11     | 12          | TBD       | TBD         |
+| [T8](/security/releases/t8)        | Global  | Aug 2020   | 9      | 10          | Aug 2023  | Aug 2023    |
+| [C10](/security/releases/c10)      | Global  | Aug 2020   | 9      | 10          | Aug 2023  | Aug 2023    |
+| [M10p](/security/releases/m10p)    | Global  | Sept 2020  | 10     | 11          | Sept 2023 | Sept 2025   |
+| [K27p](/security/releases/k27p)    | Global  | TBD        | 10     | 11          | TBD       | TBD         |
 
 EOA - End of availability (manufacture)  
 SMR EOS - Expected end of security update releases  
