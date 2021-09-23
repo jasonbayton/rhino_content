@@ -233,13 +233,13 @@
 		"topic": "Advanced",
 		"order": "0",
 		"appliesTo": [
-			"C10",
-			"T8",
-			"M10p",
 			"DS",
+			"T5se",
 			"T6p",
 			"R6",
-			"T5se",
+			"T8",
+			"C10",
+			"M10p",
 			"K27p"
 		]
 	},
