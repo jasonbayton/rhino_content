@@ -1,5 +1,3 @@
-# Escalate to Rhino Support
-
 We're sorry to see you have an issue that requires escalation to Rhino support. Before reaching out, please prepare the following information to ensure we can help you as quickly as possible:
 
 1. A detailed description of the issue you're facing
