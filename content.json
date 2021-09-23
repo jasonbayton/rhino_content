@@ -29,6 +29,66 @@
 		"order": "0"
 	},
 
+	"devices/t8": {
+		"title": "Rhino T8",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/t8",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
+	"devices/c10": {
+		"title": "Rhino C10",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/c10",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
+	"devices/m10p": {
+		"title": "Rhino M10p",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/m10p",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
+	"devices/t5se": {
+		"title": "Rhino T5se",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/t5se",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
 	"support": {
 		"title": "Rhino Support",
 		"subtitle": "",
@@ -47,66 +107,6 @@
 			"Customisation",
 			"Maintenance"
 		],
-		"topic": "",
-		"order": "0"
-	},
-
-	"support/t8": {
-		"title": "Rhino T8",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/support/t8",
-		"type": "doc",
-		"published": "true",
-		"parent": "Support",
-		"topic": "",
-		"order": "0"
-	},
-
-	"support/c10": {
-		"title": "Rhino C10",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/support/c10",
-		"type": "doc",
-		"published": "true",
-		"parent": "Support",
-		"topic": "",
-		"order": "0"
-	},
-
-	"support/m10p": {
-		"title": "Rhino M10p",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/support/m10p",
-		"type": "doc",
-		"published": "true",
-		"parent": "Support",
-		"topic": "",
-		"order": "0"
-	},
-
-	"support/t5se": {
-		"title": "Rhino T5se",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/support/t5se",
-		"type": "doc",
-		"published": "true",
-		"parent": "Support",
 		"topic": "",
 		"order": "0"
 	},
