@@ -112,7 +112,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/support",
-		"type": "grid",
+		"type": "doc_parent",
 		"published": "true",
 		"parent": "",
 		"is_parent": "true",
