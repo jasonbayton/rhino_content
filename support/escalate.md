@@ -8,10 +8,9 @@ We're sorry to see you have an issue that requires escalation to Rhino support. 
   1. Android version (9, 10, 11..)
   2. Model name (T8, M10p..)
   3. Build number (software version) - Locate in _Settings > About > Build number_
-  4. Serial number / IMEI
+  4. Serial number/IMEI
 6. Number of devices affected
 7. Period of time this issue has been present
-
 Should you suffer from an obvious hardware issue (dead pixels, unusable ports, etc), please state this clearly when raising an issue with the Rhino support team, as an RMA process will need to be initialised for in-warranty devices.
 
 With all of the information above prepared, please submit a request to [support@rhinomobility.com](mailto:support@rhinomobility.com)
