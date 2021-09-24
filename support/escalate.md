@@ -14,5 +14,5 @@ We're sorry to see you have an issue that requires escalation to Rhino support. 
 
 Should you suffer from an obvious hardware issue (dead pixels, unusable ports, etc), please state this clearly when raising an issue with the Rhino support team, as an RMA process will need to be initialised for in-warranty devices.
 
-With all of the information above prepared, please submit a request to [support@rhinomobility.com](mailto:support@rhinomobility.com)
+With all of the information above prepared, please submit a request to [support@rhinomobility.com](mailto:support@rhinomobility.com)  
 **NB**: Any detail missing may be requested, and will impact time to resolution.
