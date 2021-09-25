@@ -137,7 +137,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
-		"topic": "General",
+		"topic": "Maintenance",
 		"order": "0",
 		"appliesTo": [
 			"C10",
@@ -161,7 +161,7 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
-		"topic": "General",
+		"topic": "Maintenance",
 		"order": "0",
 		"appliesTo": [
 			"C10",
@@ -208,6 +208,31 @@
 		"published": "true",
 		"parent": "Support",
 		"topic": "General",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"T5se",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
+	"support/how-to-check-for-updates": {
+		"title": "How to check for updates",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-25",
+		"updated": "",
+		"url": "/support/how-to-check-for-updates",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Maintenance",
 		"order": "0",
 		"appliesTo": [
 			"C10",
