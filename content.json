@@ -221,6 +221,31 @@
 		]
 	},
 
+	"support/power-on": {
+		"title": "How to power on your Rhino device",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/support/power-on",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "General",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"T5se",
+			"M10p",
+			"K27p",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
 	"support/warranty-information": {
 		"title": "Rhino warranty information",
 		"subtitle": "",
