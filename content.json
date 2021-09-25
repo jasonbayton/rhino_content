@@ -173,30 +173,6 @@
 		]
 	},
 
-
-	"support/changing-theme": {
-		"title": "Change Device Theme",
-		"subtitle": "",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-01-01",
-		"updated": "",
-		"url": "/support/changing-theme",
-		"type": "doc",
-		"published": "true",
-		"parent": "Support",
-		"topic": "Customisation",
-		"order": "0",
-		"appliesTo": [
-			"C10",
-			"T8",
-			"M10p",
-			"DS",
-			"T6p",
-			"R6"
-		]
-	},
-
 	"support/change-wallpaper": {
 		"title": "Change Device Wallpaper",
 		"subtitle": "",
@@ -220,14 +196,14 @@
 		]
 	},
 
-	"support/warranty-status": {
-		"title": "Rhino warranty status",
+	"support/warranty-information": {
+		"title": "Rhino warranty information",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-09-25",
 		"updated": "",
-		"url": "/support/warranty-status",
+		"url": "/support/warranty-information",
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
