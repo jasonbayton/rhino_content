@@ -127,7 +127,7 @@
 	},
 
 	"support/factory-reset": {
-		"title": "Factory Reset your Device",
+		"title": "Factory reset your device",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -150,7 +150,7 @@
 	},
 
 	"support/reset-network-settings": {
-		"title": "Factory Reset your Network Settings",
+		"title": "Reset network settings",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
