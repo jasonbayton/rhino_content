@@ -2,7 +2,7 @@ Factory resetting a device is always recommended before parting ways with it to 
 
 All Rhino devices can be reset in the following way:
 
-1. Go to Settings
+1. Open Settings
   1. Either swipe up from the home screen to display the app drawer, and select settings, or
   2. Swipe down from the notification area and tapp the settings icon present in the notification panel.
 2. Tap System
