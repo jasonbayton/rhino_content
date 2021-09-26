@@ -371,6 +371,31 @@
 		]
 	},
 
+	"support/how-to-unlock-the-bootloader": {
+		"title": "How to unlock the bootloader",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-25",
+		"updated": "",
+		"url": "/support/how-to-unlock-the-bootloader",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Advanced",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"T5se",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
 	"support/how-to-check-for-updates": {
 		"title": "How to check for updates",
 		"subtitle": "",
