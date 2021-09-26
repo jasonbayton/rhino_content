@@ -321,14 +321,39 @@
 		]
 	},
 
-	"support/warranty-information": {
-		"title": "Rhino warranty information",
+	"support/warranty": {
+		"title": "Rhino warranty",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-09-25",
 		"updated": "",
-		"url": "/support/warranty-information",
+		"url": "/support/warranty",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "General",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"T5se",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
+	"support/warranty-statement": {
+		"title": "Rhino warranty statement",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-25",
+		"updated": "",
+		"url": "/support/warranty-statement",
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
