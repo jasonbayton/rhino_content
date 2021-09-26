@@ -18,4 +18,4 @@ For devices purchased through our network of partners, please reach out in the f
 
 ## Legal stuff
 
-For further warranty information, including the legalese, please see the [warranty statement](/support/warranty-statement).
+For further warranty information, including the legalese, please see the [warranty statement](/warranty).

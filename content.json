@@ -346,29 +346,19 @@
 		]
 	},
 
-	"support/warranty-statement": {
+	"warranty": {
 		"title": "Rhino warranty statement",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-09-25",
 		"updated": "",
-		"url": "/support/warranty-statement",
+		"url": "/warranty",
 		"type": "doc",
-		"published": "true",
-		"parent": "Support",
-		"topic": "General",
-		"order": "0",
-		"appliesTo": [
-			"C10",
-			"T8",
-			"K27p",
-			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
-		]
+		"published": "false",
+		"parent": "",
+		"topic": "",
+		"order": "0"
 	},
 
 	"support/how-to-unlock-the-bootloader": {
