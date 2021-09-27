@@ -5,7 +5,7 @@ To check the warranty status of your device, use our [warranty check](/support/w
 ## Warranty FAQ
 
 <details>
-<summary><h3>Does the warranty cover accidental damage?</h3></summary>
+<summary class="summary-heading"><h3>Does the warranty cover accidental damage?</h3></summary>
 
 It does not. The limited warranty covers defects in workmanship and materials only. Water damage, drops, cracked/scratched screens, or other physical damage is not covered by the warranty and can instead be repaired at a service centre for a fee.
 </details>
