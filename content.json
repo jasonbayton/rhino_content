@@ -346,14 +346,14 @@
 		]
 	},
 
-	"warranty": {
+	"/support/warranty-statement": {
 		"title": "Rhino warranty statement",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-09-25",
 		"updated": "",
-		"url": "/warranty",
+		"url": "/support/warranty-statement",
 		"type": "doc",
 		"published": "false",
 		"parent": "",
