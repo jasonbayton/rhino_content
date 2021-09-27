@@ -29,21 +29,6 @@
 		"order": "0"
 	},
 
-	"start": {
-		"title": "Welcome to Rhino",
-		"subtitle": "Let's get you started",
-		"featuredImage": "",
-		"featured": "false",
-		"date": "2021-09-23",
-		"updated": "",
-		"url": "/start",
-		"type": "doc",
-		"published": "true",
-		"parent": "Devices",
-		"topic": "",
-		"order": "0"
-	},
-
 	"devices/t8": {
 		"title": "Rhino T8",
 		"subtitle": "",
