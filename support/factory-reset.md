@@ -5,7 +5,7 @@ All Rhino devices can be reset in the following way:
 <div class="numbered-instructions" markdown="1">
 1. Open Settings
   1. Either swipe up from the home screen to display the app drawer, and select settings, or
-  2. Swipe down from the notification area and tapp the settings icon present in the notification panel.
+  2. Swipe down from the notification area and tap the settings icon present in the notification panel.
 2. Tap System
 3. Tap Reset options
 4. Tap factory reset

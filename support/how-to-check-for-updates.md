@@ -7,7 +7,7 @@ Should you wish to manually check for updates, do as follows:
 <div class="numbered-instructions" markdown="1">
 1. Open Settings
   1. Either swipe up from the home screen to display the app drawer, and select settings, or
-  2. Swipe down from the notification area and tapp the settings icon present in the notification panel.
+  2. Swipe down from the notification area and tap the settings icon present in the notification panel.
 2. Tap System
 3. Tap Check for updates
 4. Follow any prompts provided should an update be available
