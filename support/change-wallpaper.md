@@ -1,6 +1,6 @@
 To change the wallpaper on your Rhino device:
 
-<div class="numbered instructions" markdown="1">
+<div class="numbered-instructions" markdown="1">
 1. Tap & hold on the home screen
 2. Select change wallpaper from the menu prompt
 3. Select a desired wallpaper
