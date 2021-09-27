@@ -4,12 +4,14 @@ Updates, depending on the nature of the changes being provided, may be applied s
 
 Should you wish to manually check for updates, do as follows:
 
+<div class="numbered-instructions" markdown="1">
 1. Open Settings
   1. Either swipe up from the home screen to display the app drawer, and select settings, or
   2. Swipe down from the notification area and tapp the settings icon present in the notification panel.
 2. Tap System
 3. Tap Check for updates
 4. Follow any prompts provided should an update be available
+</div>
 
 You may note an update is already showing as available or in progress. There are multiple reasons an update may be available but not actively downloading, one of them being the device is not considered idle (which if you're checking for updates, would be accurate).
 
