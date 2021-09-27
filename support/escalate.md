@@ -2,7 +2,6 @@ We're sorry to see you have an issue that requires escalation to Rhino support.
 
 Before reaching out, please prepare the following information to ensure we can help you as quickly as possible:
 
-<div class="numbered-instructions" markdown="1">
 - A detailed description of the issue you're facing
 - Detailed steps to replicate the issue (if available)
 - Images or video of the issue (if available)
@@ -14,7 +13,6 @@ Before reaching out, please prepare the following information to ensure we can h
   - Serial number/IMEI
 - Number of devices affected
 - Period of time this issue has been present
-</div>
 
 Should you suffer from an obvious hardware issue (dead pixels, unusable ports, etc), please state this clearly when raising an issue with the Rhino support team, as an RMA process will need to be initialised for in-warranty devices.
 
