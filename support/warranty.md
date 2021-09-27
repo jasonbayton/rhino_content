@@ -4,17 +4,29 @@ To check the warranty status of your device, use our [warranty check](/support/w
 
 ## Warranty FAQ
 
-### Does the warranty cover accidental damage?
+<details>
+<summary><h3>Does the warranty cover accidental damage?</h3></summary>
+
 It does not. The limited warranty covers defects in workmanship and materials only. Water damage, drops, cracked/scratched screens, or other physical damage is not covered by the warranty and can instead be repaired at a service centre for a fee.
+</details>
 
-### The unit does not power on out of the box, is this covered?
+<details>
+<summary><h3>The unit does not power on out of the box, is this covered?</h3></summary>
+
 We'll ask if you've attempted to charge the device prior to contacting us through the supplied or an equivalent supported charger. If not, please do this first and try powering on again. It may help to hold the power button for 30s, then release and hold again for 2-3s to initiate a cold start of the device. If this does not help, then a warranty service would be accepted.
+</details>
 
-### The device doesn't behave as expected under management or with an application, is this covered?
+<details>
+<summary><h3>The device doesn't behave as expected under management or with an application, is this covered?</h3></summary>
+
 Outside of the 30 day return window if purchased direct, software related issues are not covered by the materials and workmanship warranty and would instead be routed to the [Rhino support team](/support/escalate) for assistance.
+</details>
 
-### My device was purchased through a reseller or distributor, where do I raise a warranty issue?
+<details>
+<summary><h3>My device was purchased through a reseller or distributor, where do I raise a warranty issue?</h3></summary>
+
 For devices purchased through our network of partners, please reach out in the first instance to the partner from whom your device was purchased. In a lot of cases our partners have or offer local repair centres and may be included in your purchase agreements.
+</details>
 
 ## Legal stuff
 
