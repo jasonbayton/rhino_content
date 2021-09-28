@@ -28,6 +28,6 @@ Outside of the 30 day return window if purchased direct, software related issues
 For devices purchased through our network of partners, please reach out in the first instance to the partner from whom your device was purchased. In a lot of cases our partners have or offer local repair centres and may be included in your purchase agreements.
 </details>
 
-## Legal stuff
+## Legalese
 
 For further warranty information, including the legalese, please see the [warranty statement](/support/warranty-statement).
