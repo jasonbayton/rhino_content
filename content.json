@@ -396,6 +396,31 @@
 		]
 	},
 
+	"support/device-admin": {
+		"title": "How to check for updates",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-28",
+		"updated": "",
+		"url": "/support/device-admin",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Advanced",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"T5se",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
 	"support/escalate": {
 		"title": "Escalate to Rhino Support",
 		"subtitle": "",
