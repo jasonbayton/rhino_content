@@ -1,6 +1,6 @@
 Device administrator has been deprecated since Android 10, and EMM vendors are gradually moving away from device admin-based management.
 
-See [this blog post from Google](https://www.blog.google/products/android-enterprise/da-migration/) for details.
+See [this blog](https://www.blog.google/products/android-enterprise/da-migration/) and [this blog](https://www.blog.google/products/android-enterprise/why-its-time-enterprises-adopt-androids-modern-device-management-apis/) from Google for details.
 
 ## Does Rhino support device administrator?
 
