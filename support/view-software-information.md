@@ -1,4 +1,4 @@
-To view the software information of your Rhino device, including Android version, build number, baseband version, follow the following:
+To view the software information of your Rhino device, including Android version, build number, baseband version, do the following:
 
 ## Android version
 
