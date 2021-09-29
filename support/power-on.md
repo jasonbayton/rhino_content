@@ -10,7 +10,7 @@ Power on your device by holding the power button on the **right hand side** of t
 
 Power on your device by holding the power button on the **left hand side** of the unit. The button should be pressed for 2-3s in order for it to boot.
 
-## M10p / k27p
+## M10p / K27p
 
 Locate the physical power switch on the back of the unit and switch it to the **on** position. Note there is no battery in this unit, so it **must** be connected to a permanent power source in order for the unit to power on.
 
