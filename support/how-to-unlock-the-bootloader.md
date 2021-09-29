@@ -1,9 +1,13 @@
-Rhino devices ship with a locked bootloader by default. This is a requirement for a Google certified device generally. As an enterprise-targeted device, the unlocking of the bootloader typically possible on consumer devices is not permitted by default on Rhino devices.
+Rhino devices ship with a locked bootloader by default, as is required by Google for a certified Android device. However, as an enterprise-targeted device, the unlocking of the bootloader which is typically possible on consumer-driven devices is not permitted by default on Rhino devices.
 
-In order for a bootloader to be unlocked the user of the device must have an authorisation code provided by the Rhino team after submission of the request via a dedicated, known customer representative or approved partner.
+Instead, Rhino devices leverage additional authentication when attempting to unlock the bootloader. We don't entirely prevent it given there are use cases where unlocking a bootloader may be necessary for self-recovery or enterprise testing purposes, but we do ensure it's not unlocked without first talking to the Rhino team.
 
-This significantly reduces the risk of device tampering, rooting, and the voiding of the Rhino Warranty.
+We have taken this approach to significantly reduce the risk of device tampering, rooting, and the voiding of the Rhino Warranty.
+
+In order for a bootloader to be unlocked, the user of the device must have an authorisation code provided by the Rhino team after submission of the request via a dedicated, known customer representative or approved partner. This could be the named contact registered at the time of ordering direct with Rhino/Social Mobile, or a partner with a reseller/distribution agreement in the region from which the unlock is requested.
 
 We appreciate there may be legitimate use cases where an organisation may desire the bootloader is unlockable, and we encourage customers to get in touch if this is a requirement.
 
-Once approved, the Rhino team will provide the authorisation code for the device(s) in question, and instructions on how to perform the unlock.
+Once approved, the Rhino team will provide the authorisation code(s) for the device(s) in question, and instructions on how to perform the unlock.
+
+For questions or concerns regarding this policy, please [contact support](/support/escalate).
