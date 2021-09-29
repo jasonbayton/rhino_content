@@ -421,6 +421,31 @@
 		]
 	},
 
+	"support/how-to-set-up-rhino-via-dpc-identifier": {
+		"title": "Device admin & Android Enterprise",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-29",
+		"updated": "",
+		"url": "/support/how-to-set-up-rhino-via-dpc-identifier",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Enterprise",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"T5se",
+			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
 	"support/escalate": {
 		"title": "Escalate to Rhino Support",
 		"subtitle": "",
