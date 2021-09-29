@@ -14,4 +14,6 @@ DPC Identifier enrolment allows customers to initiate Android Enterprise managed
 9. Your device is now enrolled and setup is complete
 </div>
 
+<div class="callout callout-info">
 Contact your EMM vendor for the respective DPC identifier.  
+</div>
