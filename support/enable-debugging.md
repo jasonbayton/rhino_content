@@ -31,7 +31,7 @@ After enabling developer mode,
 5. Swipe to USB debugging, and toggle it on
 </div>
 
-It'll now be possible to plug your Rhino device into a computer and undertake various debugging tasks.
+It'll now be possible to plug your Rhino device into a computer and undertake various debugging tasks. When first plugging in, the device will prompt for authorisation. Allow this.
 
 ## Take a bug report
 
@@ -44,7 +44,7 @@ With developer options enabled:
 2. Tap System
 3. Tap Advanced
 4. Tap Developer options
-5. Swipe until bug report appears in view, and tap Take a bug report
+5. Swipe until bug report appears in view, and tap **Take a bug report**
 </div>
 
 The bug report will become available via a notification within a few moments. From there, share it to a preferred application or download it to a connected computer.
