@@ -50,3 +50,5 @@ With developer options enabled:
 The bug report will become available via a notification within a few moments. From there, share it to a preferred application or download it to a connected computer.
 
 Alternatively, from ADB run `adb bugreport E:\Reports\MyBugReports` (choose an appropriate location) to save a bug report directly to your computer without interacting with the device directly.
+
+More details, via [Google](https://developer.android.com/studio/debug/bug-report).
