@@ -424,7 +424,7 @@
 	},
 
 	"support/how-to-set-up-rhino-via-dpc-identifier": {
-		"title": "How to set up Rhino via DPC identifier",
+		"title": "How to set up a Rhino device via DPC identifier",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -443,6 +443,30 @@
 			"M10p",
 			"T5se",
 			"DS",
+			"T6p",
+			"R6"
+		]
+	},
+
+	"support/how-to-set-up-rhino-via-qr-code": {
+		"title": "How to set up a Rhino device via QR code",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-29",
+		"updated": "",
+		"url": "/support/how-to-set-up-rhino-via-qr-code",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Enterprise",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"T5se",
 			"T6p",
 			"R6"
 		]
@@ -516,10 +540,8 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
 			"DS",
-			"T6p",
-			"R6"
+			"T6p"
 		]
 	},
 
