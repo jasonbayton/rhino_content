@@ -546,7 +546,7 @@
 	},
 
 	"support/find-imei-serial": {
-		"title": "Update Rhino software via SD card",
+		"title": "Locate the IMEI & serial of your Rhino device",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -557,6 +557,31 @@
 		"published": "true",
 		"parent": "Support",
 		"topic": "General",
+		"order": "0",
+		"appliesTo": [
+			"C10",
+			"T8",
+			"K27p",
+			"M10p",
+			"DS",
+			"T6p",
+			"T5se",
+			"R6"
+		]
+	},
+
+	"support/boot-to-recovery": {
+		"title": "Boot a Rhino device into recovery",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-10-02",
+		"updated": "",
+		"url": "/support/boot-to-recovery",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Advanced",
 		"order": "0",
 		"appliesTo": [
 			"C10",
