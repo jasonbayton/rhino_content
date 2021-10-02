@@ -1,12 +1,12 @@
 Unless otherwise indicated by the product user guide, you may clean your Rhino device as follows:
 
-- **DO**: Use a dampened, lint-free cloth and wipe gently over all surfaces
-- **DO**: Wipe down the unit as frequently as is demanded for its use case
+**DO**: Use a dampened, lint-free cloth and wipe gently over all surfaces  
+**DO**: Wipe down the unit as frequently as is demanded for its use case
 
-- **DO NOT**: Use harsh chemicals or detergents
-- **DO NOT**: Submerge in water
-- **DO NOT**: Use abrasive materials
-- **DO NOT**: Block ports, vents or other in/outlets
+**DO NOT**: Use harsh chemicals or detergents  
+**DO NOT**: Submerge in water  
+**DO NOT**: Use abrasive materials  
+**DO NOT**: Block ports, vents or other in/outlets
 
 Your Rhino device may have an antibacterial solution for healthcare settings, and due care should be taken not to remove this.
 
