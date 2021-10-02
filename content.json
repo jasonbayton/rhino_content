@@ -606,7 +606,32 @@
 		"type": "doc",
 		"published": "true",
 		"parent": "Support",
-		"topic": "Advanced",
+		"topic": "Additional help",
+		"order": "0",
+		"appliesTo": [
+			"DS",
+			"T5se",
+			"T6p",
+			"R6",
+			"T8",
+			"C10",
+			"M10p",
+			"K27p"
+		]
+	},
+
+	"support/rma": {
+		"title": "Rhino RMA request form",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-09-22",
+		"updated": "",
+		"url": "/support/rma",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Additional help",
 		"order": "0",
 		"appliesTo": [
 			"DS",
