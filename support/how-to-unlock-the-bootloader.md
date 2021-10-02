@@ -1,4 +1,4 @@
-Rhino devices ship with a locked bootloader by default, as is required by Google for a certified Android device. However, as an enterprise-targeted device, the unlocking of the bootloader which is typically possible on consumer-driven devices is not permitted by default on Rhino devices.
+Rhino devices ship with a locked bootloader by default, as is required by Google for certified Android devices. However, as an enterprise-targeted device, the unlocking of the bootloader which is typically possible on consumer-driven devices is not permitted by default on Rhino devices.
 
 Instead, Rhino devices leverage additional authentication when attempting to unlock the bootloader. We don't entirely prevent it given there are use cases where unlocking a bootloader may be necessary for self-recovery or enterprise testing purposes, but we do ensure it's not unlocked without first talking to the Rhino team.
 
