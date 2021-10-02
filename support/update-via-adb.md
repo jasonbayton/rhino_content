@@ -7,6 +7,7 @@ For offline/staging purposes, it is possible to update your Rhino device via the
 
 ## Update via ADB
 
+<div class="numbered-instructions" markdown="1">
 1. Download the appropriate OS package (zip file) from [releases](/security/releases) to your local PC. Keep note of the folder to which the update file downloads.
 2. Ensure ADB debugging is enabled on your Rhino device and connect it to a PC
 3. Reboot the device into recovery by opening the commandline utility on your PC and entering adb command `adb reboot recovery`
@@ -21,3 +22,4 @@ For offline/staging purposes, it is possible to update your Rhino device via the
 9. The device will show update progress and completion confirmation once the update has been fully applied
   1. If the update fails to apply, record the error message, grab a photo of the screen, and [contact support](/support/escalate) if it fails more than twice
 10. Use the volume keys to select reboot, and power to confirm. The Rhino device will reboot into the updated Android build
+</div>
