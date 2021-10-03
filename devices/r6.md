@@ -1,35 +1,36 @@
 <div class="device-grid">
   <div class="device-image">
-    <img src="/assets/m10p-1x.png" alt="Rhino M10p hero">
+    <img src="/assets/t8-1x.png" alt="Rhino T8 hero">
   </div>
   <div class="device-intro">
     <blockquote>
-      A premium 10″ tablet designed with an aluminium/polycarbonate construction and damage-resistant, coated finish. The M10p is perfect for organizations looking for a high-quality, enterprise grade tablet that doesn't compromise form for functionality.
+      Based on years of working with our customers, the T8 has been produced to meet the needs of enterprise with three core goals: devoid of bloatware with pure Android as Google intended it to be, second-to-none compatibility with Android Enterprise for modern management, and prioritization of security throughout the product. All of this in an affordable package with all necessary accessories to hit the ground running.
     </blockquote>
   </div>
 </div>
 
 ## At a glance
+
 <div id="support_table" class="table-headless table-spec" markdown="1">
 |||||
 |-|-|-|-|
-| <i class="fab fa-android"></i> Launched on Android 10 | <i class="fas fa-memory"></i> 2GB RAM | <i class="fas fa-hdd"></i> 32GB Storage |
-|| <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
+| <i class="fab fa-android"></i> Launched on Android 9.0 | <i class="fas fa-memory"></i> 2GB/3GB RAM | <i class="fas fa-hdd"></i> 32GB Storage |
+| <i class="fab fa-android"></i> [Upgrade to Android 10](/security/releases/t8/t8-001_20210605)  | <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
 </div>
 
 ## Device overview
 
-[![](/assets/m10p_overview-1x.png)](/assets/m10p_overview-1x.png)
+[![](/assets/t8_overview-1x.png)](/assets/t8_overview-1x.png)
 
 ## Getting started
 
 <div id="support_table" markdown="1">
-| **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                                |
-|-----------------|--------------------------------------|------------------------------------------------------------|
-| Quickstart      | Get started with your device quickly | [<i class="fas fa-download"></i>](/assets/docs/m10p/qs.pdf) |
-| Device manual   | Learn how to use your M10p in detail  | [<i class="fas fa-download"></i>](/assets/docs/m10p/dm.pdf) |
-| Software manual | Android 9.0 edition                  | [<i class="fas fa-download"></i>](/assets/docs/m10p/sm.pdf) |
-| Software manual | Android 10 edition                   | [<i class="fas fa-download"></i>](/assets/docs/m10p/sm.pdf) |
+| **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                               |
+|-----------------|--------------------------------------|-----------------------------------------------------------|
+| Quickstart      | Get started with your device quickly | [<i class="fas fa-download"></i>](/assets/docs/t8/qs.pdf) |
+| Device manual   | Learn how to use your T8 in detail   | [<i class="fas fa-download"></i>](/assets/docs/t8/dm.pdf) |
+| Software manual | Android 9.0 edition                  | [<i class="fas fa-download"></i>](/assets/docs/t8/sm.pdf) |
+| Software manual | Android 10 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t8/sm.pdf) |
 </div>
 
 ## Device spec
@@ -37,30 +38,30 @@
 <div id="support_table" class="table-headless table-spec" markdown="1">
 |||
 |-----------------------|--------------------------------------|
-| **Display**           | 10" FHD+                             |
-|                       | 226 PPI                              |
+| **Display**           | 8"                                   |
+|                       | 276 PPI                              |
 |                       | IPS panel                            |
-|                       | Contrast typically 1:800/1000        |
-|                       | Brightness up to 300cd/m2            |
-|                       | 1920x1200 resolution                 |
+|                       | Contrast typically 1:700             |
+|                       | Brightness up to 250cd/m2            |
+|                       | 1280 x 800 resolution                |
 |                       | Viewing angles 85°/85°(v/h)          |
-|                       | 16.7m colours                        |
-|                       | 16:10 aspect ratio                   |
+|                       | 16.9m colours                        |
+|                       | 16:9 aspect ratio                    |
 |                       | 60Hz refresh rate                    |
-|                       | 45ms response time                   |
+|                       | 30ms response time                   |
 |                       | 10 touch points                      |
 |                       |                                      |
-| **Memory & storage**  | 2GB LPDDR4                           |
+| **Memory & storage**  | 2GB, 3GB DRAM LPDDR3                 |
 |                       | 32GB eMMC 5.1                        |
 |                       |                                      |
-| **Processor**         | MediaTek i500 Octacore 2.0GHz        |
+| **Processor**         | MediaTek MT8765 Quadcore 1.3GHz      |
 |                       |                                      |
-| **Battery**           | 7500mAh Li-ion                       |
+| **Battery**           | 5100mAh Li-ion                       |
 |                       | Fast charge supported                |
 |                       | 10+ hours typical use                |
-|                       | 50 days standby                      |
+|                       | 30 days standby                      |
 |                       |                                      |
-| **SIM**               | Dual nano/micro                      |
+| **SIM**               | Dual nano                            |
 |                       |                                      |
 | **Ports**             | SIM                                  |
 |                       | MicroSD up to 256GB                  |
@@ -71,17 +72,17 @@
 |                       | Stereo speakers                      |
 |                       | Wake word support                    |
 |                       |                                      |
-| **Connectivity**      | LTE Cat 7                            |
+| **Connectivity**      | LTE Cat 3                            |
 |                       | 2G: 2 3 5 8                          |
 |                       | 3G: 1 2 4 5 8                        |
-|                       | 4G: 2 3 4 5 7 12 14 17 20 25 26 30 41 66 71 |
+|                       | 4G: 2 3 4 5 7 12 17 20 25 26 30 41 66 71 |
 |                       | WiFi 802.11 a/b/g/n                  |
 |                       | Bluetooth 4.2                        |
 |                       | NFC                                  |
-|                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
+|                       | Location: GPS, GLONASS, A-GAP        |
 |                       |                                      |
-| **Camera**            | 8MP, 120° wide-angle front           |
-|                       | 13P rear                             |
+| **Camera**            | 5MP, 120° wide-angle front           |
+|                       | 8MP rear                             |
 |                       |                                      |
 | **Sensors**           | Accelerometer                        |
 |                       | Gyroscope                            |
@@ -90,8 +91,8 @@
 |                       |                                      |
 | **Environmental**     | Functional up to 95% humidity        |
 |                       | -10c to 55c typical operating temp   |
-|                       | Unboxed(LHW): 241.3mm x 161.1mm x 7.62mm  |
-|                       | Boxed(LHW): 263.39mm x 190.5mm x 55.37mm   |
+|                       | Unboxed(LWH): 203.2mm x 139.7mm x 7.6mm   |
+|                       | Boxed(LWH): 228.6mm x 171.4mm x 57.1mm    |
 |                       | IP5X rated                           |
 |                       | 0.5m drop-tested                     |
 |                       | 1.5m drop-tested with case           |
@@ -99,14 +100,12 @@
 |                       |                                      |
 | **Certifications**    | FCC                                  |
 |                       | CE                                   |
-|                       | CEC                                  |
-|                       | DOE                                  |
-|                       | PRO65                                |   
 |                       | ROHS                                 |
 |                       | REACH                                |
 |                       | WEEE                                 |
 |                       | MSDS                                 |
 |                       | UN38.3                               |
+|                       | RCM                                  |
 |                       | PTCRB                                |
 </div>
 

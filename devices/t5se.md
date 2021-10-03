@@ -14,7 +14,7 @@
 |||||
 |-|-|-|-|
 | <i class="fab fa-android"></i> Launched on Android 11 | <i class="fas fa-memory"></i> 4GB RAM | <i class="fas fa-hdd"></i> 64GB Storage |
-| <i class="fab fa-android"></i> Upgrade to Android 12 (planned)  | <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
+|| <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
 </div>
 
 ## Device overview

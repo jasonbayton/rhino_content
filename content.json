@@ -29,6 +29,36 @@
 		"order": "0"
 	},
 
+	"devices/ds": {
+		"title": "Rhino DS",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/ds",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
+	"devices/t6p": {
+		"title": "Rhino T6p",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/t6p",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
 	"devices/t8": {
 		"title": "Rhino T8",
 		"subtitle": "",
@@ -82,6 +112,21 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/devices/t5se",
+		"type": "doc",
+		"published": "true",
+		"parent": "Devices",
+		"topic": "",
+		"order": "0"
+	},
+
+	"devices/k27p": {
+		"title": "Rhino K27p",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/devices/k27p",
 		"type": "doc",
 		"published": "true",
 		"parent": "Devices",
