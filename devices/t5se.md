@@ -4,7 +4,7 @@
   </div>
   <div class="device-intro">
     <blockquote>
-      A premium 10″ tablet designed with an aluminium/polycarbonate construction and damage-resistant, coated finish. The T5se is perfect for organizations looking for a high-quality, enterprise grade tablet that doesn't compromise form for functionality.
+      TBD.
     </blockquote>
   </div>
 </div>
