@@ -1,10 +1,10 @@
 <div class="device-grid">
   <div class="device-image">
-    <img src="/assets/t8-1x.png" alt="Rhino T8 hero">
+    <img src="/assets/ds-1x.png" alt="Rhino DS hero">
   </div>
   <div class="device-intro">
     <blockquote>
-      Based on years of working with our customers, the T8 has been produced to meet the needs of enterprise with three core goals: devoid of bloatware with pure Android as Google intended it to be, second-to-none compatibility with Android Enterprise for modern management, and prioritization of security throughout the product. All of this in an affordable package with all necessary accessories to hit the ground running.
+      TBD.
     </blockquote>
   </div>
 </div>
@@ -14,8 +14,8 @@
 <div id="support_table" class="table-headless table-spec" markdown="1">
 |||||
 |-|-|-|-|
-| <i class="fab fa-android"></i> Launched on Android 9.0 | <i class="fas fa-memory"></i> 2GB/3GB RAM | <i class="fas fa-hdd"></i> 32GB Storage |
-| <i class="fab fa-android"></i> [Upgrade to Android 10](/security/releases/t8/t8-001_20210605)  | <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
+| <i class="fab fa-android"></i> Launched on Android 11 | <i class="fas fa-memory"></i> 3GB RAM | <i class="fas fa-hdd"></i> 32GB Storage |
+| | <i class="far fa-tv"></i> Digital signage ready | <i class="fas fa-badge-check"></i> EMM validated |
 </div>
 
 ## Device overview
@@ -27,10 +27,10 @@
 <div id="support_table" markdown="1">
 | **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                               |
 |-----------------|--------------------------------------|-----------------------------------------------------------|
-| Quickstart      | Get started with your device quickly | [<i class="fas fa-download"></i>](/assets/docs/t8/qs.pdf) |
-| Device manual   | Learn how to use your T8 in detail   | [<i class="fas fa-download"></i>](/assets/docs/t8/dm.pdf) |
-| Software manual | Android 9.0 edition                  | [<i class="fas fa-download"></i>](/assets/docs/t8/sm.pdf) |
-| Software manual | Android 10 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t8/sm.pdf) |
+| Quickstart      | Get started with your device quickly | [<i class="fas fa-download"></i>](/assets/docs/ds/qs.pdf) |
+| Device manual   | Learn how to use your T8 in detail   | [<i class="fas fa-download"></i>](/assets/docs/ds/dm.pdf) |
+| Software manual | Android 11 edition                  | [<i class="fas fa-download"></i>](/assets/docs/ds/sm.pdf) |
+| Software manual | Android 12 edition                   | [<i class="fas fa-download"></i>](/assets/docs/ds/sm.pdf) |
 </div>
 
 ## Device spec
@@ -38,28 +38,15 @@
 <div id="support_table" class="table-headless table-spec" markdown="1">
 |||
 |-----------------------|--------------------------------------|
-| **Display**           | 8"                                   |
-|                       | 276 PPI                              |
-|                       | IPS panel                            |
-|                       | Contrast typically 1:700             |
-|                       | Brightness up to 250cd/m2            |
-|                       | 1280 x 800 resolution                |
-|                       | Viewing angles 85°/85°(v/h)          |
-|                       | 16.9m colours                        |
-|                       | 16:9 aspect ratio                    |
-|                       | 60Hz refresh rate                    |
-|                       | 30ms response time                   |
-|                       | 10 touch points                      |
+| **Display**           | N/A (headless)                       |
 |                       |                                      |
-| **Memory & storage**  | 2GB, 3GB DRAM LPDDR3                 |
+| **Memory & storage**  | 3GB DRAM LPDDR4                      |
 |                       | 32GB eMMC 5.1                        |
 |                       |                                      |
-| **Processor**         | MediaTek MT8765 Quadcore 1.3GHz      |
+| **Processor**         | MediaTek i500 Octacore 2.0GHz        |
 |                       |                                      |
-| **Battery**           | 5100mAh Li-ion                       |
-|                       | Fast charge supported                |
-|                       | 10+ hours typical use                |
-|                       | 30 days standby                      |
+| **Battery**           | N/A.                                 |
+|                       | Intelligent power-down protection    |
 |                       |                                      |
 | **SIM**               | Dual nano                            |
 |                       |                                      |

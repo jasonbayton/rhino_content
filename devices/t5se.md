@@ -14,7 +14,7 @@
 |||||
 |-|-|-|-|
 | <i class="fab fa-android"></i> Launched on Android 11 | <i class="fas fa-memory"></i> 4GB RAM | <i class="fas fa-hdd"></i> 64GB Storage |
-|| <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
+| | <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
 </div>
 
 ## Device overview
@@ -24,12 +24,12 @@
 ## Getting started
 
 <div id="support_table" markdown="1">
-| **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                                |
-|-----------------|--------------------------------------|------------------------------------------------------------|
+| **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                                 |
+|-----------------|--------------------------------------|-------------------------------------------------------------|
 | Quickstart      | Get started with your device quickly | [<i class="fas fa-download"></i>](/assets/docs/t5se/qs.pdf) |
-| Device manual   | Learn how to use your T5se in detail  | [<i class="fas fa-download"></i>](/assets/docs/t5se/dm.pdf) |
-| Software manual | Android 9.0 edition                  | [<i class="fas fa-download"></i>](/assets/docs/t5se/sm.pdf) |
-| Software manual | Android 10 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t5se/sm.pdf) |
+| Device manual   | Learn how to use your T5se in detail | [<i class="fas fa-download"></i>](/assets/docs/t5se/dm.pdf) |
+| Software manual | Android 11 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t5se/sm.pdf) |
+| Software manual | Android 12 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t5se/sm.pdf) |
 </div>
 
 ## Device spec
@@ -37,7 +37,7 @@
 <div id="support_table" class="table-headless table-spec" markdown="1">
 |||
 |-----------------------|--------------------------------------|
-| **Display**           | 10" FHD+                             |
+| **Display**           | 5" FHD+                             |
 |                       | 226 PPI                              |
 |                       | IPS panel                            |
 |                       | Contrast typically 1:800/1000        |
@@ -50,12 +50,12 @@
 |                       | 45ms response time                   |
 |                       | 10 touch points                      |
 |                       |                                      |
-| **Memory & storage**  | 2GB LPDDR4                           |
-|                       | 32GB eMMC 5.1                        |
+| **Memory & storage**  | 4GB LPDDR4                           |
+|                       | 64GB eMMC 5.1                        |
 |                       |                                      |
 | **Processor**         | MediaTek i500 Octacore 2.0GHz        |
 |                       |                                      |
-| **Battery**           | 7500mAh Li-ion                       |
+| **Battery**           | 3000mAh Li-ion                       |
 |                       | Fast charge supported                |
 |                       | 10+ hours typical use                |
 |                       | 50 days standby                      |
