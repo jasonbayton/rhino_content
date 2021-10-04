@@ -6,7 +6,7 @@ Android's recovery mode is a device-level tool built into most Android devices t
 1. Turn off the Rhino device
 2. Hold `Power` + `volume up` together until the device vibrates.
 3. The device will boot to a bootloader menu, use `volume up` to move between the options until **Recovery** is selected, then press `volume down` to confirm the selection.
-4. The device will boot into recovery mode, and first shows a picture of the Android robot with <i class="fas fa-exclamation-triangle"></i>. Press `power`, then while holding, press `volume up` in quick succession. This may take a few attempts as it can be tricky to get the timing just right.
+4. The device will boot into recovery mode, and first shows a picture of the Android robot with <i class="fas fa-exclamation-triangle text-warning"></i>. Press `power`, then while holding, press `volume up` in quick succession. This may take a few attempts as it can be tricky to get the timing just right.
 5. The recovery menu will appear.
 </div>
 
