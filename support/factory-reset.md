@@ -11,10 +11,11 @@ Factory resetting a device is always recommended before parting ways with it to 
 4. Tap **Factory reset**
 5. Accept the prompt
 6. The Rhino device will begin the irreversible process of resetting the device back to factory settings, and will become available to be set back up again within several minutes.
+</div>
 
 Note - the device must have at least 20% charge to reset in this way.
 
-## With no access to the Android OS
+## With **no** access to the Android OS
 
 Assuming the device will not boot, or the end-user is locked out of the device because of a forgotten/changed passcode, it may be possible to reset through Rhino recovery mode.
 
