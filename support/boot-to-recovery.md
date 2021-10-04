@@ -1,4 +1,4 @@
-Android's recovery mode is a device-level tool built into most Android devices today. All Rhino devices can access recovery mode using the key combination `Power` + `Volume up` when the unit is powered off. Recovery can be used to reset a device back to factory settings, test hardware functions, and more.  
+Android's recovery mode is a device-level tool built into most Android devices on the market. All Rhino devices can access recovery mode using the key combination `Power` + `Volume up` when the unit is powered off. Recovery can be used to reset a device back to factory settings, test hardware functions, and more.  
 
 ## Hardware key combination
 
@@ -9,6 +9,8 @@ Android's recovery mode is a device-level tool built into most Android devices t
 4. The device will boot into recovery mode, and first shows a picture of the Android robot showing <i class="fas fa-exclamation-triangle text-warning"></i>. Press `power`, then while holding, press `volume up` in quick succession. This may take a few attempts as it can be tricky to get the timing just right.
 5. The recovery menu will appear.
 </div>
+
+NB: For step 4, holding the buttons down for too long will cause the device to reboot. The button combination need only be pressed for a moment.
 
 ## ADB
 
