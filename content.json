@@ -38,7 +38,7 @@
 		"updated": "",
 		"url": "/devices/ds",
 		"type": "doc",
-		"published": "true",
+		"published": "false",
 		"parent": "Devices",
 		"topic": "",
 		"order": "0"
@@ -53,7 +53,7 @@
 		"updated": "",
 		"url": "/devices/t6p",
 		"type": "doc",
-		"published": "true",
+		"published": "false",
 		"parent": "Devices",
 		"topic": "",
 		"order": "0"
@@ -128,7 +128,7 @@
 		"updated": "",
 		"url": "/devices/k27p",
 		"type": "doc",
-		"published": "true",
+		"published": "false",
 		"parent": "Devices",
 		"topic": "",
 		"order": "0"

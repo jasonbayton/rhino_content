@@ -1,3 +1,8 @@
+<div class="callout callout-warning">
+  <h3>Incomplete page</h3>
+  This page is based on a template and has not yet been completed. Please disregard any information below
+</div>
+
 <div class="device-grid">
   <div class="device-image">
     <img src="/assets/t6p-1x.png" alt="Rhino T6p hero">
