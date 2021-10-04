@@ -17,7 +17,7 @@ Note - the device must have at least 20% charge to reset in this way.
 
 ## With **no** access to the Android OS
 
-Assuming the device will not boot, or the end-user is locked out of the device because of a forgotten/changed passcode, it may be possible to reset through Rhino recovery mode.
+Assuming the device will not boot, or the end-user is locked out of the device because of a passcode or enterprise management issue, it may be possible to reset through Rhino recovery mode.
 
 <div class="numbered-instructions" markdown="1">
 1. Follow steps outlined [here](/support/boot-to-recovery) to boot the Rhino device into recovery mode. Once the recovery menu is shown, use the volume keys to move up and down through the menu, pressing power to confirm.
