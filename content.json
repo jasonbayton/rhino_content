@@ -757,7 +757,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/t8",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "true",
 		"parent": "Releases",
 		"parentID": "T8",
@@ -862,7 +862,7 @@
 	},
 
 	"security/releases/t8/t8-001_20210121": {
-		"title": "Release: T8(001)_20210121",
+		"title": "T8(001)_20210121",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -873,11 +873,14 @@
 		"published": "true",
 		"parent": "T8",
 		"topic": "T8 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Jan 05"
 	},
 
 	"security/releases/t8/t8-001_20201127": {
-		"title": "Release: T8(001)_20201127",
+		"title": "T8(001)_20201127",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
