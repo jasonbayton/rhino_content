@@ -1,6 +1,6 @@
-Factory resetting a device is always recommended before parting ways with it to ensure any and all personal or private information has been removed. Likewise, resetting a device may resolve issues where other attempted solutions have not prevailed. Depending on the state of the device, resetting it to a factory-like state can be achieved in one of two ways.
+Factory resetting your Rhino device is recommended before parting ways with it to ensure any and all personal or private information has been removed. Likewise, resetting a device may resolve issues where other attempted solutions have not prevailed. Depending on the state of the device, resetting it to a factory-like state can be achieved in one of two ways.
 
-## With access to the Android OS
+## **With** access to the Android OS
 
 <div class="numbered-instructions" markdown="1">
 1. Open **Settings**
@@ -21,7 +21,7 @@ Assuming the device will not boot, or the end-user is locked out of the device b
 
 <div class="callout callout-danger">
 <h3>Factory Reset Protection (FRP)</h3>
-Resetting your Rhino in this way may initiate FRP if this hasn't been disabled through enterprise management. If your Rhino is not managed by an organisation and you have added a personal Google account & passcode on the device, FRP will be present and will require the device passcode and/or Google account passcode on first boot
+Resetting a Rhino device in this way may initiate FRP if this hasn't been disabled through enterprise management. If the device has both a Google account & passcode added, FRP may be present and will require the device passcode and/or Google account credentials on first boot. **Without these details the device must be sent to the [Rhino team](/support/escalate) for repair**.
 </div>
 
 <div class="numbered-instructions" markdown="1">
@@ -31,7 +31,7 @@ Resetting your Rhino in this way may initiate FRP if this hasn't been disabled t
 4. The Rhino device will begin the irreversible process of resetting the device back to factory settings, and will become available to be set back up again within several minutes.
 </div>
 
-_Tip:_ While the device is resetting, please don't press buttons or attempt to interrupt the process. It may take some time to complete the reset process, but interrupting it may cause corruption or boot errors.
+_Tip_: While the device is resetting, please don't press buttons or attempt to interrupt the process. It may take some time to complete the reset process, but interrupting it may cause corruption or boot errors.
 
 _Zero-touch_: If the device is zero-touch registered with an organisation, performing a factory reset of the device will not remove the zero-touch configuration, and the device will re-enrol into enterprise management automatically on attempting to set the device up again. If the device should not remain zero-touch registered, please remove it via the [zero-touch portal](https://partner.android.com/zerotouch).  
 
