@@ -1,4 +1,4 @@
-Android Recovery System is a hidden mode built in most of Android devices. Rhino devices can be boot to recovery mode using the key combination Volume Up + Power key from the power off condition. This mode helps to perform actions like repair the installations, install an official operating system's update, recover the phone or tablet etc.  
+Android's recovery mode is a device-level tool built into most Android devices today. All Rhino devices can access recovery mode using the key combination `Power` + `Volume up` when the unit is powered off. Recovery can be used to reset a device back to factory settings, test hardware functions, and more.  
 
 ## Hardware key combination
 
