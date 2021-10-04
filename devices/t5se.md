@@ -4,7 +4,7 @@
   </div>
   <div class="device-intro">
     <blockquote>
-      TBD.
+      Lightweight handheld device at the right price point to provide one to every employee in a retail chain. Integrated with a top of the line Honeywell barcode scanner, swappable battery, Push-to-Talk and ambidextrous scanning buttons, this device was developed to be the future of retail mobility.
     </blockquote>
   </div>
 </div>
