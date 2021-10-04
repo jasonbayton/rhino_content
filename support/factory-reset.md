@@ -19,6 +19,11 @@ Note - the device must have at least 20% charge to reset in this way.
 
 Assuming the device will not boot, or the end-user is locked out of the device because of a passcode or enterprise management issue, it may be possible to reset through Rhino recovery mode.
 
+<div class="callout callout-danger">
+<h3>Factory Reset Protection (FRP)</h3>
+Resetting your Rhino in this way may initiate FRP if this hasn't been disabled through enterprise management. If your Rhino is not managed by an organisation and you have added a personal Google account & passcode on the device, FRP will be present and will require the device passcode and/or Google account passcode on first boot
+</div>
+
 <div class="numbered-instructions" markdown="1">
 1. Follow steps outlined [here](/support/boot-to-recovery) to boot the Rhino device into recovery mode. Once the recovery menu is shown, use the volume keys to move up and down through the menu, pressing power to confirm.
 2. Select **Wipe data/factory reset**
