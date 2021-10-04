@@ -18,5 +18,10 @@ Android's recovery mode is a device-level tool built into most Android devices t
 3. Run `adb devices` to confirm the Rhino device is present and authorised
 4. Run `adb reboot recovery`
 5. Follow steps 4 and 5 above
+</div>
 
-NB: The Rhino device must have [debugging](/support/enable-debugging) enabled, and the PC must already have [ADB set up](/support/set-up-adb) for this to work.
+Notes:
+
+1. The Rhino device must have [debugging](/support/enable-debugging) enabled, and the PC must already have [ADB set up](/support/set-up-adb) for this to work.
+2. The K27p and DS have no physical volume keys for hardware key combination recovery mode.
+3. The M10p requires the use of two SIM pins to depress the hidden power and volume buttons.
