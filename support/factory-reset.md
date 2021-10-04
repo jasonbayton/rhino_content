@@ -19,7 +19,7 @@ Note - the device must have at least 20% charge to reset in this way.
 
 Assuming the device will not boot, or the end-user is locked out of the device because of a passcode or enterprise management issue, it may be possible to reset through Rhino recovery mode.
 
-<div class="callout callout-danger">
+<div class="callout callout-danger" markdown="1">
 <h3>Factory Reset Protection (FRP)</h3>
 Resetting a Rhino device in this way may initiate FRP if this hasn't been disabled through enterprise management. If the device has both a Google account & passcode added, FRP may be present and will require the device passcode and/or Google account credentials on first boot. **Without these details the device must be sent to the [Rhino team](/support/escalate) for repair**.
 </div>
