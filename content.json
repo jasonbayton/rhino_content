@@ -876,7 +876,7 @@
 		"order": "0",
 		"softwaresku": "001",
 		"releasetype": "SMR",
-		"softwarespl": "Jan 05"
+		"softwarespl": "Jan 05, 2021"
 	},
 
 	"security/releases/t8/t8-001_20201127": {
@@ -891,7 +891,10 @@
 		"published": "true",
 		"parent": "T8",
 		"topic": "T8 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Nov 05, 2020"
 	},
 
 	"security/releases/t8/t8-001ce_20201127": {
