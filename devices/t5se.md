@@ -19,7 +19,7 @@
 
 ## Device overview
 
-[![](/assets/T5se_overview-1x.png)](/assets/T5se_overview-1x.png)
+[![](/assets/t5se_overview-1x.png)](/assets/t5se_overview-1x.png)
 
 ## Getting started
 
