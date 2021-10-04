@@ -24,6 +24,7 @@ Assuming the device will not boot, or the end-user is locked out of the device b
 2. Select **Wipe data/factory reset**
 3. Select and confirm **Factory reset data**
 4. The Rhino device will begin the irreversible process of resetting the device back to factory settings, and will become available to be set back up again within several minutes.
+</div>
 
 _Tip:_ While the device is resetting, please don't press buttons or attempt to interrupt the process. It may take some time to complete the reset process, but interrupting it may cause corruption or boot errors.
 
