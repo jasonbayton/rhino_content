@@ -818,7 +818,8 @@
 		"order": "0",
 		"softwaresku": "001",
 		"releasetype": "SMR",
-		"softwarespl": "Jan 05, 2021"
+		"softwarespl": "Jan 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/6d9379e74f67750b41ccfb13fb84478bed25d445.zip"
 	},
 
 	"security/releases/t8/t8-001_20201127": {
