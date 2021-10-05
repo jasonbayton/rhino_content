@@ -1159,5 +1159,20 @@
 		"releasetype": "SMR",
 		"softwarespl": "Jun 05, 2021",
 		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/d0aea536be43598fe11ff0fdacd5d2306a55af72.zip"
+	},
+
+	"devices/t8/t8-userguide": {
+		"title": "Rhino T8 user guide",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-06-08",
+		"updated": "",
+		"url": "/devices/t8/t8-userguide",
+		"type": "doc",
+		"published": "true",
+		"parent": "",
+		"topic": "",
+		"order": "0"
 	}
 }
