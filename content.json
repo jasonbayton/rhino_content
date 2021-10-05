@@ -175,10 +175,8 @@
 			"C10",
 			"T8",
 			"M10p",
-			"DS",
-			"T6p",
-			"R6",
-			"T5se"
+			"T5se",
+			"K27p"
 		]
 	},
 
@@ -199,9 +197,7 @@
 			"C10",
 			"T8",
 			"M10p",
-			"DS",
-			"T6p",
-			"R6"
+			"K27p"
 		]
 	},
 
@@ -222,9 +218,7 @@
 			"C10",
 			"T8",
 			"M10p",
-			"DS",
-			"T6p",
-			"R6"
+			"K27p"
 		]
 	},
 
@@ -246,10 +240,7 @@
 			"T8",
 			"T5se",
 			"M10p",
-			"K27p",
-			"DS",
-			"T6p",
-			"R6"
+			"K27p"
 		]
 	},
 
@@ -271,10 +262,7 @@
 			"T8",
 			"T5se",
 			"M10p",
-			"K27p",
-			"DS",
-			"T6p",
-			"R6"
+			"K27p"
 		]
 	},
 
@@ -297,9 +285,6 @@
 			"T5se",
 			"M10p",
 			"K27p",
-			"DS",
-			"T6p",
-			"R6"
 		]
 	},
 
@@ -321,10 +306,7 @@
 			"T8",
 			"T5se",
 			"M10p",
-			"K27p",
-			"DS",
-			"T6p",
-			"R6"
+			"K27p"
 		]
 	},
 
@@ -346,10 +328,7 @@
 			"T8",
 			"T5se",
 			"M10p",
-			"K27p",
-			"DS",
-			"T6p",
-			"R6"
+			"K27p"
 		]
 	},
 
@@ -371,10 +350,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -411,10 +387,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -436,10 +409,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -461,10 +431,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -486,10 +453,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -511,9 +475,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -535,10 +497,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -560,10 +519,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"T5se",
-			"DS",
-			"T6p",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -585,8 +541,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"DS",
-			"T6p"
+			"T5se"
 		]
 	},
 
@@ -608,10 +563,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"DS",
-			"T6p",
-			"T5se",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -633,10 +585,7 @@
 			"T8",
 			"K27p",
 			"M10p",
-			"DS",
-			"T6p",
-			"T5se",
-			"R6"
+			"T5se"
 		]
 	},
 
@@ -654,10 +603,7 @@
 		"topic": "Additional help",
 		"order": "0",
 		"appliesTo": [
-			"DS",
 			"T5se",
-			"T6p",
-			"R6",
 			"T8",
 			"C10",
 			"M10p",
@@ -679,10 +625,7 @@
 		"topic": "Additional help",
 		"order": "0",
 		"appliesTo": [
-			"DS",
 			"T5se",
-			"T6p",
-			"R6",
 			"T8",
 			"C10",
 			"M10p",
@@ -739,7 +682,6 @@
 		"parentID": "Releases",
 		"childTopics": [
 			"T5se",
-			"T6p",
 			"T8",
 			"C10",
 			"M10p",
@@ -822,7 +764,7 @@
 		"updated": "",
 		"url": "/security/releases/r6",
 		"type": "doc_parent",
-		"published": "true",
+		"published": "false",
 		"parent": "Releases",
 		"parentID": "R6",
 		"topic": "Rhino Software Releases",
@@ -838,7 +780,7 @@
 		"updated": "",
 		"url": "/security/releases/t6p",
 		"type": "doc_parent",
-		"published": "true",
+		"published": "false",
 		"parent": "Releases",
 		"parentID": "T6p",
 		"topic": "Rhino Software Releases",
