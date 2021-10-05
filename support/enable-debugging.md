@@ -1,7 +1,7 @@
 Enabling developer option allows user to perform various debugging tasks like viewing logcat, taking bug reports, etc. It can be very useful in various scenarios and aids tremendously in troubleshooting issues.
 
 <div class="callout callout-warning">
-<h2>Enterprise management heads-up</h2>
+<div class="callout-heading">Enterprise management heads-up</div>
 USB debugging may be prevented by policy for managed devices. Please consult your administrator/IT team for guidance on enabling developer options described below.
 </div>
 

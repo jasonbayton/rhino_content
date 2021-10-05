@@ -1,5 +1,5 @@
 <div class="callout callout-warning">
-  <h3>Incomplete page</h3>
+  <div class="callout-heading">Incomplete page</div>
   This page is based on a template and has not yet been completed. Please disregard any information below
 </div>
 
