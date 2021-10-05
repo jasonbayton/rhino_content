@@ -715,7 +715,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/c10",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "true",
 		"parent": "Releases",
 		"parentID": "C10",
@@ -731,7 +731,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/m10p",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "true",
 		"parent": "Releases",
 		"parentID": "M10p",
@@ -747,7 +747,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/t5se",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "true",
 		"parent": "Releases",
 		"parentID": "T5se",
@@ -763,7 +763,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/r6",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "false",
 		"parent": "Releases",
 		"parentID": "R6",
@@ -779,7 +779,7 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/t6p",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "false",
 		"parent": "Releases",
 		"parentID": "T6p",
@@ -795,10 +795,26 @@
 		"date": "2021-01-01",
 		"updated": "",
 		"url": "/security/releases/ds",
-		"type": "doc_parent",
+		"type": "release",
 		"published": "true",
 		"parent": "Releases",
 		"parentID": "DS",
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+
+	"security/releases/k27p": {
+		"title": "K27p software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/k27p",
+		"type": "release",
+		"published": "true",
+		"parent": "Releases",
+		"parentID": "K27p",
 		"topic": "Rhino Software Releases",
 		"order": "0"
 	},
@@ -1005,7 +1021,11 @@
 		"published": "true",
 		"parent": "C10",
 		"topic": "C10 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Oct 05, 2020",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/18b3384f487c2812b7dda7358fee8e9d40d37d8f.zip"
 	},
 
 	"security/releases/c10/c10-001_20210129": {
@@ -1020,7 +1040,11 @@
 		"published": "true",
 		"parent": "C10",
 		"topic": "C10 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Feb 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/f69d345ae3236d58e7136e280c6a021f07303858.zip"
 	},
 
 	"security/releases/c10/c10-001_20210617": {
@@ -1035,7 +1059,11 @@
 		"published": "true",
 		"parent": "C10",
 		"topic": "C10 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "MR",
+		"softwarespl": "Jun 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/b2118f1be686e228b9463ad1bcf343e499d2565d.zip"
 	},
 
 	"security/releases/c10/c10-001_20210807": {
@@ -1050,7 +1078,11 @@
 		"published": "true",
 		"parent": "C10",
 		"topic": "C10 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Aug 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/c0fb7c858377764197baa62040ae614a953151c5.zip"
 	},
 
 	"security/releases/m10p/m10p-001_20210129": {
@@ -1065,7 +1097,11 @@
 		"published": "true",
 		"parent": "M10p",
 		"topic": "M10p Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Dec 05, 2020",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/01ec65a71f7d1d5ba2ead0fbb23850dacd8ca74a.zip"
 	},
 
 	"security/releases/m10p/m10p-001_20210318": {
@@ -1080,7 +1116,11 @@
 		"published": "true",
 		"parent": "M10p",
 		"topic": "M10p Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Mar 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/0d47c35fa9dcf0c891c0df2c0d0877ce1400d04f.zip"
 	},
 
 	"security/releases/m10p/m10p-001_20210426": {
@@ -1095,7 +1135,11 @@
 		"published": "true",
 		"parent": "M10p",
 		"topic": "M10p Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Apr 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/7e784a83abde0175a12627b3a91667359540f59f.zip"
 	},
 
 	"security/releases/m10p/m10p-001_20210608": {
@@ -1110,6 +1154,10 @@
 		"published": "true",
 		"parent": "M10p",
 		"topic": "M10p Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Jun 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/d0aea536be43598fe11ff0fdacd5d2306a55af72.zip"
 	}
 }
