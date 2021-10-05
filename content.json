@@ -836,7 +836,8 @@
 		"order": "0",
 		"softwaresku": "001",
 		"releasetype": "SMR",
-		"softwarespl": "Nov 05, 2020"
+		"softwarespl": "Dec 05, 2020",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/c220c82a7f663f41ca43b06833419ae472a283a5.zip"
 	},
 
 	"security/releases/t8/t8-001ce_20201127": {
