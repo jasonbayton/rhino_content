@@ -912,7 +912,11 @@
 		"published": "true",
 		"parent": "T8",
 		"topic": "T8 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001CE",
+		"releasetype": "MR",
+		"softwarespl": "Jun 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/c6214187a182aff23c5cc7a3d64f560290f5f6a5.zip"
 	},
 
 	"security/releases/t8/t8-001_20210806": {
@@ -927,7 +931,11 @@
 		"published": "true",
 		"parent": "T8",
 		"topic": "T8 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Aug 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/015adb92174f11b85750afb59d4a8daf572158e3.zip"
 	},
 
 	"security/releases/t8/t8-001_20210709": {
@@ -942,7 +950,11 @@
 		"published": "true",
 		"parent": "T8",
 		"topic": "T8 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "SMR",
+		"softwarespl": "Jun 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/235eccca30d2030e5ae3a35d784745a036848ab0.zip"
 	},
 
 	"security/releases/t8/t8-001_20210605": {
@@ -957,7 +969,11 @@
 		"published": "true",
 		"parent": "T8",
 		"topic": "T8 Releases",
-		"order": "0"
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "MR",
+		"softwarespl": "Jun 05, 2021",
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/660339b903f9f931599c799a78ddf8120d019a28.zip"
 	},
 
 	"security/releases/c10/c10-001_20201022": {
