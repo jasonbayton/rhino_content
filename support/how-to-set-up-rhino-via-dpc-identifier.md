@@ -4,7 +4,7 @@ DPC Identifier enrolment allows customers to initiate Android Enterprise managed
 
 <div class="numbered-instructions" markdown="1">
 1. Turn on the device from a boxed state, or factory reset the unit if not fresh from the box. You'll must be greeted by the welcome screen.  
-2. Tap to start the Setup Wizard and connect to a network (WiFi or cellular)
+2. Tap to start the Setup Wizard and connect to a network (Wi-Fi or cellular)
 3. Proceed through the Wizard to Google Sign in screen
 4. Enter the DPC identifier of your respective EMM vendor in place of a Google account
 5. The device will identify the DPC app required and start downloading, you may be prompted to approve this

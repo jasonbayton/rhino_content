@@ -58,13 +58,13 @@ Should you want to transfer music, pictures, or other files to or from device st
 
 ## Wi-Fi
 
-WiFi provides as much as 300feet (100M) range of wireless network access and supports both 2.4GHz and 5GHz bands. If you use your device to connect to the internet, you should connect to a wireless access point.
+Wi-Fi provides as much as 300feet (100M) range of wireless network access and supports both 2.4GHz and 5GHz bands. If you use your device to connect to the internet, you should connect to a wireless access point.
 
 How to connect to a wireless network:
-- Open settings and select Network &amp; Internet, toggle the WiFi setting on. Your device will automatically scan all wireless networks near you.
-- Alternatively, pull down the notification bar and long-tap on the WiFi icon.
-- A list of WiFi networks will display along with authentication in use (e.g. WPA). If you enable the notification in WiFi settings, the status box will show an icon (<i class="fas fa-wifi"></i>) when an open available wireless network is found. NB: Open WiFi networks can be dangerous, please use caution when connecting to any connection you cannot immediately trust.
-- When the device connects to a wireless network, the status box will show a Wi-Fi icon with the approximate signal strength (the number of lit bars <i class="fad fa-wifi-2"></i>). If you touch the connected network，it will display the name of WiFi network, status, speed, signal strength, security, information, and IP address.
+- Open settings and select Network &amp; Internet, toggle the Wi-Fi setting on. Your device will automatically scan all wireless networks near you.
+- Alternatively, pull down the notification bar and long-tap on the Wi-Fi icon.
+- A list of Wi-Fi networks will display along with authentication in use (e.g. WPA). If you enable the notification in Wi-Fi settings, the status box will show an icon (<i class="fas fa-wifi"></i>) when an open available wireless network is found. NB: Open Wi-Fi networks can be dangerous, please use caution when connecting to any connection you cannot immediately trust.
+- When the device connects to a wireless network, the status box will show a Wi-Fi icon with the approximate signal strength (the number of lit bars <i class="fad fa-wifi-2"></i>). If you touch the connected network，it will display the name of Wi-Fi network, status, speed, signal strength, security, information, and IP address.
 - If you want to delete the wireless settings, please touch &quot;FORGET&quot;.
 
 ## Bluetooth

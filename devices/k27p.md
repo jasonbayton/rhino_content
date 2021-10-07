@@ -81,7 +81,7 @@
 |                       | 2G: 2 3 5 8                          |
 |                       | 3G: 1 2 4 5 8                        |
 |                       | 4G: 2 3 4 5 7 12 17 20 25 26 30 41 66 71 |
-|                       | WiFi 802.11 a/b/g/n                  |
+|                       | Wi-Fi 802.11 a/b/g/n                  |
 |                       | Bluetooth 4.2                        |
 |                       | NFC                                  |
 |                       | Location: GPS, GLONASS, A-GAP        |
