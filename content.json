@@ -668,6 +668,29 @@
 		"order": "0"
 	},
 
+	"security/releases": {
+		"title": "Rhino software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases",
+		"type": "grid",
+		"published": "true",
+		"parent": "Security",
+		"parentID": "Releases",
+		"childTopics": [
+			"T5se",
+			"T8",
+			"C10",
+			"M10p",
+			"K27p"
+		],
+		"topic": "Rhino Software Releases",
+		"order": "0"
+	},
+
 	"security/software-releases": {
 		"title": "Rhino software releases",
 		"subtitle": "",
