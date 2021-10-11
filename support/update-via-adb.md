@@ -1,4 +1,4 @@
-For offline/staging purposes, it is possible to update your Rhino device via the Android Debug Bridge (ADB) using a previously-downloaded OTA file (we provide these under [releases](/security/releases)). Updating your Rhino device via ADB is safe and fully supported by the Rhino team, however it is also somewhat technical. For a simpler method, you may prefer to try [updating via SDCard](/support/update-via-sdcard). Happy to continue? Here's how to do it:
+For offline/staging purposes, it is possible to update your Rhino device via the Android Debug Bridge (ADB) using a previously-downloaded OTA file (we provide these under [releases](/security/software-releases)). Updating your Rhino device via ADB is safe and fully supported by the Rhino team, however it is also somewhat technical. For a simpler method, you may prefer to try [updating via SDCard](/support/update-via-sdcard). Happy to continue? Here's how to do it:
 
 ## Prerequisites-  
 
@@ -8,7 +8,7 @@ For offline/staging purposes, it is possible to update your Rhino device via the
 ## Update via ADB
 
 <div class="numbered-instructions" markdown="1">
-1. Download the appropriate OS package (zip file) from [releases](/security/releases) to your local PC. Keep note of the folder to which the update file downloads.
+1. Download the appropriate OS package (zip file) from [releases](/security/software-releases) to your local PC. Keep note of the folder to which the update file downloads.
 2. Ensure ADB debugging is enabled on your Rhino device and connect it to a PC
 3. Reboot the device into recovery by opening the commandline utility on your PC and entering adb command `adb reboot recovery`
 4. On the maintenance robot screen, press power and with it held, press volume up (there's a knack to this, it may take a couple of attempts)
