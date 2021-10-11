@@ -668,7 +668,7 @@
 		"order": "0"
 	},
 
-	"security/releases": {
+	"security/software-releases": {
 		"title": "Rhino software releases",
 		"subtitle": "",
 		"featuredImage": "",
@@ -687,7 +687,7 @@
 			"M10p",
 			"K27p"
 		],
-		"topic": "Rhino Software Releases",
+		"topic": "",
 		"order": "0"
 	},
 
