@@ -675,7 +675,7 @@
 		"featured": "false",
 		"date": "2021-01-01",
 		"updated": "",
-		"url": "/security/releases",
+		"url": "/security/software-releases",
 		"type": "grid",
 		"published": "true",
 		"parent": "Security",
