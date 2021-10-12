@@ -692,7 +692,7 @@
 	},
 
 	"security/releases/full-ota": {
-		"title": "Full OTAs",
+		"title": "Full OTA releases",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
@@ -701,7 +701,7 @@
 		"url": "/security/releases/full-ota",
 		"type": "release",
 		"published": "true",
-		"parent": "Security",
+		"parent": "Releases",
 		"parentID": "Full OTAs",
 		"topic": "",
 		"order": "0"
