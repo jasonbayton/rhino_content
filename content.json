@@ -1003,7 +1003,8 @@
 		"softwaresku": "001",
 		"releasetype": "SMR",
 		"softwarespl": "Jun 05, 2021",
-		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/235eccca30d2030e5ae3a35d784745a036848ab0.zip"
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/235eccca30d2030e5ae3a35d784745a036848ab0.zip",
+		"fullotaurl": "https://socialmobiletel.sharepoint.com/:u:/s/RhinoResourceCentre/EbOx_g0sOsdGnXdRGZ-iXvcBKmQVzQZeHQ0glyvZ7UELBQ?e=xem1fc"
 	},
 
 	"security/releases/t8/t8-001_20210605": {
@@ -1080,7 +1081,8 @@
 		"softwaresku": "001",
 		"releasetype": "MR",
 		"softwarespl": "Jun 05, 2021",
-		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/b2118f1be686e228b9463ad1bcf343e499d2565d.zip"
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/b2118f1be686e228b9463ad1bcf343e499d2565d.zip",
+		"otapackageurl": "https://socialmobiletel.sharepoint.com/:u:/s/RhinoResourceCentre/EZW86mn6lClHkQ60baScREcBnw_foMIP46wCY2361QQ_-Q?e=dUZXDn"
 	},
 
 	"security/releases/c10/c10-001_20210807": {
