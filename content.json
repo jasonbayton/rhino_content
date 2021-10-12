@@ -704,7 +704,7 @@
 		"parent": "Releases",
 		"parentID": "Full OTAs",
 		"topic": "",
-		"order": "0"
+		"order": "1"
 	},
 
 	"security/releases/t8": {
