@@ -692,24 +692,17 @@
 	},
 
 	"security/releases/full-ota": {
-		"title": "Rhino software releases",
+		"title": "Full OTAs",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
-		"date": "2021-01-01",
+		"date": "2021-10-12",
 		"updated": "",
 		"url": "/security/releases/full-ota",
 		"type": "release",
 		"published": "true",
 		"parent": "Security",
-		"parentID": "Releases",
-		"childTopics": [
-			"T5se",
-			"T8",
-			"C10",
-			"M10p",
-			"K27p"
-		],
+		"parentID": "Full OTAs",
 		"topic": "",
 		"order": "0"
 	},
