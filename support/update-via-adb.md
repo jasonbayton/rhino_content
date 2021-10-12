@@ -23,3 +23,5 @@ For offline/staging purposes, it is possible to update your Rhino device via the
   1. If the update fails to apply, record the error message, grab a photo of the screen, and [contact support](/support/escalate) if it fails more than twice
 10. Use the volume keys to select reboot, and power to confirm. The Rhino device will reboot into the updated Android build
 </div>
+
+Be aware when attempting to sideload multiple OTA files, a reboot between will be necessary to allow the system time to apply the update in an online state and update core identifiers such as build fingerprint.
