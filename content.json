@@ -668,15 +668,38 @@
 		"order": "0"
 	},
 
-	"security/software-releases": {
+	"security/releases": {
 		"title": "Rhino software releases",
 		"subtitle": "",
 		"featuredImage": "",
 		"featured": "false",
 		"date": "2021-01-01",
 		"updated": "",
-		"url": "/security/software-releases",
+		"url": "/security/releases",
 		"type": "grid",
+		"published": "true",
+		"parent": "Security",
+		"parentID": "Releases",
+		"childTopics": [
+			"T5se",
+			"T8",
+			"C10",
+			"M10p",
+			"K27p"
+		],
+		"topic": "",
+		"order": "0"
+	},
+
+	"security/releases/full-ota": {
+		"title": "Rhino software releases",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-01-01",
+		"updated": "",
+		"url": "/security/releases/full-ota",
+		"type": "release",
 		"published": "true",
 		"parent": "Security",
 		"parentID": "Releases",
