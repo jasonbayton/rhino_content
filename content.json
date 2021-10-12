@@ -1082,7 +1082,7 @@
 		"releasetype": "MR",
 		"softwarespl": "Jun 05, 2021",
 		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/b2118f1be686e228b9463ad1bcf343e499d2565d.zip",
-		"otapackageurl": "https://socialmobiletel.sharepoint.com/:u:/s/RhinoResourceCentre/EZW86mn6lClHkQ60baScREcBnw_foMIP46wCY2361QQ_-Q?e=dUZXDn"
+		"fullotaurl": "https://socialmobiletel.sharepoint.com/:u:/s/RhinoResourceCentre/EZW86mn6lClHkQ60baScREcBnw_foMIP46wCY2361QQ_-Q?e=dUZXDn"
 	},
 
 	"security/releases/c10/c10-001_20210807": {
