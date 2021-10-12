@@ -1175,5 +1175,24 @@
 		"releasetype": "SMR",
 		"softwarespl": "Jun 05, 2021",
 		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/d0aea536be43598fe11ff0fdacd5d2306a55af72.zip"
+	},
+
+	"security/releases/full-ota/c10-001_20210617": {
+		"title": "Full OTA to C10(001)_20210617",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-06-17",
+		"updated": "",
+		"url": "/security/releases/full-ota/c10-001_20210617",
+		"type": "doc",
+		"published": "true",
+		"parent": "Full OTAs",
+		"topic": "Full OTA releases",
+		"order": "0",
+		"softwaresku": "001",
+		"releasetype": "Full",
+		"softwarespl": "Jun 05, 2021",
+		"otapackageurl": "https://socialmobiletel.sharepoint.com/:u:/s/RhinoResourceCentre/EZW86mn6lClHkQ60baScREcBnw_foMIP46wCY2361QQ_-Q?e=dUZXDn"
 	}
 }
