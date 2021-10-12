@@ -700,7 +700,7 @@
 		"updated": "",
 		"url": "/security/releases/full-ota",
 		"type": "doc",
-		"published": "true",
+		"published": "false",
 		"parent": "Releases",
 		"parentID": "",
 		"topic": "",
