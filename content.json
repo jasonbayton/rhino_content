@@ -1022,7 +1022,8 @@
 		"softwaresku": "001",
 		"releasetype": "MR",
 		"softwarespl": "Jun 05, 2021",
-		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/660339b903f9f931599c799a78ddf8120d019a28.zip"
+		"otapackageurl": "https://android.googleapis.com/packages/ota-api/package/660339b903f9f931599c799a78ddf8120d019a28.zip",
+		"fullotaurl": "https://socialmobiletel.sharepoint.com/:u:/s/RhinoResourceCentre/EWjsZhCAAh5Psd3Jua4uNTcB55n-ToyWsePFpBzeLc9qAw?e=f91GLg"
 	},
 
 	"security/releases/c10/c10-001_20201022": {
