@@ -655,6 +655,28 @@
 		]
 	},
 
+	"support/rhino-boots-to-factory-mode": {
+		"title": "How to recover Rhino booting to factory mode",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-10-14",
+		"updated": "",
+		"url": "/support/rhino-boots-to-factory-mode",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "Advanced",
+		"order": "0",
+		"appliesTo": [
+			"T5se",
+			"T8",
+			"C10",
+			"M10p",
+			"K27p"
+		]
+	},
+
 	"security": {
 		"title": "Rhino security",
 		"subtitle": "",
