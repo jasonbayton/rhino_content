@@ -1,16 +1,16 @@
 ---
-title: 'SafetyNet compliance issue when enrolling into SOTI MobiControl'
-subtitle:
-featuredImage:
-featured: false
-date: 2021-10-14
-updated:
-url: '/support/soti-safetynet-compliant'
+title: SafetyNet compliance issue when enrolling into SOTI MobiControl
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-14'
+updated: ''
+url: /support/soti-safetynet-compliant
 type: doc
-published: true
+published: 'true'
 parent: Support
 topic: Enterprise
-order: 0
+order: '0'
 appliesTo:
   - T5se
   - T8
