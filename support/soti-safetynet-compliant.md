@@ -9,14 +9,14 @@ Should this error show during enrolment, please wipe and retry.
 If it continues to happen, you may either:
 
 <div class="numbered-instructions" markdown="1">
-1. Opt to disable SafetyNet verification
+1. Opt to disable SafetyNet verification:
   1. Head to System Settings
   2. Open Global Settings
   3. Select Android Plus Tab
   4. Edit your "Add Devices" rule
   5. Scroll to and open Advanced
   6. Check "Enroll on SafetyNet Attestation Failure
-2. Contact SOTI support for further assistance.
+2. Contact SOTI support for further assistance
 </div>
 
 Unless your device is modified in any way from factory state (rooting, system modification, etc), the Rhino team cannot help with this directly and encourage reaching out to SOTI support.
