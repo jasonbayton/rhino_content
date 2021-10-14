@@ -1,3 +1,24 @@
+---
+title: SafetyNet compliance issue when enrolling into SOTI MobiControl
+subtitle:
+featuredImage:
+featured: false
+date: 2021-10-14
+updated:
+url: /support/soti-safetynet-compliant
+type: doc
+published: true
+parent: Support
+topic: Enterprise
+order: 0,
+appliesTo:
+        - T5se
+        - T8
+        - C10
+        - M10p
+        - K27p
+---
+
 When enrolling a Rhino device into SOTI MobiControl, you may encounter the following error:
 
 > Enrollment failed. This device is not SafetyNet compliant. Please contact your system administrator
