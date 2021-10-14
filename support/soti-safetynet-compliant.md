@@ -8,7 +8,7 @@ Should this error show during enrolment, please wipe and retry.
 
 If it continues to happen, you may either
 
-1. Opt to disable SafetyNet verification
+1. Opt to disable SafetyNet verification <br />
 <div class="numbered-instructions" markdown="1">
   1. Head to System Settings
   2. Open Global Settings
