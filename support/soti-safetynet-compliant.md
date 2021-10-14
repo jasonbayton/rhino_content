@@ -1,10 +1,10 @@
 ---
 title: 'SafetyNet compliance issue when enrolling into SOTI MobiControl'
-subtitle:''
-featuredImage:''
+subtitle:
+featuredImage:
 featured: 'false'
 date: '2021-10-14'
-updated:''
+updated:
 url: '/support/soti-safetynet-compliant'
 type: 'doc'
 published: 'true'
