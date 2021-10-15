@@ -68,4 +68,4 @@ Rhino Mobility
 219 N 21st AVE., Second Floor,  
 Hollywood, FL 33020  
 Attn: Ali Webster  
-Email: ali@socialmobile.com
+Email: legal@socialmobile.com
