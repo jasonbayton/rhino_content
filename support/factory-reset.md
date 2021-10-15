@@ -8,8 +8,8 @@ Factory resetting your Rhino device is recommended before parting ways with it t
   2. Swipe down from the notification area and tap the settings icon present in the notification panel.
 2. Tap **System**
 3. Tap **Reset options**
-4. Tap **Factory reset**
-5. Accept the prompt
+4. Tap **Erase all data (factory reset)**
+5. Tap **Erase all data** again
 6. The Rhino device will begin the irreversible process of resetting the device back to factory settings, and will become available to be set back up again within several minutes.
 </div>
 
