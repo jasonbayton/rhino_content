@@ -677,6 +677,28 @@
 		]
 	},
 
+	"support/auto-power-down": {
+		"title": "Why does my Rhino power off during the set up Wizard?",
+		"subtitle": "",
+		"featuredImage": "",
+		"featured": "false",
+		"date": "2021-10-15",
+		"updated": "",
+		"url": "/support/auto-power-down",
+		"type": "doc",
+		"published": "true",
+		"parent": "Support",
+		"topic": "General",
+		"order": "0",
+		"appliesTo": [
+			"T5se",
+			"T8",
+			"C10",
+			"M10p",
+			"K27p"
+		]
+	},
+
 	"security": {
 		"title": "Rhino security",
 		"subtitle": "",
