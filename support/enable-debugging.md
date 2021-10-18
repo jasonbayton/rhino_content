@@ -19,7 +19,7 @@ appliesTo:
 - T5se
 ---
 
-Enabling developer option allows user to perform various debugging tasks like viewing logcat, taking bug reports, etc. It can be very useful in various scenarios and aids tremendously in troubleshooting issues.
+Enabling developer options allow users to perform various debugging tasks, including viewing Logs, taking bug reports, etc. It can be very useful in various scenarios and aids tremendously in troubleshooting issues.
 
 <div class="callout callout-warning">
 <div class="callout-heading">Enterprise management heads-up</div>
