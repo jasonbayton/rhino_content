@@ -1,3 +1,24 @@
+---
+title: Factory reset your Rhino device
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-01-01'
+updated: ''
+url: "/support/factory-reset"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- M10p
+- T5se
+- K27p
+---
+
 Factory resetting your Rhino device is recommended before parting ways with it to ensure any and all personal or private information has been removed. Likewise, resetting a device may resolve issues where other attempted solutions have not prevailed. Depending on the state of the device, resetting it to a factory-like state can be achieved in one of two ways.
 
 ## **With** access to the Android OS

@@ -1,3 +1,18 @@
+---
+title: Rhino T5se
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-01-01'
+updated: ''
+url: "/devices/t5se"
+type: doc
+published: 'true'
+parent: Devices
+topic: ''
+order: '0'
+---
+
 <div class="device-grid">
   <div class="device-image">
     <img src="/assets/t5se-combined-1x.png" alt="Rhino T5se hero">

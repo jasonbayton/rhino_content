@@ -1,3 +1,18 @@
+---
+title: Rhino T6p
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-01-01'
+updated: ''
+url: "/devices/t6p"
+type: doc
+published: 'false'
+parent: Devices
+topic: ''
+order: '0'
+---
+
 <div class="callout callout-warning">
   <div class="callout-heading">Incomplete page</div>
   This page is based on a template and has not yet been completed. Please disregard any information below
