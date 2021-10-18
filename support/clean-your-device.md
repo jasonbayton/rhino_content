@@ -1,3 +1,24 @@
+---
+title: How to clean your Rhino device
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/clean-your-device"
+type: doc
+published: 'true'
+parent: Support
+topic: Maintenance
+order: '0'
+appliesTo:
+- C10
+- T8
+- T5se
+- M10p
+- K27p
+---
+
 Unless otherwise indicated by the product user guide, you may clean your Rhino device as follows:
 
 **DO**: Use a dampened, lint-free cloth and wipe gently over all surfaces  

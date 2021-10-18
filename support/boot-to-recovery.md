@@ -1,3 +1,24 @@
+---
+title: Boot a Rhino device into recovery
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-02'
+updated: ''
+url: "/support/boot-to-recovery"
+type: doc
+published: 'true'
+parent: Support
+topic: Advanced
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 Android's recovery mode is a device-level tool built into most Android devices on the market. All Rhino devices can access recovery mode using the key combination `Power` + `Volume up` when the unit is powered off. Recovery can be used to reset a device back to factory settings, test hardware functions, and more.  
 
 ## Hardware key combination

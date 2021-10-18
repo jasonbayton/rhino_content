@@ -1,3 +1,24 @@
+---
+title: Rhino warranty
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/warranty"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 All Rhino devices benefit from a 12 month limited warranty covering defects in materials and workmanship. The warranty applies from date of purchase and can be claimed against with any valid proof of purchase providing the defective unit is complete, and undamaged.
 
 To check the warranty status of your device, use our [warranty check](/support/warranty-check) service. To initiate a warranty return, please visit [escalating to support](/support/escalate) for further guidance.

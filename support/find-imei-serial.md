@@ -1,3 +1,24 @@
+---
+title: Locate the IMEI & serial of your Rhino device
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-02'
+updated: ''
+url: "/support/find-imei-serial"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 To view the hardware information of your Rhino device, including IMEI, serial, do the following:
 
 ## Serial number

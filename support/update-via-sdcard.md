@@ -1,3 +1,24 @@
+---
+title: Update Rhino software via SD card
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-02'
+updated: ''
+url: "/support/update-via-sdcard"
+type: doc
+published: 'true'
+parent: Support
+topic: Advanced
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 For offline/staging purposes, it is possible to update your Rhino device via an SD card using a previously-downloaded OTA file (we provide these under [releases](/security/software-releases)). Updating your Rhino device via SD card is safe and fully supported by the Rhino team, however it is also reliant on having an SD card to hand. For a more technical method without this prerequisite, you may prefer to try [updating via ADB](/support/update-via-adb). Happy to continue? Here's how to do it:
 
 ## Prerequisites

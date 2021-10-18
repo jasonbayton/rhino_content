@@ -1,3 +1,22 @@
+---
+title: Rhino security
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-01-01'
+updated: ''
+url: "/security"
+type: doc_parent
+published: 'true'
+parent: ''
+is_parent: 'true'
+parentID: Security
+childTopics:
+- Releases
+topic: ''
+order: '0'
+---
+
 ## Overview
 
 As part of our commitment to the security and longevity of our portfolio, Rhino devices benefit from software updates throughout the lifetime of each model. Updates are provided in two ways:

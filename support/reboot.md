@@ -1,3 +1,24 @@
+---
+title: How to reboot your Rhino device
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/reboot"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- T5se
+- M10p
+- K27p
+---
+
 To restart your Rhino device:
 
 <div class="numbered-instructions" markdown="1">

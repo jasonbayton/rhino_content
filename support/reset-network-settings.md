@@ -1,3 +1,23 @@
+---
+title: Reset network settings
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-01-01'
+updated: ''
+url: "/support/reset-network-settings"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- M10p
+- K27p
+---
+
 If you're having issues with connectivity, including Wi-Fi, cellular (mobile data) or Bluetooth, you may opt to reset your network settings as an advanced step in troubleshooting the issue. To reset:
 
 <div class="numbered-instructions" markdown="1">

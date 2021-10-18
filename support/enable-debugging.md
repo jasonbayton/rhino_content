@@ -1,3 +1,24 @@
+---
+title: Enable USB debugging & collect a bug report
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-29'
+updated: ''
+url: "/support/enable-debugging"
+type: doc
+published: 'true'
+parent: Support
+topic: Advanced
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 Enabling developer option allows user to perform various debugging tasks like viewing logcat, taking bug reports, etc. It can be very useful in various scenarios and aids tremendously in troubleshooting issues.
 
 <div class="callout callout-warning">

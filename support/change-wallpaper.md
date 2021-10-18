@@ -1,3 +1,23 @@
+---
+title: Change Device Wallpaper
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/change-wallpaper"
+type: doc
+published: 'true'
+parent: Support
+topic: Customisation
+order: '0'
+appliesTo:
+- C10
+- T8
+- M10p
+- K27p
+---
+
 To change the wallpaper on your Rhino device:
 
 <div class="numbered-instructions" markdown="1">

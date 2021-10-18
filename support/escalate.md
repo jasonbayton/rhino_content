@@ -1,3 +1,24 @@
+---
+title: Escalate to Rhino Support
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-22'
+updated: ''
+url: "/support/escalate"
+type: doc
+published: 'true'
+parent: Support
+topic: Additional help
+order: '0'
+appliesTo:
+- T5se
+- T8
+- C10
+- M10p
+- K27p
+---
+
 We're sorry to see you have an issue that requires escalation to Rhino support.
 
 Before reaching out, please prepare the following information to ensure we can help you as quickly as possible:

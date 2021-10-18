@@ -1,3 +1,24 @@
+---
+title: How to power on your Rhino device
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/power-on"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- T5se
+- M10p
+- K27p
+---
+
 ## T8/C10
 
 Power on your device by holding the power button on the **top left** of the unit. The button should be pressed for 2-3s in order for it to boot.

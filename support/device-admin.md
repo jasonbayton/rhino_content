@@ -1,3 +1,24 @@
+---
+title: Device admin & Android Enterprise
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-28'
+updated: '2021-09-30'
+url: "/support/device-admin"
+type: doc
+published: 'true'
+parent: Support
+topic: Advanced
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 Device administrator has been deprecated since Android 10, and EMM vendors are gradually moving away from device admin-based management.
 
 See [this blog](https://www.blog.google/products/android-enterprise/da-migration/) and [this blog](https://www.blog.google/products/android-enterprise/why-its-time-enterprises-adopt-androids-modern-device-management-apis/) from Google for details.

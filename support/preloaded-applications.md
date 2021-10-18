@@ -1,3 +1,24 @@
+---
+title: Rhino preloaded applications
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/preloaded-applications"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- T5se
+- M10p
+- K27p
+---
+
 Your Rhino device comes preloaded with multiple applications for both convenience and usability.
 
 ## Rhino brand applications

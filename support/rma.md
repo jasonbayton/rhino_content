@@ -1,3 +1,24 @@
+---
+title: Rhino RMA request form
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-22'
+updated: ''
+url: "/support/rma"
+type: doc
+published: 'true'
+parent: Support
+topic: Additional help
+order: '0'
+appliesTo:
+- T5se
+- T8
+- C10
+- M10p
+- K27p
+---
+
 If you've been instructed to fill out the Rhino RMA form, you'll find it below.
 
 Please note, unless instructed by the Rhino team to fill this out, or you have an active support case/ticket number to provide, your RMA request will not be processed. All RMAs must first be [requested](/support/escalate) via the Rhino team and logged as a support case accordingly.

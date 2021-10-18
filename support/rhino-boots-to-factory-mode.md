@@ -1,3 +1,24 @@
+---
+title: How to recover Rhino booting to factory mode
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-14'
+updated: ''
+url: "/support/rhino-boots-to-factory-mode"
+type: doc
+published: 'true'
+parent: Support
+topic: Advanced
+order: '0'
+appliesTo:
+- T5se
+- T8
+- C10
+- M10p
+- K27p
+---
+
 If your Rhino device has booted into a black screen with large, white/yellow text, you may have booted inadvertently into our factory test mode.
 
 This tool allows us to adequately test each device for any obvious defects before it's shipped from the factory, and is only invoked through a specific combination of keys.

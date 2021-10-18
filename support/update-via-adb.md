@@ -1,3 +1,24 @@
+---
+title: Update Rhino software via ADB
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-02'
+updated: ''
+url: "/support/update-via-adb"
+type: doc
+published: 'true'
+parent: Support
+topic: Advanced
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 For offline/staging purposes, it is possible to update your Rhino device via the Android Debug Bridge (ADB) using a previously-downloaded OTA file (we provide these under [releases](/security/software-releases)). Updating your Rhino device via ADB is safe and fully supported by the Rhino team, however it is also somewhat technical. For a simpler method, you may prefer to try [updating via SDCard](/support/update-via-sdcard). Happy to continue? Here's how to do it:
 
 ## Prerequisites-  

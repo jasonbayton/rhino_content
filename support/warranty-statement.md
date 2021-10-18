@@ -1,3 +1,18 @@
+---
+title: Rhino warranty statement
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/warranty-statement"
+type: doc
+published: 'true'
+parent: ''
+topic: ''
+order: '0'
+---
+
 Rhino Mobility LLC ("Rhino") warrants that Rhino's devices and accessories (the "Products") are free from defects in material and workmanship under normal use and service for the period commencing upon the date of purchase to the first purchasing organization and continuing for a period of twelve (12) months thereafter.
 
 ## What is not covered?

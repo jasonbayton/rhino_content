@@ -1,3 +1,24 @@
+---
+title: How to check for updates
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-09-25'
+updated: ''
+url: "/support/how-to-check-for-updates"
+type: doc
+published: 'true'
+parent: Support
+topic: General
+order: '0'
+appliesTo:
+- C10
+- T8
+- K27p
+- M10p
+- T5se
+---
+
 Rhino devices are updated frequently throughout their software support lifecycle. Oftentimes updates are critical to ensuring your device is secure and up to date, and may equally include vital fixes ensuring smooth, reliable usage of your Rhino device for years to come.
 
 Updates, depending on the nature of the changes being provided, may be applied silently in the background during typical usage, and need only for the device to be rebooted when ready. The device will alert you of this in the form of a notification.

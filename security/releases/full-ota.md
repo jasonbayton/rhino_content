@@ -1,3 +1,19 @@
+---
+title: Full OTA releases
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-10-12'
+updated: ''
+url: "/security/releases/full-ota"
+type: doc
+published: 'false'
+parent: Releases
+parentID: ''
+topic: ''
+order: '1'
+---
+
 ## T8 releases
 
 | SKU | Type | Build # | SPL | OTA |
