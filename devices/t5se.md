@@ -1,6 +1,6 @@
 <div class="device-grid">
   <div class="device-image">
-    <img src="/assets/t5se-1x.png" alt="Rhino T5se hero">
+    <img src="/assets/t5se-combined-1x.png" alt="Rhino T5se hero">
   </div>
   <div class="device-intro">
     <blockquote>
