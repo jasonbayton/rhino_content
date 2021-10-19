@@ -1,0 +1,8 @@
+- name: "SidenavTopicOrder"
+  items:
+    - name: "General"
+    - name: "Customisation"
+    - name: "Maintenance"
+    - name: "Enterprise"
+    - name: "Advanced"
+    - name: "Additional help"
