@@ -37,3 +37,5 @@ If an installed application is misbehaving, you may choose to force close it, cl
   2. Tap **CLEAR STORAGE** - wipe all app data
   3. Tap **CLEAR CACHE** - wipe only temporary app cache
 </div>
+
+If the application is still misbehaving and/or the above solutions didn't work as expected, reach out to the [support team](/support/escalate) for assistance.
