@@ -32,5 +32,6 @@ Rhino's default notification sounds and ringtones can be easily personalised to 
   3. Default alarm sound
 4. Select from a list of preloaded sounds, or tap **+ Add ringtone** to select a custom, downloaded or sideloaded sound file
 5. Tap **OK**
+</div>
 
 Your new sound is now set.
