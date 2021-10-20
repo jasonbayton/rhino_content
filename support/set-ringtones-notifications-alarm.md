@@ -14,7 +14,7 @@ order: '0'
 appliesTo:
 - T5se
 - T8
-- C10
+- C10 
 - M10p
 - K27p
 ---
