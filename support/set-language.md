@@ -9,7 +9,7 @@ url: "/support/set-language"
 type: doc
 published: 'true'
 parent: Support
-topic: General
+topic: Customisation
 order: '0'
 appliesTo:
 - T5se
