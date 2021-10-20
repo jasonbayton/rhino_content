@@ -5,7 +5,7 @@ featuredImage: ''
 featured: 'false'
 date: '2021-10-19'
 updated: ''
-url: "/support/set-ringtone-notifications-alarm"
+url: "/support/set-ringtones-notifications-alarm"
 type: doc
 published: 'true'
 parent: Support
@@ -14,7 +14,7 @@ order: '0'
 appliesTo:
 - T5se
 - T8
-- C10 
+- C10
 - M10p
 - K27p
 ---
