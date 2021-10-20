@@ -45,6 +45,13 @@ The Wi-Fi radio on your Rhino device provides as much as 300feet (100M) range of
 
 ## How to remove a saved Wi-Fi network
 
+If you wish to delete a saved Wi-Fi network:
 <div class="numbered-instructions" markdown="1">
-1. If you wish to delete a saved Wi-Fi network, head to Settings > Network & internet > Wi-Fi > Saved networks. Tap the saved network you wish to remove and tap **Forget**(<span class="material-icons">delete</span>).
+1. Open **Settings**
+  1. Either swipe up from the home screen to display the app drawer, and select settings, or
+  2. Swipe down from the notification area and tap the settings icon present in the notification panel.
+2. Tap **Network & internet**
+3. Tap **Wi-Fi**
+4. Tap **Saved networks**
+5. Tap the saved network you wish to remove and tap **Forget**(<span class="material-icons">delete</span>).
 </div>
