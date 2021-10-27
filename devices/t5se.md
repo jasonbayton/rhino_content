@@ -6,7 +6,7 @@ featured: 'false'
 date: '2021-01-01'
 updated: ''
 url: "/devices/t5se"
-type: doc
+type: device
 published: 'true'
 parent: Devices
 parentID: T5se
