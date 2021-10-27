@@ -75,28 +75,29 @@ order: '0'
 |                       | 10+ hours typical use                |
 |                       | 50 days standby                      |
 |                       |                                      |
-| **SIM**               | Dual nano/micro                      |
+| **SIM**               | Single nano                          |
 |                       |                                      |
 | **Ports**             | SIM                                  |
-|                       | MicroSD up to 256GB                  |
 |                       | USB Type C, USB 2.0                  |
 |                       | 3.5mm jack                           |
+|                       | Scan Gun POGO                        |
+|                       | Charge dock POGO                     |
 |                       |                                      |
 | **Audio**             | Stereo mic array                     |
 |                       | Stereo speakers                      |
 |                       | Wake word support                    |
 |                       |                                      |
-| **Connectivity**      | LTE Cat 7                            |
+| **Connectivity**      | LTE Cat 4                            |
 |                       | 2G: 2 3 5 8                          |
 |                       | 3G: 1 2 4 5 8                        |
 |                       | 4G: 2 3 4 5 7 12 14 17 20 25 26 30 41 66 71 |
-|                       | Wi-Fi 802.11 a/b/g/n                  |
+|                       | Wi-Fi 802.11 a/b/g/n                 |
 |                       | Bluetooth 4.2                        |
 |                       | NFC                                  |
 |                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
 |                       |                                      |
-| **Camera**            | 8MP, 120° wide-angle front           |
-|                       | 13P rear                             |
+| **Camera**            | 8MP, 120°                            |
+|                       | 13MP rear                            |
 |                       |                                      |
 | **Sensors**           | Accelerometer                        |
 |                       | Gyroscope                            |
