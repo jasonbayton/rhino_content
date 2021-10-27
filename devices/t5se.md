@@ -9,6 +9,7 @@ url: "/devices/t5se"
 type: doc
 published: 'true'
 parent: Devices
+parentID: T5se
 topic: ''
 order: '0'
 ---
