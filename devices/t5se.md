@@ -35,7 +35,7 @@ order: '0'
 
 ## Device overview
 
-[![](/assets/t5se_overview-1x.png)](/assets/t5se_overview-1x.png)
+[![](/assets/t5se_wireframe.svg)](/assets/t5se_wireframe.svg)
 
 ## Getting started
 
