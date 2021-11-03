@@ -9,7 +9,7 @@ url: "/support/warranty"
 type: doc
 published: 'true'
 parent: Support
-topic: General
+topic: Additional help
 order: '0'
 appliesTo:
 - C10
