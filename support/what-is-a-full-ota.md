@@ -1,5 +1,5 @@
 ---
-title: What is a full OTA?
+title: What is a Full OTA?
 subtitle: ''
 featuredImage: ''
 featured: 'false'
