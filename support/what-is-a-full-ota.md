@@ -1,6 +1,6 @@
 ---
 title: What is a Full OTA?
-subtitle: 'How is a Full OTA different from a "normal" OTA?'
+subtitle: 'How a Full OTA differs from a "normal" OTA, and how to obtain them for your Rhino device'
 featuredImage: ''
 featured: 'false'
 date: '2021-10-15'
