@@ -11,7 +11,7 @@ published: 'true'
 parent: Devices
 parentID: T5se
 topic: ''
-order: '0'
+order: '3'
 ---
 
 <div class="device-grid">
