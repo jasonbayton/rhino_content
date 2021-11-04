@@ -1,6 +1,6 @@
 ---
 title: What is a Full OTA?
-subtitle: ''
+subtitle: 'How is a Full OTA different from a "normal" OTA?'
 featuredImage: ''
 featured: 'false'
 date: '2021-10-15'
