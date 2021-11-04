@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-Every release cycle the Rhino team upload an OTA package for customers to download and manually apply[<sup>(1)</sup>](/support/update-via-adb)<sup>,</sup>[<sup>(2)</sup>](/support/update-via-sdcard) to their Rhino devices.
+Every release cycle the Rhino team upload an OTA package for customers to download and manually apply to their Rhino devices.
 
 These releases require a specific previously released build of Android to be present on the device. For example you cannot update a Rhino device running a build date of 2020-07-14 to 2021-04-26 if build 2021-04-26 targets the prior release dated 2021-03-18. Your Rhino device will state explicitly it is looking for a build which is not present on the device.
 
