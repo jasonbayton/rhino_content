@@ -19,18 +19,58 @@ order: '3'
     <img src="/assets/t5se-combined-1x.png" alt="Rhino T5se hero">
   </div>
   <div class="device-intro">
-    <blockquote>
-      Lightweight handheld device at the right price point to provide one to every employee in a retail chain. Integrated with a top of the line Honeywell barcode scanner, swappable battery, Push-to-Talk and ambidextrous scanning buttons, this device was developed to be the future of retail mobility.
-    </blockquote>
+    <h2>At a glance</h2>
+    <div id="glance_grid">
+      <div class="glance-item">
+        <div class="glance-icon">
+          <i class="fas fa-rocket-launch"></i>
+        </div>
+        <div class="glance-text">
+          Android 11
+        </div>
+      </div>
+      <div class="glance-item">
+        <div class="glance-icon">
+          <i class="fas fa-arrow-alt-up"></i>
+        </div>
+        <div class="glance-text">
+          Android 12 (2023)
+        </div>
+      </div>
+      <div class="glance-item">
+        <div class="glance-icon">
+          <i class="fas fa-memory"></i>
+        </div>
+        <div class="glance-text">
+          4GB RAM
+        </div>
+      </div>
+      <div class="glance-item">
+        <div class="glance-icon">
+          <i class="fas fa-hdd"></i>
+        </div>
+        <div class="glance-text">
+          64GB Storage
+        </div>
+      </div>
+      <div class="glance-item">
+        <div class="glance-icon">
+          <i class="fas fa-signal"></i>
+        </div>
+        <div class="glance-text">
+          Global LTE
+        </div>
+      </div>
+      <div class="glance-item">
+        <div class="glance-icon">
+          <i class="fas fa-badge-check"></i>
+        </div>
+        <div class="glance-text">
+          EMM validated
+        </div>
+      </div>
+    </div>
   </div>
-</div>
-
-## At a glance
-<div id="support_table" class="table-headless table-spec" markdown="1">
-|||||
-|-|-|-|-|
-| <i class="fab fa-android"></i> Launched on Android 11 | <i class="fas fa-memory"></i> 4GB RAM | <i class="fas fa-hdd"></i> 64GB Storage |
-| | <i class="fas fa-signal"></i> Global LTE | <i class="fas fa-badge-check"></i> EMM validated |
 </div>
 
 ## Device overview
