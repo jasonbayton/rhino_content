@@ -155,6 +155,9 @@ order: '3'
 |                       | IP54 rated                           |
 |                       | 0.5m drop-tested                     |
 |                       | 5v @ 2.0A power                      |
+|                       |                                      |
+| **Accessory support** | 3,000mAh external battery            |
+|                       | Trigger-enabled scan gun             |
 </div>
 
 ## Product lifecycle
