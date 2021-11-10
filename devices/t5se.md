@@ -102,7 +102,8 @@ order: '3'
 |                       | 16:10 aspect ratio                   |
 |                       | 60Hz refresh rate                    |
 |                       | 45ms response time                   |
-|                       | 10 touch points                      |
+|                       | 5 touch points                       |
+|                       | Glove mode                           |
 |                       |                                      |
 | **Memory & storage**  | 4GB LPDDR4                           |
 |                       | 64GB eMMC 5.1                        |
@@ -120,6 +121,7 @@ order: '3'
 |                       | USB-C (USB 2.0)                      |
 |                       | Scan Gun POGO                        |
 |                       | Charge dock POGO                     |
+|                       | External battery                     |
 |                       | Lasso                                |
 |                       |                                      |
 | **Audio**             | Stereo mic array                     |
@@ -135,8 +137,11 @@ order: '3'
 |                       | NFC                                  |
 |                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
 |                       |                                      |
-| **Camera**            | 8MP, 120°                            |
+| **Camera**            | 8MP, 120° front                      |
 |                       | 13MP rear                            |
+|                       |                                      |
+| **Scanner**           | Honeywell N670XSR-RO-103             |
+|                       | Red Illumination & Digimarc Enabled  |
 |                       |                                      |
 | **Sensors**           | Accelerometer                        |
 |                       | Gyroscope                            |
