@@ -138,7 +138,7 @@ order: '3'
 |                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
 |                       |                                      |
 | **Camera**            | 8MP, 120° front                      |
-|                       | 13MP rear                            |
+|                       | 8MP rear                             |
 |                       |                                      |
 | **Scanner**           | Honeywell N670XSR-RO-103             |
 |                       | Red Illumination & Digimarc Enabled  |
