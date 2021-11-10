@@ -144,12 +144,11 @@ order: '3'
 |                       | Proximity sensor                     |
 |                       |                                      |
 | **Environmental**     | Functional up to 95% humidity        |
-|                       | -10c to 55c typical operating temp   |
+|                       | -20c to 60c typical operating temp   |
 |                       | Unboxed(LHW): 241.3mm x 161.1mm x 7.62mm  |
 |                       | Boxed(LHW): 263.39mm x 190.5mm x 55.37mm   |
-|                       | IP5X rated                           |
+|                       | IP54 rated                           |
 |                       | 0.5m drop-tested                     |
-|                       | 1.5m drop-tested with case           |
 |                       | 5v @ 2.0A power                      |
 </div>
 
