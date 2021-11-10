@@ -82,10 +82,8 @@ order: '3'
 <div id="support_table" markdown="1">
 | **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                                 |
 |-----------------|--------------------------------------|-------------------------------------------------------------|
-| Quickstart      | Get started with your device quickly | [<i class="fas fa-download"></i>](/assets/docs/t5se/qs.pdf) |
-| Device manual   | Learn how to use your T5se in detail | [<i class="fas fa-download"></i>](/assets/docs/t5se/dm.pdf) |
-| Software manual | Android 11 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t5se/sm.pdf) |
-| Software manual | Android 12 edition                   | [<i class="fas fa-download"></i>](/assets/docs/t5se/sm.pdf) |
+| Quickstart      | Get started with your device quickly | Coming soon |
+| Device manual   | Learn how to use your T5se in detail | Coming soon |
 </div>
 
 ## Device spec
@@ -119,10 +117,10 @@ order: '3'
 | **SIM**               | Single nano                          |
 |                       |                                      |
 | **Ports**             | SIM                                  |
-|                       | USB Type C, USB 2.0                  |
-|                       | 3.5mm jack                           |
+|                       | USB-C (USB 2.0)                      |
 |                       | Scan Gun POGO                        |
 |                       | Charge dock POGO                     |
+|                       | Lasso                                |
 |                       |                                      |
 | **Audio**             | Stereo mic array                     |
 |                       | Stereo speakers                      |
@@ -153,18 +151,6 @@ order: '3'
 |                       | 0.5m drop-tested                     |
 |                       | 1.5m drop-tested with case           |
 |                       | 5v @ 2.0A power                      |
-|                       |                                      |
-| **Certifications**    | FCC                                  |
-|                       | CE                                   |
-|                       | CEC                                  |
-|                       | DOE                                  |
-|                       | PRO65                                |   
-|                       | ROHS                                 |
-|                       | REACH                                |
-|                       | WEEE                                 |
-|                       | MSDS                                 |
-|                       | UN38.3                               |
-|                       | PTCRB                                |
 </div>
 
 ## Product lifecycle
