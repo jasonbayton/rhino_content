@@ -137,7 +137,7 @@ order: '3'
 |                       | NFC                                  |
 |                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
 |                       |                                      |
-| **Camera**            | 8MP, 120° front                      |
+| **Camera**            | 8MP.                                 |
 |                       | 8MP rear                             |
 |                       |                                      |
 | **Scanner**           | Honeywell N670XSR-RO-103             |
