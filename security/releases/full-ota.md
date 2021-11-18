@@ -7,12 +7,21 @@ date: '2021-10-12'
 updated: ''
 url: "/security/releases/full-ota"
 type: doc
-published: 'false'
+published: 'true'
 parent: Releases
 parentID: ''
 topic: ''
 order: '1'
 ---
+
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+region: "na1",
+portalId: "20639876",
+formId: "c495dec8-4f88-4921-9e4f-da9301857049"
+});
+</script>
 
 ## T8 releases
 
