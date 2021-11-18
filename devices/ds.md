@@ -6,11 +6,12 @@ featured: 'false'
 date: '2021-01-01'
 updated: ''
 url: "/devices/ds"
-type: doc
+type: device
 published: 'false'
 parent: Devices
 topic: ''
 order: '0'
+model: DS
 ---
 
 <div class="callout callout-warning">

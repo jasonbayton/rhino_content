@@ -6,11 +6,12 @@ featured: 'false'
 date: '2021-01-01'
 updated: ''
 url: "/devices/t6p"
-type: doc
+type: device
 published: 'false'
 parent: Devices
 topic: ''
 order: '0'
+model: T6p
 ---
 
 <div class="callout callout-warning">

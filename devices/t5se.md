@@ -12,6 +12,7 @@ parent: Devices
 parentID: T5se
 topic: ''
 order: '3'
+model: T5se
 ---
 
 <div class="device-grid">
