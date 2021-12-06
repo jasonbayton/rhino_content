@@ -151,8 +151,8 @@ model: T5se
 |                       |                                      |
 | **Environmental**     | Functional up to 95% humidity        |
 |                       | -20c to 60c typical operating temp   |
-|                       | Unboxed(LHW): 241.3mm x 161.1mm x 7.62mm  |
-|                       | Boxed(LHW): 263.39mm x 190.5mm x 55.37mm   |
+|                       | Unboxed(LHW): 156.5 x 78.5 x 10.5mm  |
+|                       | Boxed(LHW): TBD   |
 |                       | IP54 rated                           |
 |                       | 0.5m drop-tested                     |
 |                       | 5v @ 2.0A power                      |
