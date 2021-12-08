@@ -5,7 +5,7 @@ featuredImage: ''
 featured: 'false'
 date: '2021-12-08'
 updated: ''
-url: "/security/releases/t8/test"
+url: "/security/releases/t8/test2"
 type: doc
 published: 'true'
 parent: T8
