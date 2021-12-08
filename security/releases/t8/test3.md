@@ -3,7 +3,7 @@ title: T8(001CE)_200000
 subtitle: ''
 featuredImage: ''
 featured: 'false'
-date: '2021-12-08'
+date: '2021-12-09'
 updated: ''
 url: "/security/releases/t8/test3"
 type: doc
