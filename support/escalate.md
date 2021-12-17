@@ -26,7 +26,7 @@ Before reaching out, please prepare the following information to ensure we can h
 - A detailed description of the issue you're facing
 - Detailed steps to replicate the issue (if available)
 - Images or video of the issue (if available)
-- Logs from the device for software-based issues
+- [Logs](/support/enable-debugging) from the device for software-based issues
 - Device details
   - Android version (9, 10, 11..)
   - Model name (T8, M10p..)
