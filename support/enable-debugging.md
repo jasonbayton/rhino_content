@@ -28,8 +28,6 @@ USB debugging may be prevented by policy for managed devices. Please consult you
 
 ## Enabling developer settings  
 
-Prerequisites – [PC with ADB configured](/support/set-up-adb)
-
 <div class="numbered-instructions" markdown="1">
 1. Open Settings
   1. Either swipe up from the home screen to display the app drawer, and select settings, or
@@ -41,6 +39,8 @@ Prerequisites – [PC with ADB configured](/support/set-up-adb)
 </div>
 
 ## Enabling USB debugging
+
+Prerequisites – [PC with ADB configured](/support/set-up-adb)
 
 After enabling developer mode,
 
