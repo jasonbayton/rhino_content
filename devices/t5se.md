@@ -85,6 +85,7 @@ model: T5se
 |-----------------|--------------------------------------|-------------------------------------------------------------|
 | Quickstart      | Get started with your device quickly | Coming soon |
 | Device manual   | Learn how to use your T5se in detail | Coming soon |
+| Honeywell N670X Datasheet   | Detailed overview of the N670XSR scanner | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/Eb_lVbK712ZLrLNgFxR8BJcBO4Zcc66OGeSBW4NGRBHYNQ?e=gx8si8) |
 </div>
 
 ## Device spec
