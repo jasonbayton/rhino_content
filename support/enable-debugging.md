@@ -73,3 +73,18 @@ The bug report will become available via a notification within a few moments. Fr
 Alternatively, from ADB run `adb bugreport E:\Reports\MyBugReports` (choose an appropriate location) to save a bug report directly to your computer without interacting with the device directly.
 
 More details, via [Google](https://developer.android.com/studio/debug/bug-report).
+
+## Capture live logcat
+
+With developer options enabled, if requested by the Rhino team:
+
+<div class="numbered-instructions" markdown="1">
+1. Connect the device to PC via USB
+2. Run the command `adb logcat > path/filename.txt`
+  1. NB: Change `path/filename.txt` to a legitimate path on your computer
+3. Replicate the issue(s), one per logcat command issuance and note down the timestamp to the second
+  1. If the timestamp isn't provided _to the second_ (ie 12:13:34) with the logcat, the Rhino team will request a new logcat with timestamp.
+4. Hit Ctrl + C to stop logging to file
+  1. That'll be CMD + C on Mac
+5. Fetch the log file from the saved location, and send it to the Rhino team
+</div>
