@@ -80,7 +80,7 @@ With developer options enabled, if requested by the Rhino team:
 
 <div class="numbered-instructions" markdown="1">
 1. Connect the device to PC via USB
-2. Run the command `adb logcat > path/filename.txt`
+2. Run the command `adb logcat \> path/filename.txt`
   1. NB: Change `path/filename.txt` to a legitimate path on your computer
 3. Replicate the issue(s), one per logcat command issuance and note down the timestamp to the second
   1. If the timestamp isn't provided _to the second_ (ie 12:13:34) with the logcat, the Rhino team will request a new logcat with timestamp.
