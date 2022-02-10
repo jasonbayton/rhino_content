@@ -40,7 +40,7 @@ We'll ask if you've attempted to charge the device prior to contacting us throug
 <details class="details-content">
 <summary class="summary-heading"><h3>The device doesn't behave as expected under management or with an application, is this covered?</h3></summary>
 
-Outside of the 30 day return window if purchased direct, software related issues are not covered by the materials and workmanship warranty and would instead be routed to the [Rhino support team](/support/escalate) for assistance.
+Outside of the 30 day return window if purchased direct, software related issues are not covered by the materials and workmanship warranty and would instead be routed to the <a href="/support/escalate">Rhino support team</a> for assistance.
 </details>
 
 <details class="details-content">
