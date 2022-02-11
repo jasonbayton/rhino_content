@@ -15,68 +15,61 @@ order: '3'
 model: T5se
 ---
 
-<div class="device-grid">
-  <div class="device-image">
-    <img src="/assets/t5se-combined-1x.png" alt="Rhino T5se hero">
-  </div>
-  <div class="device-intro">
-    <h2>At a glance</h2>
-    <div id="glance_grid">
-      <div class="glance-item">
-        <div class="glance-icon">
-          <i class="fas fa-rocket-launch"></i>
-        </div>
-        <div class="glance-text">
-          Android 11
-        </div>
+[![](/assets/t5se_wireframe.svg)](/assets/t5se_wireframe.svg)
+
+<div class="device-intro">
+  <h2>At a glance</h2>
+  <div id="glance_grid">
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-rocket-launch"></i>
       </div>
-      <div class="glance-item">
-        <div class="glance-icon">
-          <i class="fas fa-arrow-alt-up"></i>
-        </div>
-        <div class="glance-text">
-          Android 12 (2023)
-        </div>
+      <div class="glance-text">
+        Android 11
       </div>
-      <div class="glance-item">
-        <div class="glance-icon">
-          <i class="fas fa-memory"></i>
-        </div>
-        <div class="glance-text">
-          4GB RAM
-        </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-arrow-alt-up"></i>
       </div>
-      <div class="glance-item">
-        <div class="glance-icon">
-          <i class="fas fa-hdd"></i>
-        </div>
-        <div class="glance-text">
-          64GB Storage
-        </div>
+      <div class="glance-text">
+        Android 12 (2023)
       </div>
-      <div class="glance-item">
-        <div class="glance-icon">
-          <i class="fas fa-signal"></i>
-        </div>
-        <div class="glance-text">
-          Global LTE
-        </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-memory"></i>
       </div>
-      <div class="glance-item">
-        <div class="glance-icon">
-          <i class="fas fa-badge-check"></i>
-        </div>
-        <div class="glance-text">
-          EMM validated
-        </div>
+      <div class="glance-text">
+        4GB RAM
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-hdd"></i>
+      </div>
+      <div class="glance-text">
+        64GB Storage
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-signal"></i>
+      </div>
+      <div class="glance-text">
+        Global LTE
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-badge-check"></i>
+      </div>
+      <div class="glance-text">
+        EMM validated
       </div>
     </div>
   </div>
 </div>
-
-## Device overview
-
-[![](/assets/t5se_wireframe.svg)](/assets/t5se_wireframe.svg)
 
 ## Getting started
 
