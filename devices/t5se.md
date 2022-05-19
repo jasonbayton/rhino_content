@@ -131,7 +131,7 @@ model: T5se
 |                       | NFC                                  |
 |                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
 |                       |                                      |
-| **Camera**            | 8MP.                                 |
+| **Camera**            | 8MP front                            |
 |                       | 8MP rear                             |
 |                       |                                      |
 | **Scanner**           | Honeywell N670XSR-RO-103             |
