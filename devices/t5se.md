@@ -1,5 +1,5 @@
 ---
-title: Rhino T5se
+title: RHINO T5se
 subtitle: ''
 featuredImage: ''
 featured: 'false'

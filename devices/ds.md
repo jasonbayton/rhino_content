@@ -1,5 +1,5 @@
 ---
-title: Rhino DS
+title: RHINO DS
 subtitle: ''
 featuredImage: ''
 featured: 'false'

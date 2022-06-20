@@ -1,5 +1,5 @@
 ---
-title: Rhino PACE A1
+title: RHINO PACE A1
 subtitle: ''
 featuredImage: ''
 featured: 'false'
