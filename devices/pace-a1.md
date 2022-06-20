@@ -1,0 +1,177 @@
+---
+title: Rhino PACE A1
+subtitle: ''
+featuredImage: ''
+featured: 'false'
+date: '2021-06-20'
+updated: ''
+url: "/devices/pace-a1"
+type: device
+published: 'true'
+parent: Devices
+topic: ''
+order: '0'
+model: PACE A1
+---
+
+<div class="device-wireframe-wrapper">
+<div class="device-wireframe" markdown="1">
+[![](/assets/t8_wireframe.svg)](/assets/t8_wireframe.svg)
+</div>
+</div>
+
+<div class="device-intro">
+  <h2>At a glance</h2>
+  <div id="glance_grid">
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-rocket-launch"></i>
+      </div>
+      <div class="glance-text">
+        Android 9.0
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-arrow-alt-up"></i>
+      </div>
+      <div class="glance-text">
+        <a href="/security/releases/t8/t8-001_20210605">Android 10</a>
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-memory"></i>
+      </div>
+      <div class="glance-text">
+        2GB/3GB RAM
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-hdd"></i>
+      </div>
+      <div class="glance-text">
+        32GB Storage
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-signal"></i>
+      </div>
+      <div class="glance-text">
+        Global LTE
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-badge-check"></i>
+      </div>
+      <div class="glance-text">
+        EMM validated
+      </div>
+    </div>
+    <div class="glance-item">
+      <div class="glance-icon">
+        <i class="fas fa-brackets"></i>
+      </div>
+      <div class="glance-text">
+        With/without NFC
+      </div>
+    </div>
+  </div>
+</div>
+
+## Getting started
+
+<div id="support_table" markdown="1">
+| **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                               |
+|-----------------|--------------------------------------|-----------------------------------------------------------|
+| Quickstart      | Get started with your device, quickly | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/Ec2rhALKexhOjD5l-GmvX2ABDwEZov4xG7le7uY0eeawRA?e=6g1bMG) |
+| Device manual   | Learn how to use your T8 in detail   | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/Eb-z1hJhEPVMhwoNaVYgo_cBMSgEHbszMzbYhW5Gf-3uSA?e=krDrWE) |
+| CE Declaration  | Longform declaration of conformity for CE | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EVlnSg25_whHlBWqtjcmsQ8BVoViC4NUM87wMkqa4GXTnQ?e=BC6t4W) |
+</div>
+
+## Device spec
+
+<div id="support_table" class="table-headless table-spec" markdown="1">
+|||
+|-----------------------|--------------------------------------|
+| **Display**           | 8" HD                                |
+|                       | 276 PPI                              |
+|                       | IPS panel                            |
+|                       | Contrast typically 1:700             |
+|                       | Brightness up to 250cd/m2            |
+|                       | 1280 x 800 resolution                |
+|                       | Viewing angles 85°/85°(v/h)          |
+|                       | 16.9m colours                        |
+|                       | 16:9 aspect ratio                    |
+|                       | 60Hz refresh rate                    |
+|                       | 30ms response time                   |
+|                       | 10 touch points                      |
+|                       |                                      |
+| **Memory & storage**  | 2GB, 3GB DRAM LPDDR3                 |
+|                       | 32GB eMMC 5.1                        |
+|                       |                                      |
+| **Processor**         | MediaTek MT8765 Quadcore 1.3GHz      |
+|                       |                                      |
+| **Battery**           | 5100mAh Li-ion                       |
+|                       | Fast charge supported                |
+|                       | 10+ hours typical use                |
+|                       | 30 days standby                      |
+|                       |                                      |
+| **SIM**               | Dual nano/MicroSD                    |
+|                       |                                      |
+| **Ports**             | SIM                                  |
+|                       | MicroSD up to 256GB                  |
+|                       | USB Type C, USB 2.0                  |
+|                       | 3.5mm jack                           |
+|                       |                                      |
+| **Audio**             | Stereo mic array                     |
+|                       | Stereo speakers                      |
+|                       | Wake word support                    |
+|                       |                                      |
+| **Connectivity**      | LTE Cat 3                            |
+|                       | 2G: 2 3 5 8                          |
+|                       | 3G: 1 2 4 5 8                        |
+|                       | 4G: 2 3 4 5 7 12 17 20 25 26 30 41 66 71 |
+|                       | Wi-Fi 802.11 a/b/g/n                 |
+|                       | Bluetooth 4.2                        |
+|                       | NFC                                  |
+|                       | Location: GPS, GLONASS, A-GAP        |
+|                       |                                      |
+| **Camera**            | 5MP, 120° wide-angle front           |
+|                       | 8MP rear                             |
+|                       |                                      |
+| **Sensors**           | Accelerometer                        |
+|                       | Gyroscope                            |
+|                       | Ambient light sensor                 |
+|                       | Proximity sensor                     |
+|                       |                                      |
+| **Environmental**     | Functional up to 95% humidity        |
+|                       | -10c to 55c typical operating temp   |
+|                       | Unboxed(LWH): 201.9mm x 138.5mm x 10.1mm   |
+|                       | Boxed(LWH): 228.6mm x 171.4mm x 57.1mm    |
+|                       | IP5X rated                           |
+|                       | 0.5m drop-tested                     |
+|                       | 1.5m drop-tested with case           |
+|                       | 5v @ 2.0A power                      |
+|                       |                                      |
+| **Certifications**    | FCC                                  |
+|                       | CE                                   |
+|                       | ROHS                                 |
+|                       | REACH                                |
+|                       | WEEE                                 |
+|                       | MSDS                                 |
+|                       | UN38.3                               |
+|                       | RCM                                  |
+|                       | PTCRB                                |
+</div>
+
+## Product lifecycle
+
+For product support and lifecycle status, please see the [security](/security) page.
+
+## Warranty information
+
+All Rhino hardware comes with a 1 year limited warranty. For detailed warranty information, please see [Rhino Warranty](/support/warranty).
