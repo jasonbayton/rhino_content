@@ -7,7 +7,7 @@ date: '2021-06-20'
 updated: ''
 url: "/devices/pace-a1"
 type: device
-published: 'true'
+published: 'false'
 parent: Devices
 topic: ''
 order: '0'
