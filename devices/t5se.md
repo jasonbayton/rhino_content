@@ -91,7 +91,7 @@ model: T5se
 |                       | IPS panel                            |
 |                       | Contrast typically 1:800/1000        |
 |                       | Brightness up to 300cd/m2            |
-|                       | 1920x1200 resolution                 |
+|                       | 720x1280 resolution                 |
 |                       | Viewing angles 85°/85°(v/h)          |
 |                       | 16.7m colours                        |
 |                       | 16:10 aspect ratio                   |
