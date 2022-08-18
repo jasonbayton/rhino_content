@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-Rhino's default notification sounds and ringtones can be easily personalised to suit your needs as follows:
+RHINO 's default notification sounds and ringtones can be easily personalised to suit your needs as follows:
 
 <div class="numbered-instructions" markdown="1">
 1. Open **Settings**

@@ -26,7 +26,7 @@ The following apps are preloaded for analytical and technical reasons:
 
 | App name | Description |
 |--|--|
-| RHINO Configure | Rhino's OEMconfig implementation. Used for enterprise management of bespoke RHINO APIs |
+| RHINO Configure | RHINO 's OEMconfig implementation. Used for enterprise management of bespoke RHINO APIs |
 | RHINO Activation | A utility app that records the current software version running on all RHINO devices over a 30 day period* |
 | RHINO Engineering | A utility app for validating hardware functionality used at the factory prior to shipment |
 
