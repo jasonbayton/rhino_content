@@ -79,7 +79,7 @@ If any portion of this Limited Warranty is held to be illegal or unenforceable, 
 
 RHINO can be contacted at the following address:
 
-RHINO Mobility  
+Rhino Mobility  
 219 N 21st AVE., Second Floor,  
 Hollywood, FL 33020  
 Attn: Ali Webster  
