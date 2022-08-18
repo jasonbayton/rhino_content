@@ -1,5 +1,5 @@
 ---
-title: Rhino Support
+title: RHINO Support
 subtitle: ''
 featuredImage: ''
 featured: 'false'

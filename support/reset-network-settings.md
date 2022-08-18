@@ -29,5 +29,5 @@ If you're having issues with connectivity, including Wi-Fi, cellular (mobile dat
 4. Tap **Reset Wi-Fi, mobile & Bluetooth**
 5. Tap **RESET SETTINGS**
 6. Tap **RESET SETTINGS** again
-7. The Rhino device will begin the irreversible process of resetting all network settings. Be prepared to re-input configurations and saved networks again.
+7. The RHINO device will begin the irreversible process of resetting all network settings. Be prepared to re-input configurations and saved networks again.
 </div>

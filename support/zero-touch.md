@@ -1,5 +1,5 @@
 ---
-title: Provision your Rhino device with zero-touch
+title: Provision your RHINO device with zero-touch
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -21,12 +21,12 @@ appliesTo:
 
 <div class="callout callout-warning">
 <div class="callout-heading">Enterprise management heads-up</div>
-Note: You will need a zero-touch Customer Account which can be acquired from your device reseller. If you are using a Rhino Device purchased direct from Social Mobile or Rhino online, please <a href="/support/escalate">contact the Rhino team</a>
+Note: You will need a zero-touch Customer Account which can be acquired from your device reseller. If you are using a RHINO Device purchased direct from Social Mobile or RHINO online, please <a href="/support/escalate">contact the RHINO team</a>
 </div>
 
 ## What is zero-touch?
 
-Zero-touch is an Android Enterprise enrolment method, which can offer an efficient way to provision your Rhino devices for enterprise management. Used by many organisations, it allows a device to be preconfigured, or assigned, to an EMM platform prior to the device being switched on for the first time (the out of box experience).
+Zero-touch is an Android Enterprise enrolment method, which can offer an efficient way to provision your RHINO devices for enterprise management. Used by many organisations, it allows a device to be preconfigured, or assigned, to an EMM platform prior to the device being switched on for the first time (the out of box experience).
 
 Once you have zero-touch configured, you can turn on an assigned device, connect it to a network & the zero-touch configuration will pull down the EMM config to enrol it onto your EMM Console.
 
@@ -37,7 +37,7 @@ As the name suggests, there is minimal interaction required from the IT/mobile a
 
 ## Zero Touch Minimum Requirements
 
-You will need a compatible device running Android Oreo [8.0], and all Android 9.0 devices on the market are supported by default. All Rhino devices as of 2022 run Android 10 or newer.
+You will need a compatible device running Android Oreo [8.0], and all Android 9.0 devices on the market are supported by default. All RHINO devices as of 2022 run Android 10 or newer.
 
 ## How to configure Zero Touch
 

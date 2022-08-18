@@ -1,5 +1,5 @@
 ---
-title: Rhino preloaded applications
+title: RHINO preloaded applications
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,26 +19,26 @@ appliesTo:
 - K27p
 ---
 
-Your Rhino device comes preloaded with multiple applications for both convenience and usability.
+Your RHINO device comes preloaded with multiple applications for both convenience and usability.
 
-## Rhino brand applications
+## RHINO brand applications
 The following apps are preloaded for analytical and technical reasons:
 
 | App name | Description |
 |--|--|
-| Rhino Configure | Rhino's OEMconfig implementation. Used for enterprise management of bespoke Rhino APIs |
-| Rhino Activation | A utility app that records the current software version running on all Rhino devices over a 30 day period* |
-| Rhino Engineering | A utility app for validating hardware functionality used at the factory prior to shipment |
+| RHINO Configure | Rhino's OEMconfig implementation. Used for enterprise management of bespoke RHINO APIs |
+| RHINO Activation | A utility app that records the current software version running on all RHINO devices over a 30 day period* |
+| RHINO Engineering | A utility app for validating hardware functionality used at the factory prior to shipment |
 
 The following apps may be preloaded now or in future:
 
 | App name | Description |
 |--|--|
-| Rhino Diagnostics | A utility app offering on-device diagnostics and licensable remote monitoring for enterprise organisations |
-| Rhino Scan | A licensable camera-based scan engine for barcode scanning |
-| Rhino ScanEngine | A scan service plugin for barcode scanner-integrated Rhino devices |
-| Rhino OTA | A licensable enterprise OTA software management service |
-| Rhino Print | A print service plugin for printer-integrated Rhino devices |
+| RHINO Diagnostics | A utility app offering on-device diagnostics and licensable remote monitoring for enterprise organisations |
+| RHINO Scan | A licensable camera-based scan engine for barcode scanning |
+| RHINO ScanEngine | A scan service plugin for barcode scanner-integrated RHINO devices |
+| RHINO OTA | A licensable enterprise OTA software management service |
+| RHINO Print | A print service plugin for printer-integrated RHINO devices |
 
 *This data is not stored for more than 30 days, and no identifiable information can be discerned from a software version.
 

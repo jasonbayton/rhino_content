@@ -174,4 +174,4 @@ For product support and lifecycle status, please see the [security](/security) p
 
 ## Warranty information
 
-All Rhino hardware comes with a 1 year limited warranty. For detailed warranty information, please see [Rhino Warranty](/support/warranty).
+All RHINO hardware comes with a 1 year limited warranty. For detailed warranty information, please see [RHINO Warranty](/support/warranty).

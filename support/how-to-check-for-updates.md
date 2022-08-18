@@ -19,7 +19,7 @@ appliesTo:
 - T5se
 ---
 
-Rhino devices are updated frequently throughout their software support lifecycle. Oftentimes updates are critical to ensuring your device is secure and up to date, and may equally include vital fixes ensuring smooth, reliable usage of your Rhino device for years to come.
+RHINO devices are updated frequently throughout their software support lifecycle. Oftentimes updates are critical to ensuring your device is secure and up to date, and may equally include vital fixes ensuring smooth, reliable usage of your RHINO device for years to come.
 
 Updates, depending on the nature of the changes being provided, may be applied silently in the background during typical usage, and need only for the device to be rebooted when ready. The device will alert you of this in the form of a notification.
 
@@ -42,4 +42,4 @@ If you find you must regularly manually check for updates, consider the followin
 - The device must be idle
 - The device should be connected to power
 
-Other such factors may impact the ability to download an update for your Rhino device, including enterprise management policies. If your device is managed by your organisation, reach out to them for clarity on any/all policies applied pertaining to update management.
+Other such factors may impact the ability to download an update for your RHINO device, including enterprise management policies. If your device is managed by your organisation, reach out to them for clarity on any/all policies applied pertaining to update management.

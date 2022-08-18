@@ -1,5 +1,5 @@
 ---
-title: Locate the IMEI & serial of your Rhino device
+title: Locate the IMEI & serial of your RHINO device
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,7 +19,7 @@ appliesTo:
 - T5se
 ---
 
-To view the hardware information of your Rhino device, including IMEI, serial, do the following:
+To view the hardware information of your RHINO device, including IMEI, serial, do the following:
 
 ## Serial number
 

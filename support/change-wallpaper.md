@@ -18,7 +18,7 @@ appliesTo:
 - K27p
 ---
 
-To change the wallpaper on your Rhino device:
+To change the wallpaper on your RHINO device:
 
 <div class="numbered-instructions" markdown="1">
 1. Tap & hold on the home screen

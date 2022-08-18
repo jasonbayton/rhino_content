@@ -15,7 +15,7 @@ appliesTo:
 - M10p
 ---
 
-Your Rhino M10p is designed to run on a permanent power source and therefore does _not_ have a battery. To prevent potential issues with the OS when power is lost, including corruption, data loss, or memory issues, the M10p leverages an intelligent power-down system in the event of mains power loss.
+Your RHINO M10p is designed to run on a permanent power source and therefore does _not_ have a battery. To prevent potential issues with the OS when power is lost, including corruption, data loss, or memory issues, the M10p leverages an intelligent power-down system in the event of mains power loss.
 
 In order for this to function, it charges up when the unit is plugged in. This can incur a delay when powering on after periods of the unit being unplugged or completely switched off as it takes a short time to initially charge.
 

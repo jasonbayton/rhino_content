@@ -1,5 +1,5 @@
 ---
-title: How to set up a Rhino device via QR code
+title: How to set up a RHINO device via QR code
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -37,5 +37,5 @@ QR code enrolment allows customers to initiate Android Enterprise managed provis
 </div>
 
 <div class="callout callout-warning">
-The Rhino team do not supply QR codes for device management. Speak to your organisation for this.
+The RHINO team do not supply QR codes for device management. Speak to your organisation for this.
 </div>

@@ -21,7 +21,7 @@ model: DS
 
 <div class="device-grid">
   <div class="device-image">
-    <img src="/assets/ds-1x.png" alt="Rhino DS hero">
+    <img src="/assets/ds-1x.png" alt="RHINO DS hero">
   </div>
   <div class="device-intro">
     <blockquote>
@@ -123,4 +123,4 @@ For product support and lifecycle status, please see the [security](/security) p
 
 ## Warranty information
 
-All Rhino hardware comes with a 1 year limited warranty. For detailed warranty information, please see [Rhino Warranty](/support/warranty).
+All RHINO hardware comes with a 1 year limited warranty. For detailed warranty information, please see [RHINO Warranty](/support/warranty).

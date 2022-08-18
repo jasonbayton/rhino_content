@@ -1,5 +1,5 @@
 ---
-title: How to customise your Rhino ringtone and notification sounds
+title: How to customise your RHINO ringtone and notification sounds
 subtitle: ''
 featuredImage: ''
 featured: 'false'

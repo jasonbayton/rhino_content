@@ -1,5 +1,5 @@
 ---
-title: Rhino warranty
+title: RHINO warranty
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,7 +19,7 @@ appliesTo:
 - T5se
 ---
 
-All Rhino devices benefit from a 12 month limited warranty covering defects in materials and workmanship. The warranty applies from date of purchase and can be claimed against with any valid proof of purchase providing the defective unit is complete, and undamaged.
+All RHINO devices benefit from a 12 month limited warranty covering defects in materials and workmanship. The warranty applies from date of purchase and can be claimed against with any valid proof of purchase providing the defective unit is complete, and undamaged.
 
 To check the warranty status of your device, use our [warranty check](/support/warranty-check) service. To initiate a warranty return, please visit [escalating to support](/support/escalate) for further guidance.
 
@@ -40,7 +40,7 @@ We'll ask if you've attempted to charge the device prior to contacting us throug
 <details class="details-content">
 <summary class="summary-heading"><h3>The device doesn't behave as expected under management or with an application, is this covered?</h3></summary>
 
-Outside of the 30 day return window if purchased direct, software related issues are not covered by the materials and workmanship warranty and would instead be routed to the <a href="/support/escalate">Rhino support team</a> for assistance.
+Outside of the 30 day return window if purchased direct, software related issues are not covered by the materials and workmanship warranty and would instead be routed to the <a href="/support/escalate">RHINO support team</a> for assistance.
 </details>
 
 <details class="details-content">

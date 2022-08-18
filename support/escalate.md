@@ -1,5 +1,5 @@
 ---
-title: Escalate to Rhino Support
+title: Escalate to RHINO Support
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-We're sorry to see you have an issue that requires escalation to Rhino support.
+We're sorry to see you have an issue that requires escalation to RHINO support.
 
 Before reaching out, please prepare the following information to ensure we can help you as quickly as possible:
 
@@ -35,7 +35,7 @@ Before reaching out, please prepare the following information to ensure we can h
 - Number of devices affected
 - Period of time this issue has been present
 
-Should you suffer from an obvious hardware issue (dead pixels, unusable ports, etc), please state this clearly when raising an issue with the Rhino support team, as an RMA process will need to be initialised for in-warranty devices.
+Should you suffer from an obvious hardware issue (dead pixels, unusable ports, etc), please state this clearly when raising an issue with the RHINO support team, as an RMA process will need to be initialised for in-warranty devices.
 
 With all of the information above prepared, please submit a request to [support@rhinomobility.com](mailto:support@rhinomobility.com)  
 

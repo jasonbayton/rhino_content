@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-ADB, or Android Debug Bridge, is a command-line utility included with Google's Android SDK. ADB can control and interact with your Rhino device over USB or network from a computer, and allows below operations:
+ADB, or Android Debug Bridge, is a command-line utility included with Google's Android SDK. ADB can control and interact with your RHINO device over USB or network from a computer, and allows below operations:
 
 - Install, copy, and delete files.
 - Install a program on a device.

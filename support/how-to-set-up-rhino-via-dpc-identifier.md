@@ -1,5 +1,5 @@
 ---
-title: How to set up a Rhino device via DPC identifier
+title: How to set up a RHINO device via DPC identifier
 subtitle: ''
 featuredImage: ''
 featured: 'false'

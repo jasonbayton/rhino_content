@@ -1,5 +1,5 @@
 ---
-title: Rhino software releases
+title: RHINO software releases
 subtitle: ''
 featuredImage: ''
 featured: 'false'

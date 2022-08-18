@@ -10,6 +10,6 @@ type: release
 published: 'true'
 parent: Releases
 parentID: DS
-topic: Rhino Software Releases
+topic: RHINO Software Releases
 order: '0'
 ---

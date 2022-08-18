@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-Rhino devices running Android 10 and above default to 3-button navigation due to its familiarity and ease of use.
+RHINO devices running Android 10 and above default to 3-button navigation due to its familiarity and ease of use.
 
 Should you wish to change to gesture navigation and benefit from full-screen applications, do the following:
 

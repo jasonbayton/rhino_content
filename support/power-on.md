@@ -1,5 +1,5 @@
 ---
-title: How to power on your Rhino device
+title: How to power on your RHINO device
 subtitle: ''
 featuredImage: ''
 featured: 'false'

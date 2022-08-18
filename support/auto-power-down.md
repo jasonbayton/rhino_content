@@ -1,5 +1,5 @@
 ---
-title: Why does my Rhino power off during the set up Wizard?
+title: Why does my RHINO power off during the set up Wizard?
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-Rhino devices are configured from factory to automatically power down should the device remain on the Welcome screen of the setup Wizard for more than 20 minutes.
+RHINO devices are configured from factory to automatically power down should the device remain on the Welcome screen of the setup Wizard for more than 20 minutes.
 
 The typical scenario this addresses is inadvertent powering on during transit, wherein a device may otherwise arrive at a customer location with no remaining battery life. This can cause delays for staging, setup, and other time-critical tasks.
 

@@ -52,7 +52,7 @@ After enabling developer mode,
 5. Swipe to USB debugging, and toggle it on
 </div>
 
-It'll now be possible to plug your Rhino device into a computer and undertake various debugging tasks. When first plugging in, the device will prompt for authorisation. Allow this.
+It'll now be possible to plug your RHINO device into a computer and undertake various debugging tasks. When first plugging in, the device will prompt for authorisation. Allow this.
 
 ## Take a bug report
 
@@ -76,15 +76,15 @@ More details, via [Google](https://developer.android.com/studio/debug/bug-report
 
 ## Capture live logcat
 
-With developer options enabled, if requested by the Rhino team:
+With developer options enabled, if requested by the RHINO team:
 
 <div class="numbered-instructions" markdown="1">
 1. Connect the device to PC via USB
 2. Run the command `adb logcat` > `path/filename.txt`
   1. NB: Change `path/filename.txt` to a legitimate path on your computer
 3. Replicate the issue(s), one per logcat command issuance and note down the timestamp to the second
-  1. If the timestamp isn't provided _to the second_ (ie 12:13:34) with the logcat, the Rhino team will request a new logcat with timestamp.
+  1. If the timestamp isn't provided _to the second_ (ie 12:13:34) with the logcat, the RHINO team will request a new logcat with timestamp.
 4. Hit Ctrl + C to stop logging to file
   1. That'll be CMD + C on Mac
-5. Fetch the log file from the saved location, and send it to the Rhino team
+5. Fetch the log file from the saved location, and send it to the RHINO team
 </div>

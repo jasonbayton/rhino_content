@@ -1,5 +1,5 @@
 ---
-title: How to use Wi-Fi on your Rhino device
+title: How to use Wi-Fi on your RHINO device
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-The Wi-Fi radio on your Rhino device provides as much as 300feet (100M) range of wireless network access and supports both 2.4GHz and 5GHz bands. If you use your device to connect to the internet, you may choose to connect to a wireless access point. Wi-Fi is enabled by default on Rhino devices, however can be turned off or back on as follows.
+The Wi-Fi radio on your RHINO device provides as much as 300feet (100M) range of wireless network access and supports both 2.4GHz and 5GHz bands. If you use your device to connect to the internet, you may choose to connect to a wireless access point. Wi-Fi is enabled by default on RHINO devices, however can be turned off or back on as follows.
 
 ## How to manage the Wi-Fi radio:
 
@@ -40,7 +40,7 @@ The Wi-Fi radio on your Rhino device provides as much as 300feet (100M) range of
 <div class="numbered-instructions" markdown="1">
 1. Within **Settings** > **Network & internet** > **Wi-Fi**, a list of Wi-Fi networks will display along with authentication in use (e.g. WPA).
 2. Tap on a preferred Wi-Fi network, and connect with the known Wi-Fi network credentials.
-3. Once the Rhino device is connected to Wi-Fi, the SSID will display "Connected" beneath it, with a Wi-Fi indicator to its left(<span class="material-icons">wifi</span>), with the approximate signal strength (the number of lit bars). If you touch the connected network, it will display the name of Wi-Fi network, status, speed, signal, strength, security, information, and IP address.  
+3. Once the RHINO device is connected to Wi-Fi, the SSID will display "Connected" beneath it, with a Wi-Fi indicator to its left(<span class="material-icons">wifi</span>), with the approximate signal strength (the number of lit bars). If you touch the connected network, it will display the name of Wi-Fi network, status, speed, signal, strength, security, information, and IP address.  
 </div>
 
 ## How to remove a saved Wi-Fi network

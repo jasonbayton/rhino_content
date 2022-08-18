@@ -1,5 +1,5 @@
 ---
-title: How to use Bluetooth on your Rhino device
+title: How to use Bluetooth on your RHINO device
 subtitle: ''
 featuredImage: ''
 featured: 'false'
@@ -19,7 +19,7 @@ appliesTo:
 - K27p
 ---
 
-The Bluetooth 4.2 radio on your Rhino T8 allows for the connection of many Bluetooth-compatible accessories, including headsets, wireless speakers, car kits, and other smart devices. Bluetooth is enabled by default on Rhino devices, however can be turned off or back on as follows.
+The Bluetooth 4.2 radio on your RHINO T8 allows for the connection of many Bluetooth-compatible accessories, including headsets, wireless speakers, car kits, and other smart devices. Bluetooth is enabled by default on RHINO devices, however can be turned off or back on as follows.
 
 ## How to manage the Bluetooth radio:
 

@@ -1,5 +1,5 @@
 ---
-title: How to view the Rhino privacy policy
+title: How to view the RHINO privacy policy
 subtitle: ''
 featuredImage: ''
 featured: 'false'

@@ -358,7 +358,7 @@ This restriction will be applied in all EU member states.
 
 Receiver Category 2
 
-Manufacturer name: Rhino Mobility LLC
+Manufacturer name: RHINO Mobility LLC
 
 Address: 8 The Green, Suite A, Dover, Delaware, 19901, USA
 
