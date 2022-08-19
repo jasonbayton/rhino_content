@@ -73,7 +73,7 @@ model: PACE A1
     </div>
     <div class="glance-item">
       <div class="glance-icon">
-        <i class="fas fa-battery"></i>
+        <i class="fas fa-battery-full"></i>
       </div>
       <div class="glance-text">
         Removable battery
@@ -148,19 +148,15 @@ model: PACE A1
 |                       |                                      |
 | **Environmental**     | ± Functional up to 95% humidity        |
 |                       | ± -10c to 55c typical operating temp   |
-|                       | Unboxed(LWH): 150.4mm x 70mm x 10.2mm   |
-|                       | ± Boxed(LWH): 228.6mm x 171.4mm x 57.1mm    |
+|                       | Unboxed(LWH): TBD   |
+|                       | Boxed(LWH): TBD    |
 |                       | 0.5m drop-tested                     |
 |                       | ± 1.5m drop-tested with case           |
 |                       | 5v @ 2.0A power                      |
 |                       |                                      |
-| **Certifications**    | FCC                                  |
-|                       | ± ROHS                                 |
-|                       | ± REACH                                |
-|                       | ± WEEE                                 |
+| **Certifications**    | FCC                                  ||
 |                       | MSDS                                 |
 |                       | UN38.3                               |
-|                       | ± RCM                                  |
 |                       | PTCRB                                |
 </div>
 
