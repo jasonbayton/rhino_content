@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 The device language is typically set during device setup, but should it need to be adjusted after setup, follow these steps:

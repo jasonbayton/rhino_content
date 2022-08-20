@@ -17,6 +17,7 @@ appliesTo:
 - K27p
 - M10p
 - T5se
+- PACE A1
 ---
 
 Battery Optimisation is part of Android's suite of power management tools. It allows Android to control the activities of optimised applications, including background usage and network communications. It does this to allow for longer battery life, as having many apps running in the background and consuming data unfettered would lead to considerable battery drain when the device is not in use.

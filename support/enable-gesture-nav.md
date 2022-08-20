@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 RHINO devices running Android 10 and above default to 3-button navigation due to its familiarity and ease of use.

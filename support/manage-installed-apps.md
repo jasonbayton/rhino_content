@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 If an installed application is misbehaving, you may choose to force close it, clear its data, or fully remove it. Here's how to do so:

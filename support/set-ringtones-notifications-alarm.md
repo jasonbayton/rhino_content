@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 RHINO 's default notification sounds and ringtones can be easily personalised to suit your needs as follows:

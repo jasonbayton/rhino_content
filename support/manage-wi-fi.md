@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 The Wi-Fi radio on your RHINO device provides as much as 300feet (100M) range of wireless network access and supports both 2.4GHz and 5GHz bands. If you use your device to connect to the internet, you may choose to connect to a wireless access point. Wi-Fi is enabled by default on RHINO devices, however can be turned off or back on as follows.

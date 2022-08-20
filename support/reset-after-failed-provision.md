@@ -17,6 +17,7 @@ appliesTo:
 - M10p
 - T5se
 - K27p
+- PACE A1
 ---
 
 Occasionally the zero-touch provisioning flow may fail. This can be a number of things:

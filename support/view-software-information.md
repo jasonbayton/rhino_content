@@ -17,6 +17,7 @@ appliesTo:
 - T5se
 - M10p
 - K27p
+- PACE A1
 ---
 
 To view the software information of your RHINO device, including Android version, build number, baseband version, do the following:

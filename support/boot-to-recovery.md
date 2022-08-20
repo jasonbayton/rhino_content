@@ -17,6 +17,7 @@ appliesTo:
 - K27p
 - M10p
 - T5se
+- PACE A1
 ---
 
 Android's recovery mode is a device-level tool built into most Android devices on the market. All RHINO devices can access recovery mode using the key combination `Power` + `Volume up` when the unit is powered off. Recovery can be used to reset a device back to factory settings, test hardware functions, and more.  

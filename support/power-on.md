@@ -17,13 +17,14 @@ appliesTo:
 - T5se
 - M10p
 - K27p
+- PACE A1
 ---
 
 ## T8/C10
 
 Power on your device by holding the power button on the **top left** of the unit. The button should be pressed for 2-3s in order for it to boot.
 
-## T5se / R6
+## T5se / R6 / PACE A1
 
 Power on your device by holding the power button on the **right hand side** of the unit. The button should be pressed for 2-3s in order for it to boot.
 

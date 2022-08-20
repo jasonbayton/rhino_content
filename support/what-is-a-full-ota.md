@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 Every release cycle the RHINO team upload an OTA package for customers to download and manually apply to their RHINO devices.

@@ -16,6 +16,7 @@ appliesTo:
 - T8
 - M10p
 - K27p
+- PACE A1
 ---
 
 To change the wallpaper on your RHINO device:

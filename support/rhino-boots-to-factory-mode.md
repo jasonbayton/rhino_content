@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 If your RHINO device has booted into a black screen with large, white/yellow text, you may have booted inadvertently into our factory test mode.

@@ -17,6 +17,7 @@ appliesTo:
 - K27p
 - M10p
 - T5se
+- PACE A1
 ---
 
 For offline/staging purposes, it is possible to update your RHINO device via an SD card using a previously-downloaded OTA file (we provide these under [releases](/security/software-releases)). Updating your RHINO device via SD card is safe and fully supported by the RHINO team, however it is also reliant on having an SD card to hand. For a more technical method without this prerequisite, you may prefer to try [updating via ADB](/support/update-via-adb). Happy to continue? Here's how to do it:

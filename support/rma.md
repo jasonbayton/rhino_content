@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 If you've been instructed to fill out the RHINO RMA form, you'll find it below.
