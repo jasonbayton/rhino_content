@@ -17,6 +17,7 @@ appliesTo:
 - C10
 - M10p
 - K27p
+- PACE A1
 ---
 
 RHINO devices are configured from factory to automatically power down should the device remain on the Welcome screen of the setup Wizard for more than 20 minutes.

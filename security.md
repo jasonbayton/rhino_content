@@ -45,6 +45,7 @@ The following table outlines each available RHINO device and pertinent informati
 |------------------------------------|---------|------------|--------|------------------------------------------------|-----------|-------------|
 | [DS](/security/releases/ds)        | Multi   | 2022       | 11     | 12                                             | 2025      | 2027        |
 | [T5se](/security/releases/t5se)    | Global  | 2022       | 11     | 12                                             | 2025      | 2027        |
+| [PACE A1](/security/releases/pace-a1)    | US  | 2022       | 11     | 12                                             | 2025      | 2027        |
 | [R6](/security/releases/r6)        | Global  | TBD        | 11     | 12                                             | TBD       | TBD         |
 | [T6p](/security/releases/t6p)      | Global  | TBD        | 11     | 12                                             | TBD       | TBD         |
 | [T8](/security/releases/t8)        | Global  | Aug 2020   | 9      | [10](/security/releases/t8/t8-001_20210605)    | Aug 2023  | Aug 2023    |

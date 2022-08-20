@@ -158,6 +158,7 @@ model: PACE A1
 |                       | MSDS                                 |
 |                       | UN38.3                               |
 |                       | PTCRB                                |
+|                       | CEC                                |
 </div>
 
 ## Product lifecycle
