@@ -118,9 +118,9 @@ model: PACE A1
 | **Battery**           | 2400mAh Li-ion (removable)           |
 |                       | Fast charge supported                |
 |                       | 8+ hours typical use                 |
-|                       | ± 100 hours standby                      |
+|                       | ± 100 hours standby                  |
 |                       |                                      |
-| **SIM**               | Single Nano/MicroSD                    |
+| **SIM**               | Single Nano/MicroSD                  |
 |                       |                                      |
 | **Ports**             | SIM                                  |
 |                       | MicroSD up to 256GB                  |
@@ -128,7 +128,7 @@ model: PACE A1
 |                       | 3.5mm jack                           |
 |                       |                                      |
 | **Audio**             | Mono mic                             |
-|                       | Mono speakers                      |
+|                       | Mono speakers                        |
 |                       | Wake word support                    |
 |                       |                                      |
 | **Connectivity**      | LTE Cat 4                            |
@@ -144,20 +144,20 @@ model: PACE A1
 |                       |                                      |
 | **Sensors**           | Accelerometer                        |
 |                       | Gyroscope                            |       		
-|                       | Barometer                     |
+|                       | Barometer                            |
 |                       |                                      |
 | **Environmental**     | Functional up to 95% humidity        |
 |                       | -25c to 50c typical operating temp   |
-|                       | Unboxed(LWH): 150.4 x 70 x 10.2mm   |
-|                       | Boxed(LWH): 165 x 95 x 50mm    |
+|                       | Unboxed(LWH): 150.4 x 70 x 10.2mm    |
+|                       | Boxed(LWH): 165 x 95 x 50mm          |
 |                       | 0.5m drop-tested                     |
 |                       | 5v @ 2.0A power                      |
 |                       |                                      |
-| **Certifications**    | FCC                                  ||
+| **Certifications**    | FCC                                  |
 |                       | MSDS                                 |
 |                       | UN38.3                               |
 |                       | PTCRB                                |
-|                       | CEC                                |
+|                       | CEC                                  |
 </div>
 
 ## Product lifecycle
