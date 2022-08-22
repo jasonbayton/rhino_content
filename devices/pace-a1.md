@@ -103,11 +103,11 @@ model: PACE A1
 |                       | Contrast typically 1500:1            |
 |                       | Brightness up to 450 nit             |
 |                       | 480 x 960 resolution                 |
-|                       | ± Viewing angles 85°/85°(v/h)          |
-|                       | ± 16.9m colours                        |
+|                       | Viewing angles 85°/85°(v/h)          |
+|                       | 16.7m colours                        |
 |                       | 18:9 aspect ratio                    |
 |                       | 60Hz refresh rate                    |
-|                       | ± 30ms response time                   |
+|                       | 30ms response time                   |
 |                       | 2 touch points                       |
 |                       |                                      |
 | **Memory & storage**  | 3GB DRAM LPDDR3                      |
@@ -118,7 +118,7 @@ model: PACE A1
 | **Battery**           | 2400mAh Li-ion (removable)           |
 |                       | Fast charge supported                |
 |                       | 8+ hours typical use                 |
-|                       | ± 30 days standby                      |
+|                       | ± 100 hours standby                      |
 |                       |                                      |
 | **SIM**               | Single Nano/MicroSD                    |
 |                       |                                      |
@@ -146,12 +146,11 @@ model: PACE A1
 |                       | Gyroscope                            |       		
 |                       | Barometer                     |
 |                       |                                      |
-| **Environmental**     | ± Functional up to 95% humidity        |
-|                       | ± -10c to 55c typical operating temp   |
-|                       | Unboxed(LWH): TBD   |
-|                       | Boxed(LWH): TBD    |
+| **Environmental**     | Functional up to 95% humidity        |
+|                       | -25c to 50c typical operating temp   |
+|                       | Unboxed(LWH): 150.4 x 70 x 10.2mm   |
+|                       | Boxed(LWH): 165 x 95 x 50mm    |
 |                       | 0.5m drop-tested                     |
-|                       | ± 1.5m drop-tested with case           |
 |                       | 5v @ 2.0A power                      |
 |                       |                                      |
 | **Certifications**    | FCC                                  ||
