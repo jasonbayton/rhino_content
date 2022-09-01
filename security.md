@@ -43,15 +43,11 @@ The following table outlines each available RHINO device and pertinent informati
 <div id="support_table" markdown="1">
 | **Model**                          | **SKU** | **Launch** | **OS** | **Upgrade**                                    | **EOA**   | **SMR EOS** |
 |------------------------------------|---------|------------|--------|------------------------------------------------|-----------|-------------|
-| [DS](/security/releases/ds)        | Multi   | 2022       | 11     | 12                                             | 2025      | 2027        |
 | [T5se](/security/releases/t5se)    | Global  | 2022       | 11     | 12                                             | 2025      | 2027        |
 | [PACE A1](/security/releases/pace-a1)    | US  | 2022       | 11     | 12                                             | 2025      | 2027        |
-| [R6](/security/releases/r6)        | Global  | TBD        | 11     | 12                                             | TBD       | TBD         |
-| [T6p](/security/releases/t6p)      | Global  | TBD        | 11     | 12                                             | TBD       | TBD         |
 | [T8](/security/releases/t8)        | Global  | Aug 2020   | 9      | [10](/security/releases/t8/t8-001_20210605)    | Aug 2023  | Aug 2023    |
 | [C10](/security/releases/c10)      | Global  | Aug 2020   | 9      | [10](/security/releases/c10/c10-001_20210617)  | Aug 2023  | Aug 2025    |
 | [M10p](/security/releases/m10p)    | Global  | Sept 2020  | 10     | 11                                             | Sept 2023 | Sept 2025   |
-| [K27p](/security/releases/k27p)    | Global  | TBD        | 10     | 11                                             | TBD       | TBD         |
 
 EOA - End of availability (manufacture)  
 SMR EOS - End of security update releases  
