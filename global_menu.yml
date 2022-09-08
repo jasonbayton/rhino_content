@@ -1,8 +1,8 @@
 - name: "Devices"
   href:
   items:
-    - name: "RHINO DS"
-      href: /devices/ds
+    - name: "RHINO PACE A1"
+      href: /devices/pace-a1
     - name: "RHINO T5se"
       href: /devices/t5se
     - name: "RHINO T8"
@@ -11,8 +11,6 @@
       href: /devices/c10
     - name: "RHINO M10p"
       href: /devices/m10p
-    - name: "RHINO K27p"
-      href: /devices/k27p
 - name: "Support"
   href: /support
 - name: "Security"

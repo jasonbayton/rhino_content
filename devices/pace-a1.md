@@ -88,7 +88,7 @@ model: PACE A1
 | **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                               |
 |-----------------|--------------------------------------|-----------------------------------------------------------|
 | Quickstart      | Get started with your device, quickly | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EZONLL8NRY9DqFpbjN3mJ6wBoPNbSoR-YM9QB6NO8iKG9Q?e=iBJlvM) |
-| Device manual   | Learn how to use your T8 in detail   | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EQPhGPBkv6pLm0t4-pbt2icBumXi0l0-EHoyNXONwgrEuw?e=SxKGsE) |
+| Device manual   | Learn how to use your PACE A1 in detail   | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EQPhGPBkv6pLm0t4-pbt2icBumXi0l0-EHoyNXONwgrEuw?e=SxKGsE) |
 
 </div>
 
@@ -103,7 +103,7 @@ model: PACE A1
 |                       | Contrast typically 1500:1            |
 |                       | Brightness up to 450 nit             |
 |                       | 480 x 960 resolution                 |
-|                       | Viewing angles 85°/85°(v/h)          |
+|                       | Viewing angles  Full View            |
 |                       | 16.7m colours                        |
 |                       | 18:9 aspect ratio                    |
 |                       | 60Hz refresh rate                    |
@@ -118,12 +118,12 @@ model: PACE A1
 | **Battery**           | 2400mAh Li-ion (removable)           |
 |                       | Fast charge supported                |
 |                       | 8+ hours typical use                 |
-|                       | ± 100 hours standby                  |
+|                       | 100 hours standby                    |
 |                       |                                      |
 | **SIM**               | Single Nano/MicroSD                  |
 |                       |                                      |
 | **Ports**             | SIM                                  |
-|                       | MicroSD up to 256GB                  |
+|                       | MicroSD up to 64GB                   |
 |                       | USB Type C, USB 2.0                  |
 |                       | 3.5mm jack                           |
 |                       |                                      |
@@ -134,30 +134,31 @@ model: PACE A1
 | **Connectivity**      | LTE Cat 4                            |
 |                       | 2G: 2 3 5 8                          |
 |                       | 3G: 2 4 5                            |
-|                       | 4G: 2 4 5 12 25 26 41 66 71          |
+|                       | 4G: 2 4 5 12 13 25 26 41 66 71       |
 |                       | Wi-Fi 802.11 a/b/g/n                 |
 |                       | Bluetooth 4.2                        |
-|                       | Location: GPS, GLONASS, A-GAP        |
+|                       | Location: GPS, AGPS                  |
 |                       |                                      |
 | **Camera**            | 5MP FF front                         |
 |                       | 8MP AF rear                          |
 |                       |                                      |
-| **Sensors**           | Accelerometer                        |
-|                       | Gyroscope                            |       		
+| **Sensors**           | Accelerometer                        |                                                        		
 |                       | Barometer                            |
 |                       |                                      |
 | **Environmental**     | Functional up to 95% humidity        |
-|                       | -25c to 50c typical operating temp   |
-|                       | Unboxed(LWH): 150.4 x 70 x 10.2mm    |
-|                       | Boxed(LWH): 165 x 95 x 50mm          |
+|                       | -10c to 55c typical operating temp   |
+|                       | Unboxed(LWH): 150.4mm x 70mm x 10.2mm|
+|                       | Boxed(LWH): 165mm x 95mm x 50mm      |
 |                       | 0.5m drop-tested                     |
 |                       | 5v @ 2.0A power                      |
 |                       |                                      |
-| **Certifications**    | FCC                                  |
+| **Certifications**    |                                      |
+|                       | FCC                                  |
 |                       | MSDS                                 |
 |                       | UN38.3                               |
 |                       | PTCRB                                |
-|                       | CEC                                  |
+|                       | DoE                                  |
+|                       | PRO65                                |
 </div>
 
 ## Product lifecycle
