@@ -103,7 +103,7 @@ model: T5se
 | **Memory & storage**  | 4GB LPDDR4                           |
 |                       | 64GB eMMC 5.1                        |
 |                       |                                      |
-| **Processor**         | MediaTek i500 Octacore 2.0GHz        |
+| **Processor**         | MediaTek Genio 500 Octacore 2.0GHz        |
 |                       |                                      |
 | **Battery**           | 3000mAh Li-ion                       |
 |                       | Fast charge supported                |

@@ -64,7 +64,7 @@ model: DS
 | **Memory & storage**  | 3GB DRAM LPDDR4                      |
 |                       | 32GB eMMC 5.1                        |
 |                       |                                      |
-| **Processor**         | MediaTek i500 Octacore 2.0GHz        |
+| **Processor**         | MediaTek Genio 500 Octacore 2.0GHz        |
 |                       |                                      |
 | **Battery**           | N/A.                                 |
 |                       | Intelligent power-down protection    |
