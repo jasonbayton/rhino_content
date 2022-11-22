@@ -126,7 +126,7 @@ model: T5se
 | **Connectivity**      | LTE Cat 4                            |
 |                       | 3G: 2 4 5 8                          |
 |                       | 4G: 1 2 3 4 5 7 12 13 14 17 20 25 26 30 41 66 71 |
-|                       | Wi-Fi 802.11 a/b/g/n                 |
+|                       | Wi-Fi 802.11 a/b/g/n/ac              |
 |                       | Bluetooth 4.2                        |
 |                       | NFC                                  |
 |                       | Location: GPS, GLONASS, A-GAP, BeiDou, Galileo |
