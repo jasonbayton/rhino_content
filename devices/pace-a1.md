@@ -88,7 +88,7 @@ model: PACE A1
 | **Doc**         | **Description**                      | <i class="fa fa-cloud"></i>                               |
 |-----------------|--------------------------------------|-----------------------------------------------------------|
 | Quickstart      | Get started with your device, quickly | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EZONLL8NRY9DqFpbjN3mJ6wBoPNbSoR-YM9QB6NO8iKG9Q?e=iBJlvM) |
-| Device manual   | Learn how to use your PACE A1 in detail   | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EQPhGPBkv6pLm0t4-pbt2icBumXi0l0-EHoyNXONwgrEuw?e=SxKGsE) |
+| Device manual   | Learn how to use your PACE A1 in detail   | [<i class="fas fa-download"></i>](https://socialmobiletel.sharepoint.com/:b:/s/RhinoResourceCentre/EfN8-vTCIcZItg9yW7Q6WHgBJ4OlbHrpczVTUKGF7VAC2w) |
 
 </div>
 
