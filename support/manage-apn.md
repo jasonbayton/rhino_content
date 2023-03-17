@@ -17,7 +17,6 @@ appliesTo:
 - M10p
 - T5se
 - K27p
-- PACE A1
 ---
 
 ## Checking APN Settings

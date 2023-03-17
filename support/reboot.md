@@ -17,7 +17,6 @@ appliesTo:
 - T5se
 - M10p
 - K27p
-- PACE A1
 ---
 
 To restart your RHINO device:

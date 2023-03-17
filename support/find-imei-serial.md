@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 To view the hardware information of your RHINO device, including IMEI, serial, do the following:

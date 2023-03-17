@@ -17,7 +17,6 @@ appliesTo:
 - C10
 - M10p
 - K27p
-- PACE A1
 ---
 
 ADB, or Android Debug Bridge, is a command-line utility included with Google's Android SDK. ADB can control and interact with your RHINO device over USB or network from a computer, and allows below operations:

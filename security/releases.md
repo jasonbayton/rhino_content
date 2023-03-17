@@ -11,7 +11,6 @@ published: 'true'
 parent: Security
 parentID: Releases
 childTopics:
-- PACE A1
 - T5se
 - T8
 - C10

@@ -17,7 +17,6 @@ appliesTo:
 - M10p
 - T5se
 - K27p
-- PACE A1
 ---
 
 Factory resetting your RHINO device is recommended before parting ways with it to ensure any and all personal or private information has been removed. Likewise, resetting a device may resolve issues where other attempted solutions have not prevailed. Depending on the state of the device, resetting it to a factory-like state can be achieved in one of two ways.

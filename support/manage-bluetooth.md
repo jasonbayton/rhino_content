@@ -17,7 +17,6 @@ appliesTo:
 - C10
 - M10p
 - K27p
-- PACE A1
 ---
 
 The Bluetooth 4.2 radio on your RHINO T8 allows for the connection of many Bluetooth-compatible accessories, including headsets, wireless speakers, car kits, and other smart devices. Bluetooth is enabled by default on RHINO devices, however can be turned off or back on as follows.

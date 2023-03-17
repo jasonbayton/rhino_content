@@ -17,7 +17,6 @@ appliesTo:
 - C10
 - M10p
 - K27p
-- PACE A1
 ---
 
 The privacy policy can be located as follows. Note a network connection is required as this will forward to a webpage through the Chrome browser:

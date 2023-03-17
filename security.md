@@ -43,10 +43,9 @@ The following table outlines each available RHINO device and pertinent informati
 <div id="support_table" markdown="1">
 | **Model**                          | **SKU** | **Launch** | **OS** | **Upgrade**                                    | **EOA**   | **SMR EOS** |
 |------------------------------------|---------|------------|--------|------------------------------------------------|-----------|-------------|
-| [RHINO C6](/security/releases/t80)       | Global  | 2023       | 12     | 13                                             | 2025      | 2026        |
-| [RHINO T80](/security/releases/t80)      | Global  | 2023       | 12     | 13                                             | 2025      | 2026        |
-| [RHINO T5se](/security/releases/t5se)    | Global  | Sep 2022   | 11     | 12                                             | Dec 2024  | Sep 2025    |
-| [RHINO PACE A1](/security/releases/pace-a1)    | US  | Sep 2022 | 11     | 12                                             | Dec 2024  | Sep 2025    |
+| [RHINO C6](/security/releases/t80)       | Global  | 2023       | 13     | 14                                             | 2025      | 2026        |
+| [RHINO T80](/security/releases/t80)      | Global  | 2023       | 13     | 14                                             | 2025      | 2026        |
+| [RHINO T100](/security/releases/t100)    | Global  | 2023       | 13     | 14                                             | 2025      | 2026        |
 | [RHINO M10p](/security/releases/m10p)    | Global  | Sept 2020  | 10     | 11                                             | Dec 2024  | Sept 2024   |
 | [RHINO T8](/security/releases/t8)        | Global  | Aug 2020   | 9      | [10](/security/releases/t8/t8-001_20210605)    | Dec 2022  | Aug 2023    |
 | [RHINO C10](/security/releases/c10)      | Global  | Aug 2020   | 9      | [10](/security/releases/c10/c10-001_20210617)  | Dec 2022  | Aug 2023    |

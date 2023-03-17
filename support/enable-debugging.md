@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 Enabling developer options allow users to perform various debugging tasks, including viewing Logs, taking bug reports, etc. It can be very useful in various scenarios and aids tremendously in troubleshooting issues.

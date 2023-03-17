@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 RHINO devices ship with a locked bootloader by default, as is required by Google for certified Android devices. However, as an enterprise-targeted device, the unlocking of the bootloader which is typically possible on consumer-driven devices is not permitted by default on RHINO devices.

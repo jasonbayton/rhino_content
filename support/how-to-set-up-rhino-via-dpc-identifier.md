@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 DPC Identifier enrolment allows customers to initiate Android Enterprise managed provisioning with no additional external requirements, such as a QR code, NFC tag, or pre-setup with zero-touch. DPC identifier provisioning is simple; at the point where an end user would usually enter their Google account details, a DPC identifier will be entered instead, in the format of `afw#identifername`. After entering the identifier, the device will download the corresponding Device Policy controller application from the Google Play Store. Managed provisioning will then initiate and EMM enrolment will take over shortly after using the enrolment credentials provided by the respective EMM vendor.

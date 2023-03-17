@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 For offline/staging purposes, it is possible to update your RHINO device via the Android Debug Bridge (ADB) using a previously-downloaded OTA file (we provide these under [releases](/security/software-releases)). Updating your RHINO device via ADB is safe and fully supported by the RHINO team, however it is also somewhat technical. For a simpler method, you may prefer to try [updating via SDCard](/support/update-via-sdcard). Happy to continue? Here's how to do it:

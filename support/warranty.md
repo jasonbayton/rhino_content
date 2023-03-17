@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 All RHINO devices benefit from a 12 month limited warranty covering defects in materials and workmanship. The warranty applies from date of purchase and can be claimed against with any valid proof of purchase providing the defective unit is complete, and undamaged.

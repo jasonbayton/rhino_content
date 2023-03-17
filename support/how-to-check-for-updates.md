@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 RHINO devices are updated frequently throughout their software support lifecycle. Oftentimes updates are critical to ensuring your device is secure and up to date, and may equally include vital fixes ensuring smooth, reliable usage of your RHINO device for years to come.

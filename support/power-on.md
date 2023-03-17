@@ -17,7 +17,6 @@ appliesTo:
 - T5se
 - M10p
 - K27p
-- PACE A1
 ---
 
 ## T8/C10

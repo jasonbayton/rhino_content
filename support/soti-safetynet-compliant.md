@@ -17,7 +17,6 @@ appliesTo:
 - C10
 - M10p
 - K27p
-- PACE A1
 ---
 
 When enrolling a RHINO device into SOTI MobiControl, you may encounter the following error:

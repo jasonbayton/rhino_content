@@ -16,7 +16,6 @@ appliesTo:
 - T8
 - M10p
 - K27p
-- PACE A1
 ---
 
 If you're having issues with connectivity, including Wi-Fi, cellular (mobile data) or Bluetooth, you may opt to reset your network settings as an advanced step in troubleshooting the issue. To reset:

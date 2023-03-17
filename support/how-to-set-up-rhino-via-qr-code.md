@@ -17,7 +17,6 @@ appliesTo:
 - K27p
 - M10p
 - T5se
-- PACE A1
 ---
 
 QR code enrolment allows customers to initiate Android Enterprise managed provisioning with just a simple scan of a QR code from the welcome screen. QR code provisioning is simple, and allows for several advanced options to be embedded within, such as Wi-Fi network, system app availability, EMM enrolment credentials, and more. After scanning the QR, the device will download the corresponding Device Policy controller application from the Google Play Store. Managed provisioning will then initiate and EMM enrolment will take over shortly after using the enrolment credentials provided by the respective EMM vendor.
